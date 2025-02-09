@@ -15,7 +15,7 @@ ep_num,ep_name,pub_date,host,contributers,num_acts,last_timestamp,url_suffix
 14,Accidental Documentaries,2017-12-14 10:24:29-08:00,Different Voices,"['Nora Moreno', 'Announcer', 'Different Voices', 'Ira Glass']",3,0 days 00:58:55.130000,14/Accidental-Documentaries
 15,Dawn,2017-12-14 10:24:29-08:00,Different Voices,"['Announcer', 'Jack Hitt', 'Different Voices', 'Ira Glass']",2,0 days 00:58:55.380000,15/Dawn
 16,Economy,2017-12-14 10:24:29-08:00,Ira Glass,"['Tito', 'Ira Glass', 'Lee', 'Lisa Buscani']",3,0 days 00:58:39.790000,16/Economy
-17,Name Change / No Theme,2017-12-14 10:24:29-08:00,Ira Glass,['Ira Glass'],3,0 days 00:58:08.650000,17/Name-Change-/-No-Theme
+17,Name Change / No Theme,2017-12-14 10:24:29-08:00,Ira Glass,['Ira Glass'],3,0 days 00:58:08.650000,17/Name-Change-No-Theme
 18,Liars,2017-12-14 10:24:29-08:00,Ira Glass,"['Margy Rochlin', 'Ira Glass']",2,0 days 00:58:55.010000,18/Liars
 19,Rich Guys,2017-12-14 10:24:29-08:00,Ira Glass,"['Brian Gilmore', 'Michael Lewis', 'Ira Glass']",3,0 days 00:58:44.110000,19/Rich-Guys
 20,From A Distance,2017-12-14 10:24:29-08:00,Different Voices,"['Claudia Perez', 'Ira Glass', 'Quincy Troupe', 'Announcer', 'Different Voices', 'Erika Yeomans']",4,0 days 00:58:55.600000,20/From-A-Distance
@@ -24,7 +24,7 @@ ep_num,ep_name,pub_date,host,contributers,num_acts,last_timestamp,url_suffix
 23,Drama Bug,2017-12-14 10:24:29-08:00,Ira Glass,"['Ira Glass', 'David Sedaris']",3,0 days 00:58:51.070000,23/Drama-Bug
 24,Teenaged Girls,2017-12-14 10:24:29-08:00,Ira Glass,"['Jo Carol Pierce', 'Woman', 'Ira Glass', 'Rennie Sparks']",3,0 days 00:58:53.870000,24/Teenaged-Girls
 25,Basketball,2017-12-14 10:24:29-08:00,Ira Glass,"['Nancy Updike', 'Ira Glass', 'David Isaacson']",5,0 days 00:58:32.420000,25/Basketball
-26,Father's Day '96,2017-12-14 10:24:29-08:00,Ira Glass,"['Sandra Tsing Loh', 'Sherman Alexie', 'Ira Glass', 'Barry Glass', ""Bill O'reilly"", 'Dan Robb']",4,0 days 00:58:34.910000,26/Father's-Day-'96
+26,Father's Day '96,2017-12-14 10:24:29-08:00,Ira Glass,"['Sandra Tsing Loh', 'Sherman Alexie', 'Ira Glass', 'Barry Glass', ""Bill O'reilly"", 'Dan Robb']",4,0 days 00:58:34.910000,26/Fathers-Day-96
 27,The Cruelty of Children,2017-12-14 10:24:29-08:00,Different Voices,"['Ira Sher', 'Announcer', 'Different Voices', 'Ira Glass']",3,0 days 00:58:55.620000,27/The-Cruelty-of-Children
 28,Detectives,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Ira Glass', 'David Sedaris']",2,0 days 00:57:01.960000,28/Detectives
 29,Bob Dole,2017-12-14 10:24:29-08:00,Ira Glass,"['Danny Brennan', 'Michael Lewis', 'Ira Glass']",3,0 days 00:58:47.130000,29/Bob-Dole
@@ -40,7 +40,7 @@ ep_num,ep_name,pub_date,host,contributers,num_acts,last_timestamp,url_suffix
 39,Halloween,2017-12-14 10:24:29-08:00,Ira Glass,"['Julie Showalter', 'Ira Glass']",6,0 days 00:58:31.660000,39/Halloween
 40,Lessons,2017-12-14 10:24:29-08:00,Different Voices,"['Spalding Gray', 'Ira Glass', 'Announcer', 'Different Voices', 'Scott Carrier']",4,0 days 00:58:56.550000,40/Lessons
 41,Politics,2017-12-14 10:24:29-08:00,Ira Glass,"['Michael Lewis', 'Ira Glass']",4,0 days 00:58:50.020000,41/Politics
-42,Get Over It!,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Scott Carrier', 'Ira Glass', 'George Saunders']",3,0 days 00:58:56.810000,42/Get-Over-It!
+42,Get Over It!,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Scott Carrier', 'Ira Glass', 'George Saunders']",3,0 days 00:58:56.810000,42/Get-Over-It
 43,Faustian Bargains,2017-12-14 10:24:29-08:00,Ira Glass,"['Alix Spiegel', 'Carmen Delzell', 'Ira Glass', 'Daniel Pinkwater']",5,0 days 00:58:48.230000,43/Faustian-Bargains
 44,Poultry Slam 1996,2017-12-14 10:24:29-08:00,Ira Glass,"['Julie Showalter', 'Ira Glass', 'David Sedaris']",5,0 days 00:58:49.040000,44/Poultry-Slam-1996
 45,Media Fringe,2017-12-14 10:24:29-08:00,Different Voices,"['Cheryl Trykv', 'Ira Glass', 'Announcer', 'Sarah Vowell', 'Different Voices', 'Scott Carrier']",4,0 days 00:58:57.590000,45/Media-Fringe
@@ -49,9 +49,9 @@ ep_num,ep_name,pub_date,host,contributers,num_acts,last_timestamp,url_suffix
 48,Justice,2017-12-14 10:24:29-08:00,Ira Glass,"['Kitty Felde', 'Scott Carrier', 'Ira Glass']",3,0 days 00:58:45.450000,48/Justice
 49,Animals,2017-12-14 10:24:29-08:00,Different Voices,"['Ira Glass', 'Narrator', 'Announcer', 'Different Voices', 'Judge', 'Scott Carrier', 'Paul Tough']",3,0 days 00:58:55.660000,49/Animals
 50,Shoulda Been Dead,2017-12-14 10:24:29-08:00,Ira Glass,"['Lawrence Steger', 'Cheryl Trykv', 'Announcer', 'Ira Glass']",5,0 days 00:58:54.800000,50/Shoulda-Been-Dead
-51,"Animals Die, People Ponder",2017-12-14 10:24:29-08:00,Ira Glass,"['Ira Glass', 'George Saunders', 'Jay Allison']",4,0 days 00:58:43.780000,"51/Animals-Die,-People-Ponder"
+51,"Animals Die, People Ponder",2017-12-14 10:24:29-08:00,Ira Glass,"['Ira Glass', 'George Saunders', 'Jay Allison']",4,0 days 00:58:43.780000,51/Animals-Die-People-Ponder
 52,Edge of Sanity,2017-12-14 10:24:29-08:00,Ira Glass,"['Susanna Kaysen', 'David Sedaris', 'Joel Lovell', 'Ira Glass', 'Announcer']",4,0 days 00:58:57.200000,52/Edge-of-Sanity
-53,Valentine’s Day ‘97,2017-12-14 10:24:29-08:00,Ira Glass,"['Bia Lowe', 'Ira Glass', 'Dick Buckley', 'Julie Showalter', 'Scott Carrier', 'Brett Leveridge', 'Hilton Als']",5,0 days 00:58:48.560000,53/Valentine’s-Day-‘97
+53,Valentine’s Day ‘97,2017-12-14 10:24:29-08:00,Ira Glass,"['Bia Lowe', 'Ira Glass', 'Dick Buckley', 'Julie Showalter', 'Scott Carrier', 'Brett Leveridge', 'Hilton Als']",5,0 days 00:58:48.560000,53/Valentines-Day-97
 54,Sinatra,2017-12-14 10:24:29-08:00,Ira Glass,"['Camden Joy', 'Rennie Sparks', 'Ira Glass', 'Announcer', 'Sarah Vowell', 'Michael Ventura', 'Gay Talese']",5,0 days 00:58:56.420000,54/Sinatra
 55,Three Women and the Sex Industry,2017-12-14 10:24:29-08:00,Ira Glass,"['Ira Glass', 'Sandy Tolan', 'Joy Gregory']",2,0 days 00:58:48.030000,55/Three-Women-and-the-Sex-Industry
 56,Name Change,2017-12-14 10:24:29-08:00,Ira Glass,"['Dishwasher Pete', 'Margy Rochlin', 'Sarah Vowell', 'Ira Glass']",4,0 days 00:58:43.650000,56/Name-Change
@@ -59,16 +59,16 @@ ep_num,ep_name,pub_date,host,contributers,num_acts,last_timestamp,url_suffix
 58,Small Towns,2017-12-14 10:24:29-08:00,Ira Glass,"['Liz Weil', 'Sarah Vowell', 'Ira Glass']",3,0 days 00:58:34.020000,58/Small-Towns
 59,Fire,2017-12-14 10:24:29-08:00,Ira Glass,"['Nancy Updike', 'Ira Glass', 'Rennie Sparks']",5,0 days 00:58:42.050000,59/Fire
 60,Business of Death,2017-12-14 10:24:29-08:00,Allen Ginsberg,"['Thomas Lynch', 'Allen Ginsberg', 'David Sedaris', 'Meema Spadola', 'Michael Stumm', 'Ira Glass']",5,0 days 00:58:12.480000,60/Business-of-Death
-61,Fiasco! (1997),2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Ira Glass', 'Matt Joseph', 'Jeff Dorchen']",4,0 days 00:58:57.600000,61/Fiasco!-(1997)
+61,Fiasco! (1997),2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Ira Glass', 'Matt Joseph', 'Jeff Dorchen']",4,0 days 00:58:57.600000,61/Fiasco-1997
 62,Something for Nothing,2017-12-14 10:24:29-08:00,Boy,"['Man', 'Sandra Tsing Loh', 'Ira Glass', 'Dirk Jamison', 'Announcer', 'Woman', 'Girl', 'Boy', 'Woman With Microphone']",4,0 days 00:57:57.180000,62/Something-for-Nothing
 63,One Thing,2017-12-14 10:24:29-08:00,Ira Glass,"[""Beau O'reilly"", 'Larry Doyle', 'Ira Glass', 'Paul Tough']",4,0 days 00:58:40.230000,63/One-Thing
 64,Summer,2017-12-14 10:24:29-08:00,Ira Glass,"['Scott Carrier', 'Ira Glass', 'Ron Carlson']",2,0 days 00:58:53.580000,64/Summer
-65,Who's Canadian?,2017-12-14 10:24:29-08:00,Ira Glass,"['Jack Hitt', 'Danny Drennan', 'Ira Glass', 'Announcer', 'Sarah Vowell', 'Paul Tough']",4,0 days 00:58:55.910000,65/Who's-Canadian?
+65,Who's Canadian?,2017-12-14 10:24:29-08:00,Ira Glass,"['Jack Hitt', 'Danny Drennan', 'Ira Glass', 'Announcer', 'Sarah Vowell', 'Paul Tough']",4,0 days 00:58:55.910000,65/Whos-Canadian
 66,Tales from the Net,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Ira Glass', 'David Hauptschein']",1,0 days 00:58:55.660000,66/Tales-from-the-Net
-67,"Your Dream, My Nightmare",2017-12-14 10:24:29-08:00,Ira Glass,"['David Sedaris', 'Ira Glass', 'Sarah Vowell', 'Marvin Tate', 'Jay Allison']",4,0 days 00:58:28.510000,"67/Your-Dream,-My-Nightmare"
-68,Lincoln's Second Inaugural,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Malcolm Gladwell', 'Ira Glass', 'Carolyn Wren Shannon']",4,0 days 00:58:57.350000,68/Lincoln's-Second-Inaugural
+67,"Your Dream, My Nightmare",2017-12-14 10:24:29-08:00,Ira Glass,"['David Sedaris', 'Ira Glass', 'Sarah Vowell', 'Marvin Tate', 'Jay Allison']",4,0 days 00:58:28.510000,67/Your-Dream-My-Nightmare
+68,Lincoln's Second Inaugural,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Malcolm Gladwell', 'Ira Glass', 'Carolyn Wren Shannon']",4,0 days 00:58:57.350000,68/Lincolns-Second-Inaugural
 69,Dream House,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'David Beers', 'Ira Glass', 'Meema Spadola']",2,0 days 00:58:55.920000,69/Dream-House
-70,Other People's Mail,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Sarah Vowell', 'Ira Glass', 'Paul Tough']",4,0 days 00:58:55.910000,70/Other-People's-Mail
+70,Other People's Mail,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Sarah Vowell', 'Ira Glass', 'Paul Tough']",4,0 days 00:58:55.910000,70/Other-Peoples-Mail
 71,Defying Sickness,2017-12-14 10:24:29-08:00,Ira Glass,"['Joel Meyerowitz', 'Frank Melcori', 'Announcer', 'Ira Glass']",3,0 days 00:58:56.230000,71/Defying-Sickness
 72,Trek,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Rich Robinson', 'Josh Seftel', 'Ira Glass']",2,0 days 00:58:56.320000,72/Trek
 73,Blame It on Art,2017-12-14 10:24:29-08:00,Ira Glass,"['David Sedaris', 'Joel Kostman', 'Nancy Updike', 'Ira Glass', 'Announcer', 'Paul Tough']",4,0 days 00:58:55.420000,73/Blame-It-on-Art
@@ -76,7 +76,7 @@ ep_num,ep_name,pub_date,host,contributers,num_acts,last_timestamp,url_suffix
 75,Kindness of Strangers,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Ira Glass', 'Paul Tough', 'Blake Eskin']",4,0 days 00:57:56.450000,75/Kindness-of-Strangers
 76,Mob,2017-12-14 10:24:29-08:00,Ira Glass,"['Susan Berman', 'Ira Glass', 'Alec Wilkinson', 'Announcer', 'Sarah Vowell']",3,0 days 00:58:56.420000,76/Mob
 77,Pray,2017-12-14 10:24:29-08:00,Ira Glass,"['Alix Spiegel', 'Scott Carrier', 'Announcer', 'Ira Glass']",1,0 days 00:58:55.970000,77/Pray
-78,How Bad Is Bad?,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Ira Glass']",5,0 days 00:58:57.170000,78/How-Bad-Is-Bad?
+78,How Bad Is Bad?,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Ira Glass']",5,0 days 00:58:57.170000,78/How-Bad-Is-Bad
 79,Stuck in the Wrong Decade,2017-12-14 10:24:29-08:00,Ira Glass,"['Sarah Miller', 'Ira Glass', 'Jeff Dorchen', 'Stephen Glass', 'Announcer']",4,0 days 00:58:53.900000,79/Stuck-in-the-Wrong-Decade
 80,Running After Antelope,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Scott Carrier', 'Ira Glass']",2,0 days 00:58:55.080000,80/Running-After-Antelope
 81,Guns,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Sarah Vowell', 'Ira Glass', 'Bryn Magnus']",5,0 days 00:57:58.520000,81/Guns
@@ -91,20 +91,20 @@ ep_num,ep_name,pub_date,host,contributers,num_acts,last_timestamp,url_suffix
 90,Telephone,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Sarah Vowell', 'Ira Glass']",3,0 days 00:58:55.550000,90/Telephone
 91,Escape the Box,2017-12-14 10:24:29-08:00,Ira Glass,"['Alex Blumberg', 'Ira Glass', 'Announcer', 'David Cale', 'Rachel Day']",3,0 days 00:58:55.610000,91/Escape-the-Box
 92,Leave the Mask On,2017-12-14 10:24:29-08:00,Ira Glass,"['Margy Rochlin', 'Ira Glass', 'Announcer', 'Rj Smith', 'Dan Savage']",3,0 days 00:58:56.320000,92/Leave-the-Mask-On
-93,Valentine’s Day ’98,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Ira Glass']",3,0 days 00:58:54.950000,93/Valentine’s-Day-’98
+93,Valentine’s Day ’98,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Ira Glass']",3,0 days 00:58:54.950000,93/Valentines-Day-98
 94,How To,2017-12-14 10:24:29-08:00,Ira Glass,"['Junot Diaz', 'Ira Glass', 'Barry Glass', 'Announcer', 'Sarah Vowell', 'Adam Davidson']",3,0 days 00:58:55.710000,94/How-To
 95,Monogamy,2017-12-14 10:24:29-08:00,Ira Glass,"['Ian Brown', 'Announcer', 'Ira Glass', 'Dan Savage']",3,0 days 00:58:56.820000,95/Monogamy
 96,Pinned by History,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Scott Carrier', 'Ira Glass']",2,0 days 00:58:56.080000,96/Pinned-by-History
 97,Death to Wacky,2017-12-14 10:24:29-08:00,Ira Glass,"['Sarah Vowel', 'Ira Glass', 'Male Announcer']",6,0 days 00:58:54.810000,97/Death-to-Wacky
 98,Throwing the First Punch,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Julie Snyder', 'Ira Glass', 'Meema Spadola']",3,0 days 00:58:55.050000,98/Throwing-the-First-Punch
-99,"I Enjoy Being A Girl, Sort Of",2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Ira Glass', 'David Sedaris', 'Sarah Miller']",4,0 days 00:57:06.400000,"99/I-Enjoy-Being-A-Girl,-Sort-Of"
+99,"I Enjoy Being A Girl, Sort Of",2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Ira Glass', 'David Sedaris', 'Sarah Miller']",4,0 days 00:57:06.400000,99/I-Enjoy-Being-A-Girl-Sort-Of
 100,Radio,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Jack Hitt', 'Ira Glass', 'Iggy Scam']",4,0 days 00:58:54.340000,100/Radio
 101,Niagara,2017-12-14 10:24:29-08:00,Ira Glass,"['Alix Spiegel', 'Announcer', 'David Kodeski', 'Ira Glass']",1,0 days 00:58:56.370000,101/Niagara
-102,Road Trip!,2017-12-14 10:24:29-08:00,Ira Glass,"['Cheryl Trykv', 'Ira Glass', 'Announcer', 'Carmen Rivera', 'Dishwasher Pete', 'Margy Rochlin', 'Candido Tirado']",4,0 days 00:58:00.890000,102/Road-Trip!
+102,Road Trip!,2017-12-14 10:24:29-08:00,Ira Glass,"['Cheryl Trykv', 'Ira Glass', 'Announcer', 'Carmen Rivera', 'Dishwasher Pete', 'Margy Rochlin', 'Candido Tirado']",4,0 days 00:58:00.890000,102/Road-Trip
 103,Scenes from A Transplant,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Rebecca Perl', 'Ira Glass']",1,0 days 00:58:57.190000,103/Scenes-from-A-Transplant
 104,Music Lessons,2017-12-14 10:24:29-08:00,Ira Glass,"['David Sedaris', 'Anne Lamott', 'Ira Glass', 'Announcer', 'Sarah Vowell']",3,0 days 00:57:56.970000,104/Music-Lessons
 105,Take A Negro Home,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Rich Robinson', 'Ira Glass']",2,0 days 00:58:56.660000,105/Take-A-Negro-Home
-106,Father’s Day ‘98,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Ira Glass', 'Dan Savage']",4,0 days 00:58:55.750000,106/Father’s-Day-‘98
+106,Father’s Day ‘98,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Ira Glass', 'Dan Savage']",4,0 days 00:58:55.750000,106/Fathers-Day-98
 107,Trail of Tears,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Sarah Vowell', 'Ira Glass']",2,0 days 00:58:54.440000,107/Trail-of-Tears
 108,Truth and Lies at Age Ten,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Ira Glass', 'Dan Gediman']",2,0 days 00:58:54.530000,108/Truth-and-Lies-at-Age-Ten
 109,Notes on Camp,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Julie Snyder', 'Ira Glass']",5,0 days 00:57:29.780000,109/Notes-on-Camp
@@ -115,24 +115,24 @@ ep_num,ep_name,pub_date,host,contributers,num_acts,last_timestamp,url_suffix
 114,Last Words,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Sarah Vowell', 'Ira Glass', 'Tobias Wolff']",6,0 days 00:58:58.520000,114/Last-Words
 115,First Day,2017-12-14 10:24:29-08:00,Ira Glass,"['Alex Blumberg', 'Sandra Tsing Loh', 'Announcer', 'Ira Glass']",4,0 days 00:58:55.150000,115/First-Day
 116,Poultry Slam 1998,2017-12-14 10:24:29-08:00,Ira Glass,"['David Rakoff', 'Announcer', 'Ira Glass']",3,0 days 00:58:56.280000,116/Poultry-Slam-1998
-117,You Gonna Eat That?,2017-12-14 10:24:29-08:00,Ira Glass,"['Dave Eggers', 'Ira Glass', 'Annie Cheney', 'Announcer', 'Peter Sagal']",3,0 days 00:58:53.710000,117/You-Gonna-Eat-That?
-118,What You Lookin’ At?,2017-12-14 10:24:29-08:00,Ira Glass,"['David Rakoff', 'Announcer', 'Sarah Vowell', 'Ira Glass']",3,0 days 00:58:55.700000,118/What-You-Lookin’-At?
+117,You Gonna Eat That?,2017-12-14 10:24:29-08:00,Ira Glass,"['Dave Eggers', 'Ira Glass', 'Annie Cheney', 'Announcer', 'Peter Sagal']",3,0 days 00:58:53.710000,117/You-Gonna-Eat-That
+118,What You Lookin’ At?,2017-12-14 10:24:29-08:00,Ira Glass,"['David Rakoff', 'Announcer', 'Sarah Vowell', 'Ira Glass']",3,0 days 00:58:55.700000,118/What-You-Lookin-At
 119,Lockup,2017-12-14 10:24:29-08:00,Ira Glass,"['Breyten Breytenbach', 'Rick Reynolds', 'Larry Distasi', 'Ira Glass', 'Announcer', 'Amanda Coyne']",5,0 days 00:58:56.650000,119/Lockup
 120,Be Careful Who You Pretend to Be,2017-12-14 10:24:29-08:00,Ira Glass,"['Alix Spiegel', 'Jack Hitt', 'Announcer', 'Ira Glass']",3,0 days 00:58:56.190000,120/Be-Careful-Who-You-Pretend-to-Be
 121,Twentieth Century Man,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Ira Glass', 'Gillian Aldrich']",2,0 days 00:58:55.600000,121/Twentieth-Century-Man
-122,Valentine’s Day ’99,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Ira Glass']",3,0 days 00:58:55.920000,122/Valentine’s-Day-’99
+122,Valentine’s Day ’99,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Ira Glass']",3,0 days 00:58:55.920000,122/Valentines-Day-99
 123,High Cost of Living,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Jack Hitt', 'Ira Glass', 'Dani Shapiro']",3,0 days 00:58:55.750000,123/High-Cost-of-Living
 124,Welcome to America,2017-12-14 10:24:29-08:00,Ira Glass,"['David Rakoff', 'Announcer', 'Ira Glass']",2,0 days 00:58:55.120000,124/Welcome-to-America
 125,Apocalypse,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Sarah Vowell', 'Ira Glass']",4,0 days 00:58:55.460000,125/Apocalypse
-126,Do,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Ira Glass']",2,0 days 00:58:55.250000,126/Do
+126,Do-gooders,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Ira Glass']",2,0 days 00:58:55.250000,126/Do-gooders
 127,Pimp Anthropology,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Tamar Brott', 'Ira Glass']",2,0 days 00:58:56.150000,127/Pimp-Anthropology
 128,Four Corners,2017-12-14 10:24:29-08:00,Ira Glass,"['Achy Obejas', 'Ira Glass', 'Announcer', 'Sarah Vowell', 'Mike Paterniti']",4,0 days 00:58:54.630000,128/Four-Corners
 129,Advice,2017-12-14 10:24:29-08:00,Ira Glass,"['Cheryl Trykv', 'Ira Glass', 'Announcer', 'Sarah Vowell', 'Dan Savage']",3,0 days 00:58:55.640000,129/Advice
 130,Away From Home,2017-12-14 10:24:29-08:00,Ira Glass,"['Jose William Huezo Soriano', 'Announcer', 'Ira Glass']",2,0 days 00:58:53.270000,130/Away-From-Home
 131,The Kids Are Alright,2017-12-14 10:24:29-08:00,Ira Glass,"[""Ed Dixon In Josef Skvorecky's Voice"", 'Ira Glass', 'Paul Bravmann', 'Announcer', 'Hillary Frank']",4,0 days 00:58:55.930000,131/The-Kids-Are-Alright
-132,Father’s Day ‘99,2017-12-14 10:24:29-08:00,Ira Glass,"['Joel Meyerowitz', 'Announcer', 'Ira Glass']",3,0 days 00:58:58.910000,132/Father’s-Day-‘99
+132,Father’s Day ‘99,2017-12-14 10:24:29-08:00,Ira Glass,"['Joel Meyerowitz', 'Announcer', 'Ira Glass']",3,0 days 00:58:58.910000,132/Fathers-Day-99
 133,Sales,2017-12-14 10:24:29-08:00,Ira Glass,"['Sandra Tsing Loh', 'Ira Glass', 'Danny Hoch', 'Announcer', 'Dan Collison']",4,0 days 00:58:55.250000,133/Sales
-134,We Didn’t,2017-12-14 10:24:29-08:00,Ira Glass,"['Danny Hoch', 'Announcer', 'Ira Glass', 'Geoff Dyer']",4,0 days 00:58:56.140000,134/We-Didn’t
+134,We Didn’t,2017-12-14 10:24:29-08:00,Ira Glass,"['Danny Hoch', 'Announcer', 'Ira Glass', 'Geoff Dyer']",4,0 days 00:58:56.140000,134/We-Didnt
 135,Allure of Crime,2017-12-14 10:24:29-08:00,Ira Glass,"['Marilyn Snell', 'Announcer', 'Ira Glass', 'Matt Malloy']",3,0 days 00:58:56.900000,135/Allure-of-Crime
 136,You Are Here,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Ira Glass', 'David Sedaris', 'Nicole Graev']",3,0 days 00:58:55.220000,136/You-Are-Here
 137,The Book That Changed Your Life,2017-12-14 10:24:29-08:00,Ira Glass,"['Jeremy Goldstein', 'David Sedaris', 'Ira Glass', 'Announcer', 'Meghan Daum']",4,0 days 00:58:57.320000,137/The-Book-That-Changed-Your-Life
@@ -145,7 +145,7 @@ ep_num,ep_name,pub_date,host,contributers,num_acts,last_timestamp,url_suffix
 144,Where Words Fail,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Julie Snyder', 'Ira Glass']",3,0 days 00:58:55.730000,144/Where-Words-Fail
 145,Poultry Slam 1999,2017-12-14 10:24:29-08:00,Ira Glass,"['Mark Schone', 'Announcer', 'Jack Hitt', 'Ira Glass']",4,0 days 00:58:54.950000,145/Poultry-Slam-1999
 146,Urban Nature,2017-12-14 10:24:29-08:00,Ira Glass,"['Iggy Scam', 'Ira Glass', 'David Rakoff', 'Announcer', 'Scott Carrier']",5,0 days 00:58:55.350000,146/Urban-Nature
-147,A Teenager's Guide to God,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Ira Glass']",7,0 days 00:58:56.560000,147/A-Teenager's-Guide-to-God
+147,A Teenager's Guide to God,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Ira Glass']",7,0 days 00:58:56.560000,147/A-Teenagers-Guide-to-God
 148,The Angels Wanna Wear My Red Suit,2017-12-14 10:24:29-08:00,Ira Glass,"['David Sedaris', 'Riz Rollins', 'Ira Glass', 'Announcer', 'Sarah Vowell', 'Mike Paterniti']",5,0 days 00:58:55.840000,148/The-Angels-Wanna-Wear-My-Red-Suit
 149,Bedside Diplomacy,2017-12-14 10:24:29-08:00,Ira Glass,"['Nancy Updike', 'Terry Shine', 'Ira Glass', 'Announcer', 'Wendy Dorr', 'Brent Runyon']",4,0 days 00:58:55.150000,149/Bedside-Diplomacy
 150,Kids As Adults,2017-12-14 10:24:29-08:00,Ira Glass,"['Mike Paterniti', 'Announcer', 'Hillary Frank', 'Ira Glass']",4,0 days 00:58:56.030000,150/Kids-As-Adults
@@ -153,18 +153,18 @@ ep_num,ep_name,pub_date,host,contributers,num_acts,last_timestamp,url_suffix
 152,Crush,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Tobias Wolff', 'Ira Glass', 'Matt Malloy']",3,0 days 00:58:56.540000,152/Crush
 153,Dolls,2017-12-14 10:24:29-08:00,Ira Glass,"['Ira Glass', 'Vivian Paley', 'Announcer', 'Susan Burton', 'Jean Nathan']",3,0 days 00:58:55.170000,153/Dolls
 154,In Dog We Trust,2017-12-14 10:24:29-08:00,Ira Glass,"['Brady Udall', 'Announcer', 'Ira Glass', 'David Sedaris']",3,0 days 00:58:54.830000,154/In-Dog-We-Trust
-155,Hoaxing Yourself (2000),2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Nancy Updike', 'Ira Glass']",3,0 days 00:57:42.620000,155/Hoaxing-Yourself-(2000)
+155,Hoaxing Yourself (2000),2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Nancy Updike', 'Ira Glass']",3,0 days 00:57:42.620000,155/Hoaxing-Yourself-2000
 156,What Remains,2017-12-14 10:24:29-08:00,Ira Glass,"['Keith Gessen', 'Ira Glass', 'David Rakoff', 'Announcer', 'Julie Snyder']",3,0 days 00:58:55.940000,156/What-Remains
 157,Secret Life of Daytime,2017-12-14 10:24:29-08:00,Ira Glass,"['Alex Blumberg', 'Mona Simpson', 'Ira Glass', 'Announcer', 'George Gurley', 'Meghan Daum']",5,0 days 00:58:55.790000,157/Secret-Life-of-Daytime
 158,Mob Mentality,2017-12-14 10:24:29-08:00,Ira Glass,"['Alix Spiegel', 'Ira Glass', 'Karen Bernstein', 'Bill Buford', 'Announcer']",3,0 days 00:58:56.900000,158/Mob-Mentality
-159,Mother’s Day,2017-12-14 10:24:29-08:00,Ira Glass,"['Alex Blumberg', 'Announcer', 'Ira Glass', 'Alex Kotlowitz']",2,0 days 00:58:55.870000,159/Mother’s-Day
+159,Mother’s Day,2017-12-14 10:24:29-08:00,Ira Glass,"['Alex Blumberg', 'Announcer', 'Ira Glass', 'Alex Kotlowitz']",2,0 days 00:58:55.870000,159/Mothers-Day
 160,Character Assassination,2017-12-14 10:24:29-08:00,Ira Glass,"['David Foster Wallace', 'Announcer', 'Ira Glass', 'Bob Cucuzza']",5,0 days 00:58:54.820000,160/Character-Assassination
 161,Million Bubbles,2017-12-14 10:24:29-08:00,Ira Glass,"['Ernest Castle', 'David Sedaris', 'Nick Hornby', 'Ira Glass', 'Announcer']",7,0 days 00:58:56.100000,161/Million-Bubbles
 162,Moving,2017-12-14 10:24:29-08:00,Ira Glass,"['Blue Chevigny', 'Sarah Koenig', 'Ira Glass', 'Announcer', 'Susan Burton']",3,0 days 00:58:55.350000,162/Moving
-163,Can You Fight City Hall…If You Are City Hall?,2017-12-14 10:24:29-08:00,Ira Glass,"['Alix Spiegel', 'Announcer', 'Ira Glass']",2,0 days 00:58:54.910000,163/Can-You-Fight-City-Hall…If-You-Are-City-Hall?
-164,Crime Scene (2000),2017-12-14 10:24:29-08:00,Ira Glass,"['Matt Malloy', 'Nancy Updike', 'Ira Glass', 'Katie Davis']",4,0 days 00:57:53.940000,164/Crime-Scene-(2000)
+163,Can You Fight City Hall…If You Are City Hall?,2017-12-14 10:24:29-08:00,Ira Glass,"['Alix Spiegel', 'Announcer', 'Ira Glass']",2,0 days 00:58:54.910000,163/Can-You-Fight-City-HallIf-You-Are-City-Hall
+164,Crime Scene (2000),2017-12-14 10:24:29-08:00,Ira Glass,"['Matt Malloy', 'Nancy Updike', 'Ira Glass', 'Katie Davis']",4,0 days 00:57:53.940000,164/Crime-Scene-2000
 165,Americans in Paris,2017-12-14 10:24:29-08:00,Ira Glass,['Ira Glass'],3,0 days 00:57:27.300000,165/Americans-in-Paris
-166,Nobody's Family Is Going to Change,2017-12-14 10:24:29-08:00,Ira Glass,"['Marc Pimsleur', 'Ira Glass', 'Announcer', 'Julia Pimsleur', 'Hillary Frank']",3,0 days 00:58:55.030000,166/Nobody's-Family-Is-Going-to-Change
+166,Nobody's Family Is Going to Change,2017-12-14 10:24:29-08:00,Ira Glass,"['Marc Pimsleur', 'Ira Glass', 'Announcer', 'Julia Pimsleur', 'Hillary Frank']",3,0 days 00:58:55.030000,166/Nobodys-Family-Is-Going-to-Change
 167,Memo to the People of the Future,2017-12-14 10:24:29-08:00,Ira Glass,"['Ira Glass', 'Announcer', 'Sarah Vowell', 'Susan Burton', 'Mike Paterniti']",3,0 days 00:58:56.230000,167/Memo-to-the-People-of-the-Future
 168,The Fix Is In,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Ira Glass']",2,0 days 00:57:56.570000,168/The-Fix-Is-In
 169,Pursuit of Happiness,2017-12-14 10:24:29-08:00,Ira Glass,"['Thomas Beller', 'Nancy Updike', 'Ira Glass', 'David Rakoff', 'Announcer', 'Julie Snyder']",3,0 days 00:58:54.520000,169/Pursuit-of-Happiness
@@ -172,9 +172,9 @@ ep_num,ep_name,pub_date,host,contributers,num_acts,last_timestamp,url_suffix
 171,Election,2017-12-14 10:24:29-08:00,Ira Glass,"['Alex Blumberg', 'Jack Hitt', 'Ira Glass', 'Announcer', 'Adam Davidson']",3,0 days 00:58:55.280000,171/Election
 172,24 Hours at the Golden Apple,2017-12-14 10:24:29-08:00,Ira Glass,"['Nancy Updike', 'Ira Glass', 'Susan Burton']",1,0 days 00:55:27.810000,172/24-Hours-at-the-Golden-Apple
 173,Three Kinds of Deception,2017-12-14 10:24:29-08:00,Ira Glass,"['Alex Blumberg', 'Announcer', 'Ira Glass']",2,0 days 00:58:54.090000,173/Three-Kinds-of-Deception
-174,"Birthdays, Anniversaries, and Milestones",2017-12-14 10:24:29-08:00,Ira Glass,"['Ira Glass', 'Announcer', 'Sarah Vowell', 'Terry Gross', 'Russell Banks']",4,0 days 00:58:56.140000,"174/Birthdays,-Anniversaries,-and-Milestones"
+174,"Birthdays, Anniversaries, and Milestones",2017-12-14 10:24:29-08:00,Ira Glass,"['Ira Glass', 'Announcer', 'Sarah Vowell', 'Terry Gross', 'Russell Banks']",4,0 days 00:58:56.140000,174/Birthdays-Anniversaries-and-Milestones
 175,Babysitting,2017-12-14 10:24:29-08:00,Ira Glass,"['Hillary Frank', 'Ira Glass', 'Susan Burton']",2,0 days 00:59:58.740000,175/Babysitting
-176,"Two Nations, One President",2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Ira Glass', 'David Brock']",4,0 days 00:58:54.270000,"176/Two-Nations,-One-President"
+176,"Two Nations, One President",2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Ira Glass', 'David Brock']",4,0 days 00:58:54.270000,176/Two-Nations-One-President
 177,American Limbo,2017-12-14 10:24:29-08:00,Ira Glass,"['Adam Gopnik', 'Alex Blumberg', 'Announcer', 'Ira Glass']",3,0 days 00:58:56.700000,177/American-Limbo
 178,Superpowers,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Kelly Mcevers', 'John Hodgman', 'Ira Glass']",4,0 days 00:57:28.010000,178/Superpowers
 179,Cicero,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Ira Glass', 'Alex Kotlowitz']",4,0 days 00:58:55.010000,179/Cicero
@@ -185,9 +185,9 @@ ep_num,ep_name,pub_date,host,contributers,num_acts,last_timestamp,url_suffix
 184,Neighbors,2017-12-14 10:24:29-08:00,Ira Glass,"['Davy Rothbart', 'Ira Glass', 'Announcer', 'Cheryl Wagner', 'Katie Davis']",3,0 days 00:58:56.690000,184/Neighbors
 185,Golden Calf,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Iggy Scam', 'Ira Glass', 'Ann Hepperman']",3,0 days 00:58:55.520000,185/Golden-Calf
 186,Prom,2017-12-14 10:24:29-08:00,Ira Glass,"['Wendy Dorr', 'Announcer', 'Ira Glass', 'Susan Burton']",4,0 days 00:58:55.460000,186/Prom
-187,Father's Day '01,2017-12-14 10:24:29-08:00,Ira Glass,"['Ian Brown', 'Nick Flynn', 'Announcer', 'Ira Glass']",3,0 days 00:58:53.970000,187/Father's-Day-'01
-188,Kid Logic (2001),2017-12-14 11:21:30-08:00,Ira Glass,"['Jack Hitt', 'Howie Chackowicz', 'Ira Glass', 'Michael Chabon', 'Julie Hill', 'Woman', 'Eileen Goldman']",3,0 days 00:55:16.020000,188/Kid-Logic-(2001)
-189,Hitler’s Yacht,2017-12-14 10:24:29-08:00,Ira Glass,"['Alix Spiegel', 'Announcer', 'Ira Glass']",1,0 days 00:58:56.680000,189/Hitler’s-Yacht
+187,Father's Day '01,2017-12-14 10:24:29-08:00,Ira Glass,"['Ian Brown', 'Nick Flynn', 'Announcer', 'Ira Glass']",3,0 days 00:58:53.970000,187/Fathers-Day-01
+188,Kid Logic (2001),2017-12-14 11:21:30-08:00,Ira Glass,"['Jack Hitt', 'Howie Chackowicz', 'Ira Glass', 'Michael Chabon', 'Julie Hill', 'Woman', 'Eileen Goldman']",3,0 days 00:55:16.020000,188/Kid-Logic-2001
+189,Hitler’s Yacht,2017-12-14 10:24:29-08:00,Ira Glass,"['Alix Spiegel', 'Announcer', 'Ira Glass']",1,0 days 00:58:56.680000,189/Hitlers-Yacht
 190,Living the Dream,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'John Hodgman', 'Ira Glass', 'Cris Beam']",3,0 days 00:58:55.610000,190/Living-the-Dream
 191,I Know What You Did This Summer,2017-12-14 10:24:29-08:00,Ira Glass,"['Jonathan Goldstein', 'Ira Glass', 'Announcer', 'Sarah Vowell', 'Scott Carrier']",3,0 days 00:58:54.650000,191/I-Know-What-You-Did-This-Summer
 192,Meet the Pros,2017-12-14 10:24:29-08:00,Ira Glass,"['David Rakoff', 'Announcer', 'Ira Glass', 'Joel Lovell']",3,0 days 00:58:55.540000,192/Meet-the-Pros
@@ -207,7 +207,7 @@ ep_num,ep_name,pub_date,host,contributers,num_acts,last_timestamp,url_suffix
 206,Somewhere in the Arabian Sea,2017-12-14 10:24:29-08:00,Ira Glass,"['Wendy Dorr', 'Alex Blumberg', 'Announcer', 'Ira Glass']",0,0 days 00:58:56.160000,206/Somewhere-in-the-Arabian-Sea
 207,Special Ed,2017-12-14 10:24:29-08:00,Ira Glass,"['Veronica Chater', 'Announcer', ""Sam's Mother"", 'Ira Glass']",2,0 days 00:58:54.830000,207/Special-Ed
 208,Office Politics,2017-12-14 10:24:29-08:00,Ira Glass,"['Starlee Kine', 'Ira Glass', 'David Rakoff', 'Announcer', 'Julie Snyder']",3,0 days 00:58:55.440000,208/Office-Politics
-209,Didn’t Ask to Be Born,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Ira Glass']",2,0 days 00:57:57.860000,209/Didn’t-Ask-to-Be-Born
+209,Didn’t Ask to Be Born,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Ira Glass']",2,0 days 00:57:57.860000,209/Didnt-Ask-to-Be-Born
 210,Perfect Evidence,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Shane Dubow', 'Ira Glass']",2,0 days 00:57:58,210/Perfect-Evidence
 211,Naming Names,2017-12-14 10:24:29-08:00,Ira Glass,"['Jon Ronson', 'Ira Glass', 'Susan Drury', 'Announcer', 'Richard Henzel']",3,0 days 00:58:55.310000,211/Naming-Names
 212,The Other Man,2017-12-14 10:24:29-08:00,Ira Glass,"['Davy Rothbart', 'Jonathan Goldstein', ""Heather O'neill"", 'Ira Glass', 'Announcer']",2,0 days 00:58:54.650000,212/The-Other-Man
@@ -219,14 +219,14 @@ ep_num,ep_name,pub_date,host,contributers,num_acts,last_timestamp,url_suffix
 218,Act V,2017-12-14 10:24:29-08:00,Ira Glass,"['Jack Hitt', 'Ira Glass']",2,0 days 00:58:23.980000,218/Act-V
 219,High Speed Chase,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Ira Glass', 'Susan Burton']",2,0 days 00:58:54.050000,219/High-Speed-Chase
 220,Testosterone,2017-12-14 11:21:30-08:00,Ira Glass,"['Miriam Toews', 'Ira Glass']",4,0 days 00:57:58.280000,220/Testosterone
-221,Fake I.D.,2017-12-14 10:24:29-08:00,Ira Glass,"['Mira Nair', 'Announcer', 'Ira Glass', 'David Sedaris']",3,0 days 00:58:56.070000,221/Fake-I.D.
+221,Fake I.D.,2017-12-14 10:24:29-08:00,Ira Glass,"['Mira Nair', 'Announcer', 'Ira Glass', 'David Sedaris']",3,0 days 00:58:56.070000,221/Fake-ID
 222,Suckers,2017-12-14 10:24:29-08:00,Ira Glass,"['Alex Blumberg', ""Heather O'neill"", 'Ira Glass', 'Announcer', 'Jen', 'Adam Davidson']",4,0 days 00:58:56.180000,222/Suckers
 223,Classifieds,2017-12-14 10:24:29-08:00,Ira Glass,"['Starlee Kine', 'Ira Glass', 'Announcer', 'Todd Bachmann', 'Jay Allison']",5,0 days 00:58:01.260000,223/Classifieds
 224,Middlemen,2017-12-14 10:24:29-08:00,Ira Glass,"['Wendy Dorr', 'Announcer', 'Ira Glass']",3,0 days 00:58:56.040000,224/Middlemen
 225,Home Movies,2017-12-14 10:24:29-08:00,Ira Glass,"['David Sedaris', 'Jonathan Goldstein', 'Ira Glass', 'Announcer', 'Susan Burton']",5,0 days 00:57:34.570000,225/Home-Movies
 226,Reruns,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Sarah Vowell', 'Ira Glass', 'Starlee Kine']",3,0 days 00:58:56.960000,226/Reruns
 227,Why We Fight,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Ira Glass', 'Britt Honeycutt', 'Adam Davidson']",4,0 days 00:58:55.750000,227/Why-We-Fight
-228,You Are So Beautiful…To Me,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Ira Glass', 'Russell Banks']",2,0 days 00:58:56.290000,228/You-Are-So-Beautiful…To-Me
+228,You Are So Beautiful…To Me,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Ira Glass', 'Russell Banks']",2,0 days 00:58:56.290000,228/You-Are-So-BeautifulTo-Me
 229,Secret Government,2017-12-14 10:24:29-08:00,Ira Glass,"['Jack Hitt', 'Blue Chevigny', 'David Kestenbaum', 'Ira Glass', 'Announcer']",3,0 days 00:58:55.450000,229/Secret-Government
 230,Come Back to Afghanistan,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Hyder Akbar', 'Ira Glass', 'Susan Burton']",2,0 days 00:58:55.470000,230/Come-Back-to-Afghanistan
 231,Time to Save the World,2017-12-14 10:24:29-08:00,Ira Glass,"['Starlee Kine', 'Ira Glass', 'Susan Drury', 'Announcer', 'Jessica Riddle']",4,0 days 00:58:55.570000,231/Time-to-Save-the-World
@@ -238,33 +238,33 @@ ep_num,ep_name,pub_date,host,contributers,num_acts,last_timestamp,url_suffix
 237,Regime Change,2017-12-14 10:24:29-08:00,Ira Glass,"['Sarah Koenig', 'Announcer', 'Katie Davis', 'Ira Glass']",3,0 days 00:58:55.780000,237/Regime-Change
 238,Lost in Translation,2017-12-14 10:24:29-08:00,Ira Glass,"['Jonathan Goldstein', 'Nancy Updike', 'Ira Glass', 'Jesse Hardman', 'Announcer']",3,0 days 00:58:55.680000,238/Lost-in-Translation
 239,Lost in America,2017-12-14 10:24:29-08:00,Ira Glass,"['Davy Rothbart', 'Jonathan Goldstein', 'Ira Glass', 'Announcer', 'Sarah Vowell']",3,0 days 00:58:55.180000,239/Lost-in-America
-240,I’m In Charge Now,2017-12-14 10:24:29-08:00,Ira Glass,"['David Sedaris', 'Katy Vine', 'Ira Glass', 'Announcer', 'Adam Davidson']",3,0 days 00:58:56.920000,240/I’m-In-Charge-Now
+240,I’m In Charge Now,2017-12-14 10:24:29-08:00,Ira Glass,"['David Sedaris', 'Katy Vine', 'Ira Glass', 'Announcer', 'Adam Davidson']",3,0 days 00:58:56.920000,240/Im-In-Charge-Now
 241,20 Acts in 60 Minutes,2017-12-14 10:24:29-08:00,Ira Glass,"['Greg Allen', 'David Lipsky', 'David Sedaris', 'Jonathan Goldstein', 'Ira Glass', 'Susan Drury', 'Heather Riordan', 'Jordana Gustafson', 'Scott Carrier', 'Chuck Klosterman', 'Kid 1', 'Joey']",19,0 days 00:57:17.480000,241/20-Acts-in-60-Minutes
 242,Enemy Camp,2017-12-14 10:24:29-08:00,Ira Glass,"['Carl Marziali', 'Blue Chevigny', 'Ira Glass', 'Announcer', 'Matt Malloy']",3,0 days 00:58:55.330000,242/Enemy-Camp
 243,Later That Same Day,2017-12-14 10:24:29-08:00,Ira Glass,"['John Hodgman', 'Ira Glass', 'Kim Meyer', 'Announcer', 'Scott Carrier']",2,0 days 00:58:55.220000,243/Later-That-Same-Day
 244,MacGyver,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Felix Solis', 'Ira Glass', 'Susan Burton']",4,0 days 00:58:56.010000,244/MacGyver
 245,Allure of the Mean Friend,2017-12-14 10:24:29-08:00,Ira Glass,"['Mike Albo', 'Jonathan Goldstein', 'Josh Hamilton', 'Ira Glass', 'Announcer']",4,0 days 00:58:54.370000,245/Allure-of-the-Mean-Friend
 246,My Pen Pal,2017-12-14 10:24:29-08:00,Ira Glass,"['Andrea Morningstar', 'Ira Glass']",2,0 days 00:57:05.550000,246/My-Pen-Pal
-247,What Is This Thing?,2017-12-14 10:24:29-08:00,Ira Glass,"['Ira Glass', 'Robin Epstein', 'Announcer', 'Sarah Vowell', 'Griffin Hansbury']",3,0 days 00:58:56.170000,247/What-Is-This-Thing?
+247,What Is This Thing?,2017-12-14 10:24:29-08:00,Ira Glass,"['Ira Glass', 'Robin Epstein', 'Announcer', 'Sarah Vowell', 'Griffin Hansbury']",3,0 days 00:58:56.170000,247/What-Is-This-Thing
 248,Like It or Not,2017-12-14 10:24:29-08:00,David Rakoff,"['Starlee Kine', 'Sheila Peabody', 'Ira Glass', 'Curtis Sittenfeld', 'David Rakoff', 'Announcer']",4,0 days 00:58:56.370000,248/Like-It-or-Not
 249,Garbage,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Ira Glass', 'Luis Urrea']",3,0 days 00:58:55.720000,249/Garbage
-250,The Annoying Gap Between Theory...and Practice,2017-12-14 10:24:29-08:00,Ira Glass,"['Alex Blumberg', 'Jack Hitt', 'Lisa Colonzeas', 'Ira Glass', 'Announcer']",3,0 days 00:58:56.630000,250/The-Annoying-Gap-Between-Theory...and-Practice
-251,Brother’s Keeper,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Nancy Updike', 'Ira Glass', 'Jonathan Goldstein']",3,0 days 00:58:56.720000,251/Brother’s-Keeper
+250,The Annoying Gap Between Theory...and Practice,2017-12-14 10:24:29-08:00,Ira Glass,"['Alex Blumberg', 'Jack Hitt', 'Lisa Colonzeas', 'Ira Glass', 'Announcer']",3,0 days 00:58:56.630000,250/The-Annoying-Gap-Between-Theoryand-Practice
+251,Brother’s Keeper,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Nancy Updike', 'Ira Glass', 'Jonathan Goldstein']",3,0 days 00:58:56.720000,251/Brothers-Keeper
 252,Poultry Slam 2003,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Jack Hitt', 'Chickenman Show Announcer', 'Ira Glass']",4,0 days 00:58:55.440000,252/Poultry-Slam-2003
 253,The Middle of Nowhere,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Jack Hitt', 'Ira Glass']",2,0 days 00:58:55.480000,253/The-Middle-of-Nowhere
-254,"Teenage Embed, Part Two",2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Hyder Akbar', 'Ira Glass']",2,0 days 00:58:54.410000,"254/Teenage-Embed,-Part-Two"
-255,Our Holiday Gift,2017-12-14 10:24:29-08:00,Ira Glass,"['Ira Glass', 'Caitlin Shetterly', 'Announcer', 'Ian Brown', 'Truman Capote']",2,0 days 00:58:54.100000,255/Our-Holiday-Gift
-256,Living Without (2004),2017-12-14 10:24:29-08:00,Ira Glass,"['Ira Glass', 'Announcer', 'Sarah Vowell', 'Matt Malloy', 'Chelsea Merz', 'Nubar Alexanian']",4,0 days 00:58:55.060000,256/Living-Without-(2004)
-257,What I Should’ve Said,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Ira Glass', 'David Sedaris', 'Jonathan Goldstein']",4,0 days 00:58:54,257/What-I-Should’ve-Said
+254,"Teenage Embed, Part Two",2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Hyder Akbar', 'Ira Glass']",2,0 days 00:58:54.410000,254/Teenage-Embed-Part-Two
+255,Our Holiday Gift-Giving Guide,2017-12-14 10:24:29-08:00,Ira Glass,"['Ira Glass', 'Caitlin Shetterly', 'Announcer', 'Ian Brown', 'Truman Capote']",2,0 days 00:58:54.100000,255/Our-Holiday-Gift-Giving-Guide
+256,Living Without (2004),2017-12-14 10:24:29-08:00,Ira Glass,"['Ira Glass', 'Announcer', 'Sarah Vowell', 'Matt Malloy', 'Chelsea Merz', 'Nubar Alexanian']",4,0 days 00:58:55.060000,256/Living-Without-2004
+257,What I Should’ve Said,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Ira Glass', 'David Sedaris', 'Jonathan Goldstein']",4,0 days 00:58:54,257/What-I-Shouldve-Said
 258,Leaving the Fold,2017-12-14 10:24:29-08:00,Ira Glass,"['Alex Blumberg', 'Jerry Springer', 'Ira Glass', 'Susan Drury', 'Announcer']",3,0 days 00:58:52.940000,258/Leaving-the-Fold
 259,Promised Land,2017-12-14 10:24:29-08:00,Ira Glass,"['David Rakoff', 'Hillary Frank', 'Ira Glass', 'Starlee Kine']",3,0 days 00:58:55.940000,259/Promised-Land
-260,The Facts Don’t Matter,2017-12-14 10:24:29-08:00,Ira Glass,"['Sarah Koenig', 'Ira Glass', 'Renee Montagne', 'Howard Stern', 'Chris Neary', 'Aileen', 'Announcer']",2,0 days 01:00:10.820000,260/The-Facts-Don’t-Matter
+260,The Facts Don’t Matter,2017-12-14 10:24:29-08:00,Ira Glass,"['Sarah Koenig', 'Ira Glass', 'Renee Montagne', 'Howard Stern', 'Chris Neary', 'Aileen', 'Announcer']",2,0 days 01:00:10.820000,260/The-Facts-Dont-Matter
 261,The Sanctity of Marriage,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Adam Felber', 'Ira Glass', 'Starlee Kine']",3,0 days 00:58:56.200000,261/The-Sanctity-of-Marriage
 262,Miracle Cures,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Ira Glass']",2,0 days 00:58:55.460000,262/Miracle-Cures
 263,Desperate Measures,2017-12-14 10:24:29-08:00,Ira Glass,"['Sarah Koenig', 'Announcer', 'Hillary Frank', 'Ira Glass']",4,0 days 00:58:55.770000,263/Desperate-Measures
 264,Special Treatment,2017-12-14 10:24:29-08:00,Ira Glass,"['Gregory Warner', 'Ira Glass', 'Jonathan Goldstein']",4,0 days 00:58:55.950000,264/Special-Treatment
 265,Fake Science,2017-12-14 10:24:29-08:00,Ira Glass,"['Alex Blumberg', 'Adam Sternbergh', 'Ira Glass', 'Announcer', 'Jake Warga', 'Brent Runyon']",4,0 days 00:58:55.390000,265/Fake-Science
-266,I'm From the Private Sector and I'm Here to Help,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Nancy Updike', 'Ira Glass']",7,0 days 00:58:54.180000,266/I'm-From-the-Private-Sector-and-I'm-Here-to-Help
+266,I'm From the Private Sector and I'm Here to Help,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Nancy Updike', 'Ira Glass']",7,0 days 00:58:54.180000,266/Im-From-the-Private-Sector-and-Im-Here-to-Help
 267,Propriety,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Ken Kurson', 'Ira Glass', 'Claire Beckmann']",3,0 days 00:58:54.730000,267/Propriety
 268,My Experimental Phase,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'David Segal', 'Ira Glass']",2,0 days 00:58:55.860000,268/My-Experimental-Phase
 269,Someone to Watch Over Me,2017-12-14 10:24:29-08:00,Ira Glass,"['Veronica Chater', 'Ira Glass', 'Announcer', 'Jo Giese', 'Aimee Bender']",3,0 days 00:58:56.530000,269/Someone-to-Watch-Over-Me
@@ -272,7 +272,7 @@ ep_num,ep_name,pub_date,host,contributers,num_acts,last_timestamp,url_suffix
 271,Best Interests,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Ira Glass', 'Alex Kotlowitz']",2,0 days 00:58:55.490000,271/Best-Interests
 272,Big Tent,2017-12-14 10:24:29-08:00,Ira Glass,"['Alex Blumberg', 'Shane Dubow', 'Announcer', 'Ira Glass']",4,0 days 00:58:55.980000,272/Big-Tent
 273,Put Your Heart In It,2017-12-14 10:24:29-08:00,Ira Glass,"['Brett Martin', 'Announcer', 'Ira Glass', 'Sam Brooks']",3,0 days 00:58:56.940000,273/Put-Your-Heart-In-It
-274,Enemy Camp ‘04,2017-12-14 10:24:29-08:00,Ira Glass,"['Carl Marziali', 'Announcer', 'Ira Glass', 'Matt Malloy']",3,0 days 00:58:55.400000,274/Enemy-Camp-‘04
+274,Enemy Camp ‘04,2017-12-14 10:24:29-08:00,Ira Glass,"['Carl Marziali', 'Announcer', 'Ira Glass', 'Matt Malloy']",3,0 days 00:58:55.400000,274/Enemy-Camp-04
 275,Two Steps Back,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Ira Glass']",2,0 days 00:58:53.730000,275/Two-Steps-Back
 276,Swing Set,2017-12-14 10:24:29-08:00,Ira Glass,"['Jack Hitt', 'Lisa Pollak', 'Sarah Koenig', 'Ira Glass', 'Announcer']",4,0 days 00:58:54.860000,276/Swing-Set
 277,Apology,2017-12-14 10:24:29-08:00,Ira Glass,"['David Sedaris', 'Starlee Kine', 'Ira Glass', 'Announcer', 'Sarah Vowell']",3,0 days 00:58:56.110000,277/Apology
@@ -282,14 +282,14 @@ ep_num,ep_name,pub_date,host,contributers,num_acts,last_timestamp,url_suffix
 281,My Big Break,2017-12-14 10:24:29-08:00,Ira Glass,"['David Segal', 'Ira Glass', 'Shalom Auslander', 'Jen Banbury', 'Announcer']",3,0 days 00:57:56.450000,281/My-Big-Break
 282,DIY,2017-12-14 10:24:29-08:00,Ira Glass,"['Ira Glass', 'Anya Bourg']",2,0 days 00:57:29.340000,282/DIY
 283,Remember Me,2017-12-14 10:24:29-08:00,Ira Glass,"['Starlee Kine', 'Ira Glass', 'Shalom Auslander', 'David Wilcox', 'Announcer']",3,0 days 00:57:46.760000,283/Remember-Me
-284,Should I Stay or Should I Go?,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Ira Glass', ""Amy O'leary""]",3,0 days 00:58:54.750000,284/Should-I-Stay-or-Should-I-Go?
+284,Should I Stay or Should I Go?,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Ira Glass', ""Amy O'leary""]",3,0 days 00:58:54.750000,284/Should-I-Stay-or-Should-I-Go
 285,Know Your Enemy,2017-12-14 10:24:29-08:00,Ira Glass,"['David Segal', 'Ira Glass', 'Announcer', 'Matt Malloy', 'Enid Graham']",3,0 days 00:58:56.970000,285/Know-Your-Enemy
-286,Mind Games (2005),2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Scott Carrier', 'Jorge Just', 'Ira Glass']",3,0 days 00:57:44.940000,286/Mind-Games-(2005)
+286,Mind Games (2005),2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Scott Carrier', 'Jorge Just', 'Ira Glass']",3,0 days 00:57:44.940000,286/Mind-Games-2005
 287,Backed Into A Corner,2017-12-14 10:24:29-08:00,Ira Glass,"['Shirleen Holt', 'Ira Glass', 'Bbrian Montopolis', 'Jonathan Menjivar', 'Announcer']",3,0 days 00:58:56.590000,287/Backed-Into-A-Corner
 288,Not What I Meant,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Ira Glass', 'David Sedaris', 'Gabrielle Galanek']",3,0 days 00:57:29,288/Not-What-I-Meant
 289,Go Ask Your Father,2017-12-14 10:24:29-08:00,Ira Glass,"['Ira Glass', 'Paul Tough']",2,0 days 00:58:09.200000,289/Go-Ask-Your-Father
 290,Godless America,2017-12-14 10:24:29-08:00,Ira Glass,"['Julia Sweeney', 'Announcer', 'Ira Glass']",2,0 days 00:58:56.400000,290/Godless-America
-291,Reunited (And It Feels So Good),2017-12-14 10:24:29-08:00,Ira Glass,"['Sarah Vowell', 'Ira Glass', 'Nazanin Rafsanjani']",2,0 days 00:59:02.090000,291/Reunited-(And-It-Feels-So-Good)
+291,Reunited (And It Feels So Good),2017-12-14 10:24:29-08:00,Ira Glass,"['Sarah Vowell', 'Ira Glass', 'Nazanin Rafsanjani']",2,0 days 00:59:02.090000,291/Reunited-And-It-Feels-So-Good
 292,The Arms Trader,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Petra Bartosiewicz', 'Ira Glass']",0,0 days 00:58:52.680000,292/The-Arms-Trader
 293,A Little Bit of Knowledge,2017-12-14 10:24:29-08:00,Ira Glass,"['Alex Blumberg', 'Robert Andrew Powell', 'Aanouncer', 'Ira Glass', 'Alexa Junge', 'Dan Savage']",4,0 days 00:58:55.260000,293/A-Little-Bit-of-Knowledge
 294,Image Makers,2017-12-14 10:24:29-08:00,Ira Glass,"['Alex Blumberg', 'Jonathan Goldstein', 'Ira Glass', 'Announcer', 'Julie Hill']",3,0 days 00:58:56.570000,294/Image-Makers
@@ -298,27 +298,27 @@ ep_num,ep_name,pub_date,host,contributers,num_acts,last_timestamp,url_suffix
 297,This Is Not My Beautiful House,2017-12-14 10:24:29-08:00,Ira Glass,"['Jane Feltes', 'Nick Spitzer', 'Lisa Pollak', 'Ira Glass', 'Announcer']",5,0 days 00:58:55.630000,297/This-Is-Not-My-Beautiful-House
 298,Getting and Spending,2017-12-14 10:24:29-08:00,Ira Glass,"['John Hodgman', 'Alex Kotlowitz', 'Ira Glass', 'Announcer', 'Diane Cook']",3,0 days 00:58:57.150000,298/Getting-and-Spending
 299,Back from the Dead,2017-12-14 10:24:29-08:00,Ira Glass,"['Sarah Koenig', 'Lisa Pollak', 'Announcer', 'Ira Glass']",2,0 days 00:59:08.310000,299/Back-from-the-Dead
-300,What’s In A Number?,2017-12-14 10:24:29-08:00,Ira Glass,"['Alex Blumberg', 'Announcer', 'Ira Glass']",3,0 days 00:58:57.240000,300/What’s-In-A-Number?
+300,What’s In A Number?,2017-12-14 10:24:29-08:00,Ira Glass,"['Alex Blumberg', 'Announcer', 'Ira Glass']",3,0 days 00:58:57.240000,300/Whats-In-A-Number
 301,Settling the Score,2017-12-14 10:24:29-08:00,Ira Glass,"[""Beau O'reilly"", 'Ira Glass']",2,0 days 00:59:14.070000,301/Settling-the-Score
 302,Strangers in a Strange Land,2017-12-14 10:24:29-08:00,Ira  Glass,"['Announcer', 'Ira Glass']",2,0 days 00:58:55.870000,302/Strangers-in-a-Strange-Land
 303,David and Goliath,2017-12-14 10:24:29-08:00,Ira Glass,"['Rachel Louise Snyder', 'Announcer', 'Ira Glass', 'David Sedaris']",3,0 days 00:58:54.290000,303/David-and-Goliath
 304,Heretics,2017-12-14 10:24:29-08:00,Ira Glass,"['Ira Glass', 'Russell Cobb']",2,0 days 00:57:13.880000,304/Heretics
 305,The This American Life Holiday Spectacular,2017-12-14 10:24:29-08:00,Ira Glass,"['John Hodgman', 'David Sedaris', 'Jonathan Goldstein', ""Heather O'neill"", 'Ira Glass', 'Announcer', 'David Rackoff', 'Marah']",6,0 days 00:58:55.390000,305/The-This-American-Life-Holiday-Spectacular
 306,Seemed Like A Good Idea at the Time,2017-12-14 10:24:29-08:00,Ira Glass,['Ira Glass'],4,0 days 00:56:11.090000,306/Seemed-Like-A-Good-Idea-at-the-Time
-307,In the Shadow of the City (2006),2017-12-14 11:21:30-08:00,Ira Glass,"['Brett Martin', 'Cheryl Wagner', 'Announcer', 'Ira Glass']",3,0 days 00:57:49.820000,307/In-the-Shadow-of-the-City-(2006)
-308,Star,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Catalina Puente', 'Ira Glass', 'David Sedaris']",3,0 days 00:58:51.750000,308/Star
+307,In the Shadow of the City (2006),2017-12-14 11:21:30-08:00,Ira Glass,"['Brett Martin', 'Cheryl Wagner', 'Announcer', 'Ira Glass']",3,0 days 00:57:49.820000,307/In-the-Shadow-of-the-City-2006
+308,Star-Crossed Love,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Catalina Puente', 'Ira Glass', 'David Sedaris']",3,0 days 00:58:51.750000,308/Star-Crossed-Love
 309,Cat and Mouse,2017-12-14 10:24:29-08:00,Ira Glass,"['James Spring', 'David Segal', 'David Sedaris', 'Brian Thomas Gallagher', 'Ira Glass', 'Announcer']",4,0 days 00:58:59.800000,309/Cat-and-Mouse
 310,Habeas Schmabeas,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Jack Hitt', 'Jon Ronson', 'Ira Glass']",3,0 days 00:59:53.810000,310/Habeas-Schmabeas
 311,A Better Mousetrap,2017-12-14 10:24:29-08:00,Ira Glass,"['Ira Glass', 'Karen Sosnoski', 'Announcer', 'Andy Raskin', 'Sudhir Alladi Venkatesh', 'Brett Martin']",4,0 days 00:58:56.310000,311/A-Better-Mousetrap
 312,How We Talked Back Then,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Ira Glass', 'David Hauptschein']",2,0 days 00:58:55.160000,312/How-We-Talked-Back-Then
 313,Parental Guidance Suggested,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Thea Chaloner', 'Ira Glass', 'Will Seymour']",3,0 days 00:58:54.770000,313/Parental-Guidance-Suggested
-314,It's Never Over,2017-12-14 10:24:29-08:00,Ira Glass,"['Jon Ronson', 'Sarah Koenig', 'Ira Glass', 'Announcer', 'Larry Doyle']",4,0 days 00:58:55.140000,314/It's-Never-Over
+314,It's Never Over,2017-12-14 10:24:29-08:00,Ira Glass,"['Jon Ronson', 'Sarah Koenig', 'Ira Glass', 'Announcer', 'Larry Doyle']",4,0 days 00:58:55.140000,314/Its-Never-Over
 315,The Parrot and the Potbellied Pig,2017-12-14 10:24:29-08:00,Ira Glass,"['Alex Lane', 'David Sedaris', 'Jonathan Goldstein', 'Ira Glass', 'Eric Holm']",3,0 days 00:58:01.460000,315/The-Parrot-and-the-Potbellied-Pig
 316,The Cat Came Back,2017-12-14 10:24:29-08:00,Ira Glass,"['Ira Glass', 'Announcer', 'Cheryl Wagner', 'Michael Beaumier', 'Dan Savage']",4,0 days 00:58:59.420000,316/The-Cat-Came-Back
 317,Unconditional Love,2017-12-14 10:24:29-08:00,Ira Glass,"['Deborah Blum', 'Dave Royko', 'Ira Glass', 'Alix Spiegel']",2,0 days 00:57:13.200000,317/Unconditional-Love
 318,With Great Power,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Ira Glass', 'Shalom Auslander', 'Alex Kotlowitz']",3,0 days 00:58:35.980000,318/With-Great-Power
 319,And the Call Was Coming from the Basement,2017-12-14 10:24:29-08:00,Ira Glass,"['David Sedaris', 'Alex Blumberg', 'Ira Glass', 'Bill Eville']",4,0 days 00:56:35.760000,319/And-the-Call-Was-Coming-from-the-Basement
-320,What’s In A Number? — 2006 Edition,2017-12-14 10:24:29-08:00,Ira Glass,"['Alex Blumberg', 'Announcer', 'Ira Glass']",2,0 days 00:58:57.190000,320/What’s-In-A-Number?-—-2006-Edition
+320,What’s In A Number? — 2006 Edition,2017-12-14 10:24:29-08:00,Ira Glass,"['Alex Blumberg', 'Announcer', 'Ira Glass']",2,0 days 00:58:57.190000,320/Whats-In-A-Number-2006-Edition
 321,Sink or Swim,2017-12-14 10:24:29-08:00,Ira Glass,"['Lu Olkowski', 'Jonathan Goldstein', 'Ira Glass', 'Susan Drury', 'Announcer']",3,0 days 00:58:58.460000,321/Sink-or-Swim
 322,Shouting Across the Divide,2017-12-14 10:24:29-08:00,Ira Glass,"['Alix Spiegel', 'Announcer', 'Ira Glass', 'Shalom Auslander']",2,0 days 00:58:57.330000,322/Shouting-Across-the-Divide
 323,The Super,2017-12-14 10:24:29-08:00,Ira Glass,"['Alex Blumberg', 'Jack Hitt', 'Ira Glass']",3,0 days 00:58:18.730000,323/The-Super
@@ -329,15 +329,15 @@ ep_num,ep_name,pub_date,host,contributers,num_acts,last_timestamp,url_suffix
 328,What I Learned from Television,2017-12-14 10:24:29-08:00,Ira Glass,"['Male Announcer', 'Ira Glass', 'David Rakoff', 'Sarah Vowell', 'Dan Savage']",3,0 days 00:58:54.970000,328/What-I-Learned-from-Television
 329,Nice Work If You Can Get It,2017-12-14 10:24:29-08:00,Ira Glass,"['Alex Blumberg', 'John Hodgman', 'Ira Glass', 'Announcer', 'Sarah Vowell', 'Douglas McGray']",4,0 days 00:58:55.940000,329/Nice-Work-If-You-Can-Get-It
 330,My Reputation,2017-12-14 10:24:29-08:00,Ira Glass,"['Sarah Koenig', 'Gabriel Delahaye', 'Ira Glass']",1,0 days 01:00:28.350000,330/My-Reputation
-331,Habeas Schmabeas (2007),2017-12-14 10:24:29-08:00,Ira Glass,"['Jack Hitt', 'Jon Ronson', 'Ira Glass']",3,0 days 01:01:41.990000,331/Habeas-Schmabeas-(2007)
+331,Habeas Schmabeas (2007),2017-12-14 10:24:29-08:00,Ira Glass,"['Jack Hitt', 'Jon Ronson', 'Ira Glass']",3,0 days 01:01:41.990000,331/Habeas-Schmabeas-2007
 332,The Ten Commandments,2017-12-14 10:24:29-08:00,Ira Glass,"['Sarah Koenig', 'Dave Dickerson', 'Ira Glass', 'Shalom Auslander']",8,0 days 00:57:53.940000,332/The-Ten-Commandments
 333,The Center for Lessons Learned,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Scott Carrier', 'Nancy Updike', 'Ira Glass']",3,0 days 01:02:38.440000,333/The-Center-for-Lessons-Learned
 334,Duty Calls,2017-12-14 11:21:30-08:00,Ira Glass,"['Josh Bearman', 'Ira Glass']",2,0 days 00:58:19.780000,334/Duty-Calls
 335,Big Wide World,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Gideon Yago', 'Ira Glass']",1,0 days 00:58:55.730000,335/Big-Wide-World
-336,Who Can You Save?,2017-12-14 10:24:29-08:00,Ira Glass,"['Brady Udall', 'Jad Abumrad', 'Robert Krulwich', 'Ira Glass', 'Announcer']",3,0 days 00:58:56.790000,336/Who-Can-You-Save?
-337,Man vs. History,2017-12-14 10:24:29-08:00,Dal Lamagna,"['Arthur Phillips', 'Sarah Koenig', 'Ira Glass', 'Announcer', 'Dal Lamagna']",2,0 days 00:58:54.620000,337/Man-vs.-History
+336,Who Can You Save?,2017-12-14 10:24:29-08:00,Ira Glass,"['Brady Udall', 'Jad Abumrad', 'Robert Krulwich', 'Ira Glass', 'Announcer']",3,0 days 00:58:56.790000,336/Who-Can-You-Save
+337,Man vs. History,2017-12-14 10:24:29-08:00,Dal Lamagna,"['Arthur Phillips', 'Sarah Koenig', 'Ira Glass', 'Announcer', 'Dal Lamagna']",2,0 days 00:58:54.620000,337/Man-vs-History
 338,The Spokesman,2017-12-14 10:24:29-08:00,Ira Glass,"['Douglas McGray', 'Joe Lockhart', 'Jon Ronson', 'Ira Glass']",2,0 days 00:58:26.230000,338/The-Spokesman
-339,Break,2017-12-14 10:24:29-08:00,Ira Glass,"['Merrill Markoe', 'Ira Glass', 'Starlee Kine']",4,0 days 00:58:19.280000,339/Break
+339,Break-up,2017-12-14 10:24:29-08:00,Ira Glass,"['Merrill Markoe', 'Ira Glass', 'Starlee Kine']",4,0 days 00:58:19.280000,339/Break-up
 340,The Devil in Me,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Lisa Pollak', 'Ira Glass', 'David Dickerson']",3,0 days 00:57:56.420000,340/The-Devil-in-Me
 341,How to Talk to Kids,2017-12-14 10:24:29-08:00,Ira Glass,"['Jane Feltes', 'Ira Glass', 'Announcer', 'Julie Snyder', 'Dan Savage']",3,0 days 00:58:55,341/How-to-Talk-to-Kids
 342,How to Rest in Peace,2017-12-14 10:24:29-08:00,Ira Glass,"['Brett Martin', 'Announcer', 'Ira Glass']",2,0 days 00:57:46.550000,342/How-to-Rest-in-Peace
@@ -347,7 +347,7 @@ ep_num,ep_name,pub_date,host,contributers,num_acts,last_timestamp,url_suffix
 346,Home Alone,2017-12-14 10:24:29-08:00,Announcer,"['Jennifer Schaller', 'Eric Klinenberg', 'Sarah Koenig', 'Ira Glass', 'Announcer']",3,0 days 00:58:23.440000,346/Home-Alone
 347,Matchmakers,2017-12-14 10:24:29-08:00,Ira Glass,"['Sarah Koenig', 'Ira Glass', 'Gregory Warner', 'Announcer', 'Elna Baker']",3,0 days 00:57:57.710000,347/Matchmakers
 348,Tough Room,2017-12-14 10:24:29-08:00,Ira Glass,"['Jane Feltes', 'Malcolm Gladwell', 'Ira Glass', 'Rosie Schaap', 'Announcer']",4,0 days 00:58:54.890000,348/Tough-Room
-349,Valentine’s Day 2008,2017-12-14 10:24:29-08:00,Ira Glass,"['Veronica Chater', 'Richard Bausch', 'Male Announcer', 'Ira Glass', 'Ian Brown']",2,0 days 00:58:55.160000,349/Valentine’s-Day-2008
+349,Valentine’s Day 2008,2017-12-14 10:24:29-08:00,Ira Glass,"['Veronica Chater', 'Richard Bausch', 'Male Announcer', 'Ira Glass', 'Ian Brown']",2,0 days 00:58:55.160000,349/Valentines-Day-2008
 350,Human Resources,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Ira Glass', 'Jon Jeter']",3,0 days 00:57:54.570000,350/Human-Resources
 351,Return to Childhood,2017-12-14 10:24:29-08:00,Ira Glass,"['Alex Blumberg', 'Hillary Frank', 'Ira Glass']",4,0 days 00:57:40.270000,351/Return-to-Childhood
 352,The Ghost of Bobby Dunbar,2017-12-14 10:24:29-08:00,Ira Glass,"['Ira Glass', 'Tal Mcthenia']",2,0 days 00:57:37.350000,352/The-Ghost-of-Bobby-Dunbar
@@ -366,7 +366,7 @@ ep_num,ep_name,pub_date,host,contributers,num_acts,last_timestamp,url_suffix
 365,Another Frightening Show About the Economy,2017-12-14 10:24:29-08:00,Ira Glass,"['Alex Blumberg', 'Ira Glass', 'Adam Davidson']",4,0 days 00:59:06.910000,365/Another-Frightening-Show-About-the-Economy
 366,A Better Mousetrap 2008,2017-12-14 10:24:29-08:00,Ira Glass,"['Karen Sosnoski', 'Alex Blumberg', 'Sudhir Alladi Venkatesh', 'Ira Glass']",3,0 days 00:57:57.470000,366/A-Better-Mousetrap-2008
 367,Ground Game,2017-12-14 10:24:29-08:00,Ira Glass,"['Torey Malatia', 'Lisa Pollak', 'Nancy Updike', 'Sarah Koenig', 'Ira Glass', 'Announcer']",6,0 days 01:04:24.350000,367/Ground-Game
-368,Who Do You Think You Are?,2017-12-14 10:24:29-08:00,Ira Glass,"['Sarah', 'Ira Glass', 'Station Identification', 'Studs Terkel']",3,0 days 00:57:46.560000,368/Who-Do-You-Think-You-Are?
+368,Who Do You Think You Are?,2017-12-14 10:24:29-08:00,Ira Glass,"['Sarah', 'Ira Glass', 'Station Identification', 'Studs Terkel']",3,0 days 00:57:46.560000,368/Who-Do-You-Think-You-Are
 369,Poultry Slam 2008,2017-12-14 10:24:29-08:00,Ira Glass,"['Greg Warner', 'Wayne Curtis', 'Ira Glass', 'Sarah Koenig', 'Shalom Auslander', 'Kathie Russo', 'Announcer']",5,0 days 00:57:36.030000,369/Poultry-Slam-2008
 370,Ruining It for the Rest of Us,2017-12-14 10:24:29-08:00,Ira Glass,"['Nancy Updike', 'Ira Glass', 'Announcer', 'Susan Burton', 'Mike Birbiglia']",3,0 days 00:57:58.060000,370/Ruining-It-for-the-Rest-of-Us
 371,Scenes From a Mall,2017-12-14 10:24:29-08:00,Ira Glass,"['Josh Bearman', 'Wendy Dorr', 'Ira Glass']",4,0 days 00:57:55.980000,371/Scenes-From-a-Mall
@@ -385,16 +385,16 @@ ep_num,ep_name,pub_date,host,contributers,num_acts,last_timestamp,url_suffix
 384,Fall Guy,2017-12-14 10:24:29-08:00,Ira Glass,"['Philip Gourevitch', 'Shalom Auslander', 'Ira Glass', 'Mike Birbiglia']",4,0 days 00:57:38.080000,384/Fall-Guy
 385,Pro Se,2017-12-14 10:24:29-08:00,Ira Glass,['Ira Glass'],4,0 days 00:57:55,385/Pro-Se
 386,Fine Print,2017-12-14 10:24:29-08:00,Ira Glass,"['David Rakoff', 'Nancy Updike', 'Ira Glass', 'Susan Burton']",4,0 days 00:57:56.790000,386/Fine-Print
-387,Arms Trader (2009),2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Petra Bartosiewicz', 'Ira Glass']",2,0 days 00:57:57.020000,387/Arms-Trader-(2009)
+387,Arms Trader (2009),2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Petra Bartosiewicz', 'Ira Glass']",2,0 days 00:57:57.020000,387/Arms-Trader-2009
 388,Rest Stop,2017-12-14 10:24:29-08:00,Ira Glass,"['Jonathan Goldstein', 'Lisa Pollak', 'Nancy Updike', 'Ira Glass', 'Gregory Warner', 'Jay Allison', 'Sean Cole']",2,0 days 00:58:15.790000,388/Rest-Stop
 389,Frenemies,2017-12-14 10:24:29-08:00,Ira Glass,"['David Rakoff', 'Jeanne Darst', 'Ira Glass']",5,0 days 01:03:44.270000,389/Frenemies
 390,Return To The Giant Pool of Money,2017-12-14 10:24:29-08:00,Ira Glass,"['Alex Blumberg', 'Ira Glass', 'Adam Davidson']",2,0 days 00:57:39.180000,390/Return-To-The-Giant-Pool-of-Money
 391,More Is Less,2017-12-14 10:24:29-08:00,Ira Glass,"['Alix Spiegel', 'Lisa Pollak', 'Sarah Koenig', 'Ira Glass', 'Announcer']",4,0 days 01:00:49.730000,391/More-Is-Less
-392,Someone Else's Money,2017-12-14 10:24:29-08:00,Ira Glass,"['Alex Blumberg', 'Chana Joffe-Walt', 'David Kestenbaum', 'Ira Glass', 'Sarah Koenig', 'Adam Davidson']",4,0 days 01:00:42.980000,392/Someone-Else's-Money
+392,Someone Else's Money,2017-12-14 10:24:29-08:00,Ira Glass,"['Alex Blumberg', 'Chana Joffe-Walt', 'David Kestenbaum', 'Ira Glass', 'Sarah Koenig', 'Adam Davidson']",4,0 days 01:00:42.980000,392/Someone-Elses-Money
 393,Infidelity,2017-12-14 10:24:29-08:00,Ira Glass,"['Dani Shapiro', 'Matt Malloy', 'Ira Glass', 'James Braly']",3,0 days 00:57:55.620000,393/Infidelity
 394,Bait and Switch,2017-12-14 10:24:29-08:00,Ira Glass,"['Michael May', 'Bill Cotter', 'Ira Glass', 'Anna Boiko-weyrauch']",3,0 days 00:57:58.990000,394/Bait-and-Switch
 395,Middle of the Night,2017-12-14 10:24:29-08:00,Ira Glass,"['Shaina Feinberg', 'Chana Joffe-Walt', 'Dave Hill', 'Jane Feltes', 'Ira Glass', 'Jenifer Hixson', 'Adam Davidson']",4,0 days 00:57:34.600000,395/Middle-of-the-Night
-396,#1 Party School,2017-12-14 10:24:29-08:00,Ira Glass,"['Sarah Koenig', 'Aaron Scott', 'Nancy Updike', 'Ira Glass']",4,0 days 01:08:25.720000,396/#1-Party-School
+396,#1 Party School,2017-12-14 10:24:29-08:00,Ira Glass,"['Sarah Koenig', 'Aaron Scott', 'Nancy Updike', 'Ira Glass']",4,0 days 01:08:25.720000,396/1-Party-School
 397,2010,2017-12-14 10:24:29-08:00,Ira Glass,"['Alex Blumberg', 'Etgar Keret', 'Ira Glass', 'Shalom Auslander', 'Jonathan Menjivar', 'Adam Davidson']",4,0 days 00:57:27.130000,397/2010
 398,Long Shot,2017-12-14 10:24:29-08:00,Ira Glass,"['Nancy Mullane', 'Wells Tower', 'Ira Glass']",1,0 days 00:57:46.060000,398/Long-Shot
 399,Contents Unknown,2017-12-14 10:24:29-08:00,Ira Glass,"['David Maclean', 'Jon Mooallem', 'Ira Glass', 'Adam Davidson']",2,0 days 00:58:16.550000,399/Contents-Unknown
@@ -426,27 +426,27 @@ ep_num,ep_name,pub_date,host,contributers,num_acts,last_timestamp,url_suffix
 425,Slow To React,2017-12-14 10:24:29-08:00,Ira Glass,"['Ira Glass', 'Jonathan Menjivar', 'Announcer', 'Sean Lewis', 'David Holthouse']",3,0 days 00:57:20.080000,425/Slow-To-React
 426,Tough Room 2011,2017-12-14 10:24:29-08:00,Ira Glass,"['Jane Feltes', 'Ira Glass', 'Rosie Schaap', 'Announcer', 'Brett Martin']",3,0 days 00:57:55.030000,426/Tough-Room-2011
 427,Original Recipe,2017-12-14 10:24:29-08:00,Ira Glass,"['Jake Halpern', 'Announcer', 'Ira Glass']",1,0 days 01:00:15.890000,427/Original-Recipe
-428,Oh You Shouldn't Have,2017-12-14 10:24:29-08:00,Ira Glass,"['Michael Chernus', 'Nancy Updike', 'Ira Glass', 'Allison Silverman', 'Announcer']",3,0 days 00:57:25.240000,428/Oh-You-Shouldn't-Have
-429,Will They Know Me Back Home?,2017-12-14 10:24:29-08:00,Nancy Updike,"['Announcer', 'Nancy Updike']",1,0 days 00:57:32.280000,429/Will-They-Know-Me-Back-Home?
+428,Oh You Shouldn't Have,2017-12-14 10:24:29-08:00,Ira Glass,"['Michael Chernus', 'Nancy Updike', 'Ira Glass', 'Allison Silverman', 'Announcer']",3,0 days 00:57:25.240000,428/Oh-You-Shouldnt-Have
+429,Will They Know Me Back Home?,2017-12-14 10:24:29-08:00,Nancy Updike,"['Announcer', 'Nancy Updike']",1,0 days 00:57:32.280000,429/Will-They-Know-Me-Back-Home
 430,Very Tough Love,2017-12-14 11:21:30-08:00,Ira Glass,"['Narrator', 'Ira Glass']",0,0 days 00:59:17.370000,430/Very-Tough-Love
 431,See No Evil,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Lisa Pollak', 'Ira Glass', 'David Kestenbaum']",3,0 days 00:57:21.150000,431/See-No-Evil
-432,Know When To Fold ‘Em,2017-12-14 11:21:30-08:00,Ira Glass,"['Marc Sanchez', 'Nancy Updike', 'Ira Glass', 'Narrator', 'Dave Dickerson']",3,0 days 00:57:11.680000,432/Know-When-To-Fold-‘Em
+432,Know When To Fold ‘Em,2017-12-14 11:21:30-08:00,Ira Glass,"['Marc Sanchez', 'Nancy Updike', 'Ira Glass', 'Narrator', 'Dave Dickerson']",3,0 days 00:57:11.680000,432/Know-When-To-Fold-Em
 433,Fine Print 2011,2017-12-14 10:24:29-08:00,Ira Glass,"['Chana Joffe-Walt', 'Nancy Updike', 'Ira Glass', 'David Rakoff', 'Announcer', 'Susan Burton']",3,0 days 00:57:55.880000,433/Fine-Print-2011
 434,This Week,2017-12-14 10:24:29-08:00,Ira Glass,"['David Kestenbaum', 'Nancy Updike', 'Sarah Koenig', 'Robert Smith', 'Ira Glass', 'Eric Mennel', 'Announcer']",6,0 days 01:00:14.380000,434/This-Week
 435,How To Create a Job,2017-12-14 10:24:29-08:00,Ira Glass,"['Chana Joffe-Walt', 'Ira Glass', 'Announcer', 'Adam Davidson', 'Julie Snyder']",4,0 days 00:57:54.340000,435/How-To-Create-a-Job
 436,The Psychopath Test,2017-12-14 10:24:29-08:00,Ira Glass,"['Alix Spiegel', 'Announcer', 'Jon Ronson', 'Ira Glass']",3,0 days 00:59:12.590000,436/The-Psychopath-Test
 437,Old Boys Network,2017-12-14 10:24:29-08:00,Ira Glass,"['Saul Elbein', 'Announcer', 'Ira Glass']",2,0 days 00:57:36.630000,437/Old-Boys-Network
-438,Father's Day 2011,2017-12-14 10:24:29-08:00,Ira Glass,"['Jonathan Goldstein', 'Michael Ian Black', 'Ira Glass', 'Michael May', 'Jonathan Menjivar']",4,0 days 00:59:29.580000,438/Father's-Day-2011
+438,Father's Day 2011,2017-12-14 10:24:29-08:00,Ira Glass,"['Jonathan Goldstein', 'Michael Ian Black', 'Ira Glass', 'Michael May', 'Jonathan Menjivar']",4,0 days 00:59:29.580000,438/Fathers-Day-2011
 439,A House Divided,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Ben Calhoun', 'Ira Glass']",3,0 days 00:57:33.640000,439/A-House-Divided
 440,Game Changer,2017-12-14 10:24:29-08:00,Ira Glass,"['Sarah Koenig', 'Announcer', 'Ira Glass']",2,0 days 01:00:05.810000,440/Game-Changer
-441,When Patents Attack!,2017-12-14 10:24:29-08:00,Ira Glass,"['Alex Blumberg', 'Announcer', 'Laura Sydell', 'Ira Glass']",2,0 days 00:59:16.410000,441/When-Patents-Attack!
+441,When Patents Attack!,2017-12-14 10:24:29-08:00,Ira Glass,"['Alex Blumberg', 'Announcer', 'Laura Sydell', 'Ira Glass']",2,0 days 00:59:16.410000,441/When-Patents-Attack
 442,Thugs,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Nancy Updike', 'Ira Glass', 'Laura Beil']",2,0 days 00:57:43.100000,442/Thugs
 443,Amusement Park,2017-12-14 10:24:29-08:00,Ira Glass,"['Ira Glass', 'Jonathan Goldstein']",3,0 days 00:58:19.800000,443/Amusement-Park
 444,Gossip,2017-12-14 10:24:29-08:00,Sarah Koenig,"['Announcer', 'Julie Snyder', 'Sarah Koenig', 'Rebecca Makkai']",2,0 days 00:57:37.240000,444/Gossip
 445,Ten Years In,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Ira Glass', 'Alix Spiegel', 'Chris Neary']",6,0 days 01:05:19.140000,445/Ten-Years-In
-446,Living Without (2011),2017-12-14 10:24:29-08:00,Ira Glass,"['Ira Glass', 'Announcer', 'Matt Malloy', 'Chelsea Merz', 'Nubar Alexanian']",4,0 days 00:57:43.240000,446/Living-Without-(2011)
-447,The Incredible Case of the P.I. Moms,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Joshuah Bearman', 'Ira Glass']",2,0 days 00:57:41.390000,447/The-Incredible-Case-of-the-P.I.-Moms
-448,Adventure!,2017-12-14 10:24:29-08:00,Ira Glass,"['Alex Blumberg', 'John Conlee', 'Neil Gaiman', 'Ira Glass', 'Dave Eggers', 'Announcer', 'Cristin Milioti', 'Jeanne Darst']",2,0 days 00:58:34.340000,448/Adventure!
+446,Living Without (2011),2017-12-14 10:24:29-08:00,Ira Glass,"['Ira Glass', 'Announcer', 'Matt Malloy', 'Chelsea Merz', 'Nubar Alexanian']",4,0 days 00:57:43.240000,446/Living-Without-2011
+447,The Incredible Case of the P.I. Moms,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Joshuah Bearman', 'Ira Glass']",2,0 days 00:57:41.390000,447/The-Incredible-Case-of-the-PI-Moms
+448,Adventure!,2017-12-14 10:24:29-08:00,Ira Glass,"['Alex Blumberg', 'John Conlee', 'Neil Gaiman', 'Ira Glass', 'Dave Eggers', 'Announcer', 'Cristin Milioti', 'Jeanne Darst']",2,0 days 00:58:34.340000,448/Adventure
 449,Middle School,2017-12-14 10:24:29-08:00,Ira Glass,"['Lisa Pollak', 'Ira Glass', 'Sarah Koenig', 'Jonathan Menjivar', 'Announcer', 'Domingo Martinez']",6,0 days 00:57:21.020000,449/Middle-School
 450,So Crazy It Just Might Work,2017-12-14 10:24:29-08:00,Ira Glass,"['Gabriel Rhodes', 'Announcer', 'Ira Glass']",2,0 days 00:57:25.410000,450/So-Crazy-It-Just-Might-Work
 451,Back to Penn State,2017-12-14 10:24:29-08:00,Ira Glass,"['Sarah Koenig', 'Announcer', 'Ira Glass', 'Nancy Updike']",2,0 days 00:58:54.340000,451/Back-to-Penn-State
@@ -459,7 +459,7 @@ ep_num,ep_name,pub_date,host,contributers,num_acts,last_timestamp,url_suffix
 459,What Kind of Country,2017-12-14 10:24:29-08:00,Ira Glass,"['Sarah Koenig', 'Announcer', 'Ira Glass', 'Robert Smith']",2,0 days 00:57:30.290000,459/What-Kind-of-Country
 461,Take the Money and Run for Office,2017-12-14 10:24:29-08:00,Ira Glass,"['Alex Blumberg', 'Andrea Seabrook', 'Ira Glass', 'Announcer', 'Ben Calhoun']",3,0 days 00:57:29.880000,461/Take-the-Money-and-Run-for-Office
 462,Own Worst Enemy,2017-12-14 10:24:29-08:00,Ira Glass,"['Jonathan As Ben', 'Jonathan', 'Ira Glass', 'Announcer', 'Ben']",2,0 days 00:58:54.860000,462/Own-Worst-Enemy
-463,Mortal Vs. Venial,2017-12-14 10:24:29-08:00,Ira Glass,"['Alex Blumberg', 'Jonathan Goldstein', 'Ira Glass', 'Announcer', 'Jonathan Menjivar']",3,0 days 00:58:41.160000,463/Mortal-Vs.-Venial
+463,Mortal Vs. Venial,2017-12-14 10:24:29-08:00,Ira Glass,"['Alex Blumberg', 'Jonathan Goldstein', 'Ira Glass', 'Announcer', 'Jonathan Menjivar']",3,0 days 00:58:41.160000,463/Mortal-Vs-Venial
 464,Invisible Made Visible,2017-12-14 10:24:29-08:00,Ira Glass,"['David Sedaris', 'Ira Glass', 'Tig Notaro', 'Taylor Dayne', 'David Rakoff', 'Announcer', 'Ryan Knighton']",3,0 days 00:57:42.740000,464/Invisible-Made-Visible
 465,What Happened at Dos Erres,2017-12-14 10:24:29-08:00,Ira Glass,"['Habiba Nosheen', 'Announcer', 'Ira Glass']",2,0 days 00:59:14.590000,465/What-Happened-at-Dos-Erres
 466,Blackjack,2017-12-14 10:24:29-08:00,Ira Glass,"['Sarah Koenig', 'Jack Hitt', 'Ira Glass']",2,0 days 01:01:10.480000,466/Blackjack
@@ -467,37 +467,37 @@ ep_num,ep_name,pub_date,host,contributers,num_acts,last_timestamp,url_suffix
 468,Switcheroo,2017-12-14 10:24:29-08:00,Ira Glass,"['John Connolly', 'Jackie Clarke', 'Sarah Koenig', 'Ira Glass', 'Announcer']",3,0 days 01:03:07.980000,468/Switcheroo
 469,Hiding in Plain Sight,2017-12-14 10:24:29-08:00,Ira Glass,"['Karen Lowe', 'Announcer', 'Ira Glass', 'Anton Disclafani']",3,0 days 00:58:09.100000,469/Hiding-in-Plain-Sight
 470,Show Me the Way,2017-12-14 10:24:29-08:00,Ira Glass,"['Jonathan Goldstein', 'Logan Hill', 'Ira Glass', 'David Rakoff', 'Announcer', 'Grete Samsa']",2,0 days 00:57:38.170000,470/Show-Me-the-Way
-471,The Convert (2012),2017-12-14 10:24:29-08:00,Ira Glass,"['Sam Black', 'Announcer', 'Ira Glass']",2,0 days 00:57:41.700000,471/The-Convert-(2012)
+471,The Convert (2012),2017-12-14 10:24:29-08:00,Ira Glass,"['Sam Black', 'Announcer', 'Ira Glass']",2,0 days 00:57:41.700000,471/The-Convert-2012
 472,Our Friend David,2017-12-14 10:24:29-08:00,Ira Glass,"['David Rakoff', 'Ira Glass']",0,0 days 00:57:24.820000,472/Our-Friend-David
 473,Loopholes,2018-04-15 15:10:01-07:00,Ira Glass,"['Alex Blumberg', 'Ira Glass', 'Announcer', 'Jake Bernstein', 'Kathy Stuart', 'Jakebernstein']",1,0 days 00:57:56.610000,473/Loopholes
 474,Back to School,2018-07-25 12:10:01-07:00,Ira Glass,"['Announcer', 'Ira Glass']",2,0 days 00:57:14.390000,474/Back-to-School
 475,Send a Message,2017-12-14 10:24:29-08:00,Ira Glass,"['Dave Hill', 'Nancy Updike', 'Ira Glass', 'Brian Reed', 'Announcer', 'Josh Bearman', 'Sonari Glinton']",4,0 days 00:57:37.300000,475/Send-a-Message
-476,What Doesn’t Kill You,2018-06-15 08:10:01-07:00,Ira Glass,"['Ira Glass', 'Tig Notaro', 'Announcer', 'Tim Kreidor', 'Jessica Benko']",4,0 days 00:57:24.870000,476/What-Doesn’t-Kill-You
+476,What Doesn’t Kill You,2018-06-15 08:10:01-07:00,Ira Glass,"['Ira Glass', 'Tig Notaro', 'Announcer', 'Tim Kreidor', 'Jessica Benko']",4,0 days 00:57:24.870000,476/What-Doesnt-Kill-You
 477,Getting Away With It,2019-05-02 14:10:01-07:00,Ira Glass,"['Domingo Martinez', 'Alex Blumberg', 'Ira Glass']",4,0 days 00:57:19.540000,477/Getting-Away-With-It
 478,Red State Blue State,2017-12-14 10:24:29-08:00,Ira Glass,"['Sarah Koenig', 'Lisa Pollak', 'Announcer', 'Ira Glass']",2,0 days 01:01:45.180000,478/Red-State-Blue-State
 479,Little War on the Prairie,2018-04-15 15:10:01-07:00,Ira Glass,"['Ira Glass', 'John Biewen']",1,0 days 01:01:33.230000,479/Little-War-on-the-Prairie
 480,Animal Sacrifice,2017-12-14 10:24:29-08:00,Ira Glass,"['Camas Davis', 'Nancy Updike', 'Ira Glass', 'Announcer', 'Susan Orlean']",3,0 days 00:57:25.400000,480/Animal-Sacrifice
 481,This Week,2017-12-14 10:24:29-08:00,Ira Glass,"['Lisa Pollak', 'Nancy Updike', 'Ira Glass', 'Announcer', 'Nathaniel Rich']",6,0 days 00:57:23.160000,481/This-Week
-482,"Lights, Camera, Christmas!",2017-12-14 10:24:29-08:00,Ira Glass,"['Maya Gurantz', 'Announcer', 'Note', 'Ira Glass']",3,0 days 00:57:49.260000,"482/Lights,-Camera,-Christmas!"
-483,Self,2017-12-14 10:24:29-08:00,Ira Glass,"['Chana Joffe-Walt', 'Jacob Goldstein', 'Ira Glass', 'Announcer', 'Elna Baker']",2,0 days 00:57:45.780000,483/Self
-484,Doppelgängers,2017-12-14 10:24:29-08:00,Fred Armisen,"['Alex Kotlowitz', 'Ira Glass', 'Announcer', 'Ira Glass And Fred Armisen', 'Fred Armisen', 'Ben Calhoun']",2,0 days 00:57:54.270000,484/Doppelgängers
+482,"Lights, Camera, Christmas!",2017-12-14 10:24:29-08:00,Ira Glass,"['Maya Gurantz', 'Announcer', 'Note', 'Ira Glass']",3,0 days 00:57:49.260000,482/Lights-Camera-Christmas
+483,Self-improvement kick,2017-12-14 10:24:29-08:00,Ira Glass,"['Chana Joffe-Walt', 'Jacob Goldstein', 'Ira Glass', 'Announcer', 'Elna Baker']",2,0 days 00:57:45.780000,483/Self-improvement-kick
+484,Doppelgängers,2017-12-14 10:24:29-08:00,Fred Armisen,"['Alex Kotlowitz', 'Ira Glass', 'Announcer', 'Ira Glass And Fred Armisen', 'Fred Armisen', 'Ben Calhoun']",2,0 days 00:57:54.270000,484/Doppelgangers
 485,Surrogates,2017-12-14 10:24:29-08:00,Ira Glass,"['Sarah Koenig', 'Announcer', 'Ira Glass', 'Amity Bitzel']",2,0 days 00:57:25.310000,485/Surrogates
-486,Valentine’s Day,2017-12-14 10:24:29-08:00,Ira Glass,"['Robbie Brown', 'Ira Glass']",4,0 days 00:58:40.790000,486/Valentine’s-Day
-487,Harper High School,2018-08-05 15:10:01-07:00,Ira Glass,"['Linda Lutton', 'Ben Calhoun', 'Ira Glass', 'Alex Kotlowitz']",-1,0 days 00:57:07.470000,487/Harper-High-School
-488,Harper High School,2017-12-14 10:24:29-08:00,Ira Glass,"['Alex Kotlowitz', 'Linda Lutton', 'Ira Glass', 'Announcer', 'Ben Calhoun']",6,0 days 01:02:05.320000,488/Harper-High-School
-489,"No Coincidence, No Story!",2017-12-14 11:21:30-08:00,Sarah Koenig,['Sarah Koenig'],5,0 days 00:57:54.320000,"489/No-Coincidence,-No-Story!"
+486,Valentine’s Day,2017-12-14 10:24:29-08:00,Ira Glass,"['Robbie Brown', 'Ira Glass']",4,0 days 00:58:40.790000,486/Valentines-Day
+487,Harper High School Part One,2018-08-05 15:10:01-07:00,Ira Glass,"['Linda Lutton', 'Ben Calhoun', 'Ira Glass', 'Alex Kotlowitz']",-1,0 days 00:57:07.470000,487/Harper-High-School-Part-One
+488,Harper High School Part Two,2017-12-14 10:24:29-08:00,Ira Glass,"['Alex Kotlowitz', 'Linda Lutton', 'Ira Glass', 'Announcer', 'Ben Calhoun']",6,0 days 01:02:05.320000,488/Harper-High-School-Part-Two
+489,"No Coincidence, No Story!",2017-12-14 11:21:30-08:00,Sarah Koenig,['Sarah Koenig'],5,0 days 00:57:54.320000,489/No-Coincidence-No-Story
 490,Trends With Benefits,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Chana Joffe-Walt', 'Ira Glass']",2,0 days 00:57:20.630000,490/Trends-With-Benefits
 491,Tribes,2017-12-14 10:24:29-08:00,Ira Glass,"['Ira Glass', 'David Ferry', 'Announcer', 'Andrea Seigel', 'Debbie Lum']",3,0 days 00:57:19.380000,491/Tribes
-492,Dr. Gilmer and Mr. Hyde,2017-12-14 11:21:30-08:00,Ira Glass,"['Sarah Koenig', 'Ira Glass']",2,0 days 01:03:23.300000,492/Dr.-Gilmer-and-Mr.-Hyde
+492,Dr. Gilmer and Mr. Hyde,2017-12-14 11:21:30-08:00,Ira Glass,"['Sarah Koenig', 'Ira Glass']",2,0 days 01:03:23.300000,492/Dr-Gilmer-and-Mr-Hyde
 493,Picture Show,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Scott Pinkmountain', 'Nancy Updike', 'Ira Glass']",2,0 days 00:56:57.850000,493/Picture-Show
 494,Hit the Road,2017-12-14 10:24:29-08:00,Ira Glass,"['Andrew Forsthoefel', 'Ira Glass', 'Sierra Teller-ornelas', 'Announcer', 'Gloria Harrison']",3,0 days 00:57:35.430000,494/Hit-the-Road
 495,Hot In My Backyard,2017-12-14 10:24:29-08:00,Ira Glass,"['Ben Calhoun', 'Announcer', 'Julia Kumari Drapkin', 'Ira Glass']",3,0 days 00:59:58.270000,495/Hot-In-My-Backyard
-496,When Patents Attack... Part Two!,2017-12-14 10:24:29-08:00,Ira Glass,"['Alex Blumberg', 'Announcer', 'Laura Sydell', 'Ira Glass']",2,0 days 00:57:12.320000,496/When-Patents-Attack...-Part-Two!
-498,The One Thing You're Not Supposed To Do,2017-12-14 10:24:29-08:00,Ira Glass,"['Michael May', 'Narrator', 'Ira Glass', 'Ben Loory']",3,0 days 00:57:33.740000,498/The-One-Thing-You're-Not-Supposed-To-Do
+496,When Patents Attack... Part Two!,2017-12-14 10:24:29-08:00,Ira Glass,"['Alex Blumberg', 'Announcer', 'Laura Sydell', 'Ira Glass']",2,0 days 00:57:12.320000,496/When-Patents-Attack-Part-Two
+498,The One Thing You're Not Supposed To Do,2017-12-14 10:24:29-08:00,Ira Glass,"['Michael May', 'Narrator', 'Ira Glass', 'Ben Loory']",3,0 days 00:57:33.740000,498/The-One-Thing-Youre-Not-Supposed-To-Do
 499,Taking Names,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Nancy Updike', 'Ira Glass']",2,0 days 00:57:26.250000,499/Taking-Names
-500,500!,2017-12-14 10:24:29-08:00,Ira Glass,"['Torey Malatia', 'Alex Blumberg', 'Nancy Snyder', 'Jonathan Goldstein', 'Nancy Updike', 'Ira Glass', 'Sarah Koenig', 'Brian Reed', 'Sarah Vowell', 'Announcer', 'Adam Davidson', 'Robyn Semien', 'Julie Snyder']",9,0 days 00:57:24.230000,500/500!
+500,500!,2017-12-14 10:24:29-08:00,Ira Glass,"['Torey Malatia', 'Alex Blumberg', 'Nancy Snyder', 'Jonathan Goldstein', 'Nancy Updike', 'Ira Glass', 'Sarah Koenig', 'Brian Reed', 'Sarah Vowell', 'Announcer', 'Adam Davidson', 'Robyn Semien', 'Julie Snyder']",9,0 days 00:57:24.230000,500/500
 501,The View From In Here,2017-12-14 10:24:29-08:00,Ira Glass,"['Ira Glass', 'Brian Reed', 'Announcer', 'Sayed Kashua', 'Emily Bonderer Cruz']",3,0 days 01:04:29.480000,501/The-View-From-In-Here
-502,This Call May Be Recorded... To Save Your Life,2017-12-14 11:21:30-08:00,Ira Glass,"['Yowei Shaw', 'Ira Glass']",1,0 days 00:57:30.370000,502/This-Call-May-Be-Recorded...-To-Save-Your-Life
+502,This Call May Be Recorded... To Save Your Life,2017-12-14 11:21:30-08:00,Ira Glass,"['Yowei Shaw', 'Ira Glass']",1,0 days 00:57:30.370000,502/This-Call-May-Be-Recorded-To-Save-Your-Life
 503,I Was Just Trying To Help,2017-12-14 10:24:29-08:00,Ira Glass,"['David Kestenbaum', 'Jacob Goldstein', 'Ira Glass', 'Mary Cuddehe', 'Announcer']",2,0 days 00:57:54.760000,503/I-Was-Just-Trying-To-Help
 504,How I Got Into College,2017-12-14 10:24:29-08:00,Ira Glass,"['Michael Lewis', 'Ira Glass']",2,0 days 00:57:05.680000,504/How-I-Got-Into-College
 505,Use Only as Directed,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Ira Glass', 'Sean Cole']",2,0 days 00:57:17.230000,505/Use-Only-as-Directed
@@ -505,8 +505,8 @@ ep_num,ep_name,pub_date,host,contributers,num_acts,last_timestamp,url_suffix
 507,Confessions,2017-12-14 10:24:29-08:00,Ira Glass,"['Saul Elbein', 'Lisa Pollak', 'Announcer', 'Ira Glass']",2,0 days 00:56:54.170000,507/Confessions
 508,Superpowers,2017-12-14 10:24:29-08:00,Ira Glass,"['Glynn Washington', 'Kelly Mcevers', 'John Hodgman', 'Ira Glass']",3,0 days 00:56:38.230000,508/Superpowers
 509,It Says So Right Here,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Ben Calhoun', 'Ira Glass']",3,0 days 00:58:20.290000,509/It-Says-So-Right-Here
-510,Fiasco! (2013),2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Ira Glass', 'Jeff Dorchen']",4,0 days 00:55:14.140000,510/Fiasco!-(2013)
-511,The Seven Things You’re Not Supposed to Talk About,2017-12-14 10:24:29-08:00,Sarah Koenig,"['Sarah Koening', 'Nancy Updike', 'Ira Glass', 'Sarah Koenig', 'Brian Reed', 'Announcer']",6,0 days 00:57:16.320000,511/The-Seven-Things-You’re-Not-Supposed-to-Talk-About
+510,Fiasco! (2013),2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Ira Glass', 'Jeff Dorchen']",4,0 days 00:55:14.140000,510/Fiasco-2013
+511,The Seven Things You’re Not Supposed to Talk About,2017-12-14 10:24:29-08:00,Sarah Koenig,"['Sarah Koening', 'Nancy Updike', 'Ira Glass', 'Sarah Koenig', 'Brian Reed', 'Announcer']",6,0 days 00:57:16.320000,511/The-Seven-Things-Youre-Not-Supposed-to-Talk-About
 512,House Rules,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Nancy Updike', 'Ira Glass']",2,0 days 00:55:28.990000,512/House-Rules
 513,129 Cars,2017-12-14 10:24:29-08:00,Ira Glass,"['Sarah Koenig', 'Ira Glass', 'Brian Reed', 'Robyn Semien', 'Sean Cole']",9,0 days 01:13:30.610000,513/129-Cars
 514,Thought That Counts,2017-12-14 10:24:29-08:00,Ira Glass,"['Starlee Kine', 'Jonathan Goldstein', 'Ira Glass', 'Announcer', 'Russell Banks']",3,0 days 00:57:23.110000,514/Thought-That-Counts
@@ -521,103 +521,103 @@ ep_num,ep_name,pub_date,host,contributers,num_acts,last_timestamp,url_suffix
 523,Death and Taxes,2017-12-14 11:21:30-08:00,Ira Glass,"['Nancy Updike', 'Ira Glass', 'David Kestenbaum']",2,0 days 00:57:48.160000,523/Death-and-Taxes
 524,I Was So High,2017-12-14 10:24:29-08:00,Ira Glass,"['Alex Blumberg', 'Ira Glass', 'Brian Reed', 'Announcer', 'Elna Baker', 'Sean Cole']",5,0 days 00:57:34.540000,524/I-Was-So-High
 525,Call For Help,2017-12-14 10:24:29-08:00,Ira Glass,"['Announcer', 'Chana Joffe-Walt', 'Anna Sale', 'Ira Glass']",3,0 days 01:02:34.330000,525/Call-For-Help
-526,Is That What I Look Like?,2017-12-14 10:24:29-08:00,Nancy Updike,"['Nancy Updike', 'Ira Glass', 'Announcer', 'Miki Meek', 'Domingo Martinez', 'Ben Calhoun']",3,0 days 00:57:52.810000,526/Is-That-What-I-Look-Like?
+526,Is That What I Look Like?,2017-12-14 10:24:29-08:00,Nancy Updike,"['Nancy Updike', 'Ira Glass', 'Announcer', 'Miki Meek', 'Domingo Martinez', 'Ben Calhoun']",3,0 days 00:57:52.810000,526/Is-That-What-I-Look-Like
 527,180 Degrees,2017-12-14 10:24:29-08:00,Alex Blumberg,"['Alex Blumberg', 'Chana Joffe-Walt', 'Ben Loory', 'Joe Richman', 'Announcer']",3,0 days 00:57:57.580000,527/180-Degrees
 528,The Radio Drama Episode,2017-12-14 10:24:29-08:00,Ira Glass,"['Lin-Manuel Miranda', 'Ira Glass', 'Announcer', 'Josh Bearman', 'Mike Birbiglia', 'Sasheer Zamata']",4,0 days 01:25:19.800000,528/The-Radio-Drama-Episode
 529,Human Spectacle,2017-12-14 10:24:29-08:00,Ira Glass,"['Ariel Sabar', 'Stephanie Foo', 'Nancy Updike', 'Ira Glass', 'Announcer']",3,0 days 00:58:02.880000,529/Human-Spectacle
 530,Mind Your Own Business,2017-12-14 10:24:29-08:00,Ira Glass,"['Chana Joffe- Walt', 'Chana Joffe-Walt', 'Nancy Updike', 'Ira Glass']",2,0 days 00:56:24.870000,530/Mind-Your-Own-Business
 531,Got Your Back,2017-12-14 11:21:30-08:00,Ira Glass,"['David Segal', 'Kevin Sieff', 'Ira Glass', 'David Hill']",2,0 days 00:56:59.190000,531/Got-Your-Back
 532,Magic Words,2017-12-14 11:21:30-08:00,Ira Glass,"['Jake Halpern', 'Man', 'Chana Joffe-Walt', 'Jonathan Goldstein', 'Ira Glass', 'Mike Pesca', 'Troy Malatia']",3,0 days 00:57:28.410000,532/Magic-Words
-533,"It's Not the Product, It's the Person",2017-12-14 10:24:29-08:00,Ira Glass,"['Alex Blumberg', 'Ira Glass', 'Zoe Chace']",3,0 days 00:57:23.190000,"533/It's-Not-the-Product,-It's-the-Person"
-534,A Not,2017-12-14 10:24:29-08:00,Ira Glass,"['Ben Calhoun', 'Ira Glass']",2,0 days 01:00:19.150000,534/A-Not
+533,"It's Not the Product, It's the Person",2017-12-14 10:24:29-08:00,Ira Glass,"['Alex Blumberg', 'Ira Glass', 'Zoe Chace']",3,0 days 00:57:23.190000,533/Its-Not-the-Product-Its-the-Person
+534,A Not so simple majority,2017-12-14 10:24:29-08:00,Ira Glass,"['Ben Calhoun', 'Ira Glass']",2,0 days 01:00:19.150000,534/A-Not
 535,Origin Story 2014,2017-12-14 10:24:29-08:00,Ira Glass,"['Sarah Koenig', 'Mary Wiltenburg', 'Ira Glass', 'Sean Cole']",4,0 days 00:58:32.430000,535/Origin-Story-2014
 536,The Secret Recordings of Carmen Segarra,2017-12-14 11:21:30-08:00,Ira Glass,"['Ira Glass', 'Jake Bernstein']",1,0 days 01:02:00.140000,536/The-Secret-Recordings-of-Carmen-Segarra
 537,The Alibi,2017-12-14 10:24:29-08:00,Ira Glass,"['Sarah Koenig', 'Ira Glass']",0,0 days 00:56:48.790000,537/The-Alibi
-538,Is This Working?,2017-12-14 10:24:29-08:00,Ira Glass,"['Chana Joffe-Walt', 'Ira Glass']",3,0 days 01:02:17.300000,538/Is-This-Working?
+538,Is This Working?,2017-12-14 10:24:29-08:00,Ira Glass,"['Chana Joffe-Walt', 'Ira Glass']",3,0 days 01:02:17.300000,538/Is-This-Working
 539,The Leap,2017-12-14 10:24:29-08:00,Ira Glass,"['Jonathan Goldstein', 'Nancy Updike', 'Ira Glass', 'Joe Richman', 'Sean Cole']",3,0 days 00:57:39.780000,539/The-Leap
 540,A Front,2017-12-14 10:24:29-08:00,Ira Glass,"['Ayelet Waldman', 'Ira Glass', 'Debbie Nathan']",3,0 days 00:57:27.580000,540/A-Front
-541,"Regrets, I've Had a Few",2017-12-14 11:21:30-08:00,Ira Glass,"['Elna Baker', 'Ira Glass', 'Miki Meek']",2,0 days 00:56:01.010000,"541/Regrets,-I've-Had-a-Few"
-542,Wait—Do You Have The Map?,2017-12-14 10:24:29-08:00,Ira Glass,"['James Spring', 'Nancy Updike', 'Ira Glass', 'Christopher Rhoads']",3,0 days 00:58:08.880000,542/Wait—Do-You-Have-The-Map?
+541,"Regrets, I've Had a Few",2017-12-14 11:21:30-08:00,Ira Glass,"['Elna Baker', 'Ira Glass', 'Miki Meek']",2,0 days 00:56:01.010000,541/Regrets-Ive-Had-a-Few
+542,Wait—Do You Have The Map?,2017-12-14 10:24:29-08:00,Ira Glass,"['James Spring', 'Nancy Updike', 'Ira Glass', 'Christopher Rhoads']",3,0 days 00:58:08.880000,542/Wait-Do-You-Have-The-Map
 543,Wake Up Now,2017-12-14 11:21:30-08:00,Ira Glass,"['David Kestenbaum', 'Jacob Goldstein', 'Ira Glass', 'Brian Reed', 'Bianca Giaever']",2,0 days 00:57:21.190000,543/Wake-Up-Now
 544,Batman,2017-12-14 10:24:29-08:00,Ira Glass,"['Lulu Miller', 'Alix Spiegel', 'Ira Glass']",2,0 days 00:57:03.030000,544/Batman
-545,"If You Don’t Have Anything Nice to Say, SAY IT IN ALL CAPS",2017-12-14 11:21:30-08:00,Ira Glass,"['Chana Joffe-Walt', 'Alix Spiegel', 'Stephanie Foo', 'Ira Glass', 'Jonathan Menjivar', 'Miki Meek', 'Pj Vogt', 'Susan Zalkind', 'Lindy West']",3,0 days 00:58:39.150000,"545/If-You-Don’t-Have-Anything-Nice-to-Say,-SAY-IT-IN-ALL-CAPS"
+545,"If You Don’t Have Anything Nice to Say, SAY IT IN ALL CAPS",2017-12-14 11:21:30-08:00,Ira Glass,"['Chana Joffe-Walt', 'Alix Spiegel', 'Stephanie Foo', 'Ira Glass', 'Jonathan Menjivar', 'Miki Meek', 'Pj Vogt', 'Susan Zalkind', 'Lindy West']",3,0 days 00:58:39.150000,545/If-You-Dont-Have-Anything-Nice-to-Say-SAY-IT-IN-ALL-CAPS
 546,Burroughs 101,2017-12-14 10:24:29-08:00,Ira Glass,"['Iggy Pop', 'Ira Glass', 'Colin Mcnulty']",2,0 days 00:58:24.030000,546/Burroughs-101
-547,"Cops See It Differently, Part One",2017-12-14 11:21:30-08:00,Ira Glass,"['Brian Reed', 'Ira Glass']",2,0 days 00:59:36.160000,"547/Cops-See-It-Differently,-Part-One"
-548,"Cops See It Differently, Part Two",2017-12-14 10:24:29-08:00,Ira Glass,"['Robyn Semien', 'Ira Glass', 'Sean Cole', 'Miki Meek']",2,0 days 01:01:59.330000,"548/Cops-See-It-Differently,-Part-Two"
+547,"Cops See It Differently, Part One",2017-12-14 11:21:30-08:00,Ira Glass,"['Brian Reed', 'Ira Glass']",2,0 days 00:59:36.160000,547/Cops-See-It-Differently-Part-One
+548,"Cops See It Differently, Part Two",2017-12-14 10:24:29-08:00,Ira Glass,"['Robyn Semien', 'Ira Glass', 'Sean Cole', 'Miki Meek']",2,0 days 01:01:59.330000,548/Cops-See-It-Differently-Part-Two
 549,Amateur Hour,2017-12-14 11:21:30-08:00,Ira Glass,"['Jack Hitt', 'Stephanie Foo', 'Hillary Frank', 'Ira Glass']",3,0 days 00:58:26.760000,549/Amateur-Hour
 550,Three Miles,2017-12-14 10:24:29-08:00,Ira Glass,"['Chana Joffe-Walt', 'Ira Glass']",2,0 days 00:59:35.200000,550/Three-Miles
 551,Good Guys 2015,2017-12-14 10:24:29-08:00,Ira Glass,"['Ira Glass', 'Don Shirley', 'Julia Dewitt', 'Scott Carrier', 'Ben Calhoun', 'Mike Birbiglia']",4,0 days 00:57:05.290000,551/Good-Guys-2015
 552,Need To Know Basis,2017-12-14 10:24:29-08:00,Ira Glass,"['Stephanie Foo', 'Ira Glass', 'Zoe Chace']",3,0 days 01:01:53.880000,552/Need-To-Know-Basis
 553,Stuck in the Middle,2017-12-14 10:24:29-08:00,Ira Glass,"['Sara Corbett', 'Greg', 'Ira Glass', 'Dick', 'Mark Oppenheimer', 'Brett Martin']",3,0 days 00:57:32.590000,553/Stuck-in-the-Middle
-554,Not It!,2017-12-14 11:21:30-08:00,Ira Glass,"['Brian Reed', 'Ira Glass', 'Zoe Chace']",3,0 days 01:00:40.270000,554/Not-It!
+554,Not It!,2017-12-14 11:21:30-08:00,Ira Glass,"['Brian Reed', 'Ira Glass', 'Zoe Chace']",3,0 days 01:00:40.270000,554/Not-It
 555,The Incredible Rarity of Changing Your Mind,2017-12-14 10:24:29-08:00,Ira Glass,"['Miki Meek', 'Ira Glass', 'Joe Richmond']",3,0 days 00:58:09.430000,555/The-Incredible-Rarity-of-Changing-Your-Mind
-556,"Same Bed, Different Dreams",2017-12-14 10:24:29-08:00,Ira Glass,"['Stephanie Foo', 'Nancy Updike', 'Ira Glass', 'Miki Meek']",4,0 days 00:59:05.660000,"556/Same-Bed,-Different-Dreams"
-557,Birds & Bees,2017-12-14 10:24:29-08:00,Chana Joffe-Walt,"['Chana Joffe-Walt', 'Jonathan Goldstein', 'W. Kamau Bell']",3,0 days 01:03:58.510000,557/Birds-&-Bees
+556,"Same Bed, Different Dreams",2017-12-14 10:24:29-08:00,Ira Glass,"['Stephanie Foo', 'Nancy Updike', 'Ira Glass', 'Miki Meek']",4,0 days 00:59:05.660000,556/Same-Bed-Different-Dreams
+557,Birds & Bees,2017-12-14 10:24:29-08:00,Chana Joffe-Walt,"['Chana Joffe-Walt', 'Jonathan Goldstein', 'W. Kamau Bell']",3,0 days 01:03:58.510000,557/Birds-Bees
 558,Game Face,2017-12-14 11:21:30-08:00,Ira Glass,"['Ira Glass', 'Sean Cole']",3,0 days 00:57:34.730000,558/Game-Face
-559,Captain's Log,2017-12-14 10:24:29-08:00,Ira Glass,"['Ira Glass', 'John Ellison Conlee', 'Jonathan Menjivar', 'Sue Scott', 'Pj Vogt', 'Jonathan Manjivar']",4,0 days 01:01:06.640000,559/Captain's-Log
+559,Captain's Log,2017-12-14 10:24:29-08:00,Ira Glass,"['Ira Glass', 'John Ellison Conlee', 'Jonathan Menjivar', 'Sue Scott', 'Pj Vogt', 'Jonathan Manjivar']",4,0 days 01:01:06.640000,559/Captains-Log
 560,Abdi and the Golden Ticket,2017-12-14 11:21:30-08:00,Ira Glass,"['Leo Hornak', 'Ira Glass']",2,0 days 01:01:09.330000,560/Abdi-and-the-Golden-Ticket
-561,NUMMI (2015),2017-12-14 10:24:29-08:00,Ira Glass,"['Frank Langfitt', 'Ira Glass']",2,0 days 01:04:17.270000,561/NUMMI-(2015)
-562,The Problem We All Live With,2017-12-14 11:21:30-08:00,Ira Glass,"['Nikole Hannah Jones', 'Ira Glass']",2,0 days 00:57:58.900000,562/The-Problem-We-All-Live-With
-563,The Problem We All Live With,2017-12-14 11:21:30-08:00,Ira Glass,"['', 'Chana Joffe-Walt', 'Ira Glass']",1,0 days 00:56:34.080000,563/The-Problem-We-All-Live-With
-564,Too Soon?,2017-12-14 10:24:29-08:00,Ira Glass,"['Nancy Updike', 'Ira Glass', 'Zoe Chace', 'Harmon Leon', 'Jordan Riley', 'Amy Silverman']",2,0 days 00:58:06.260000,564/Too-Soon?
-565,Lower 9 + 10,2017-12-14 10:24:29-08:00,Ira Glass,"['Robyn Semien', 'Ira Glass', 'Zoe Chace', 'Sean Cole']",6,0 days 01:07:42.670000,565/Lower-9-+-10
+561,NUMMI (2015),2017-12-14 10:24:29-08:00,Ira Glass,"['Frank Langfitt', 'Ira Glass']",2,0 days 01:04:17.270000,561/NUMMI-2015
+562,The Problem We All Live With Part One,2017-12-14 11:21:30-08:00,Ira Glass,"['Nikole Hannah Jones', 'Ira Glass']",2,0 days 00:57:58.900000,562/The-Problem-We-All-Live-With
+563,The Problem We All Live With Part Two,2017-12-14 11:21:30-08:00,Ira Glass,"['', 'Chana Joffe-Walt', 'Ira Glass']",1,0 days 00:56:34.080000,563/The-Problem-We-All-Live-With
+564,Too Soon?,2017-12-14 10:24:29-08:00,Ira Glass,"['Nancy Updike', 'Ira Glass', 'Zoe Chace', 'Harmon Leon', 'Jordan Riley', 'Amy Silverman']",2,0 days 00:58:06.260000,564/Too-Soon
+565,Lower 9 + 10,2017-12-14 10:24:29-08:00,Ira Glass,"['Robyn Semien', 'Ira Glass', 'Zoe Chace', 'Sean Cole']",6,0 days 01:07:42.670000,565/Lower-9-10
 566,The Land of Make Believe,2017-12-14 10:24:29-08:00,Ira Glass,"['Jonathan Menjivar', 'Ira Glass', 'Miki Meek']",2,0 days 00:55:39.080000,566/The-Land-of-Make-Believe
-567,What’s Going On In There?,2017-12-14 11:21:30-08:00,Ira Glass,['Rainy'],2,0 days 00:57:19.290000,567/What’s-Going-On-In-There?
+567,What’s Going On In There?,2017-12-14 11:21:30-08:00,Ira Glass,['Rainy'],2,0 days 00:57:19.290000,567/Whats-Going-On-In-There
 568,Human Spectacle,2017-12-14 10:24:29-08:00,Ira Glass,"['David Segal', 'Ariel Sabar', 'Stephanie Foo', 'Ira Glass']",3,0 days 00:57:35.340000,568/Human-Spectacle
 569,Put a Bow on It,2017-12-14 10:24:29-08:00,Ira Glass,"['Ahamefule Oluo', 'Ira Glass', 'Zoe Chace']",3,0 days 00:57:38.340000,569/Put-a-Bow-on-It
 570,The Night In Question,2017-12-14 10:24:29-08:00,Ira Glass,"['Dan Ephron', 'Nancy Updike', 'Ira Glass']",2,0 days 01:01:46.730000,570/The-Night-In-Question
 571,The Heart Wants What It Wants,2017-12-14 11:21:30-08:00,Ira Glass,"['Shankar Vedantam', 'Ira Glass']",2,0 days 00:58:52.650000,571/The-Heart-Wants-What-It-Wants
 572,Transformers,2017-12-14 10:24:29-08:00,Ira Glass,"[""Keith O'Brien"", 'Sean Cole', 'Ira Glass', 'Anthony Devito']",4,0 days 00:58:14.950000,572/Transformers
 573,Status Update,2017-12-14 10:24:29-08:00,Ira Glass,"['Chana Joffe-Walt', 'Ira Glass', 'Neil Drumming']",4,0 days 00:58:25.980000,573/Status-Update
-574,Sinatra’s 100th Birthday,2017-12-14 10:24:29-08:00,Ira Glass,"['Ira Glass', 'Blake Eskin']",5,0 days 00:56:48.090000,574/Sinatra’s-100th-Birthday
+574,Sinatra’s 100th Birthday,2017-12-14 10:24:29-08:00,Ira Glass,"['Ira Glass', 'Blake Eskin']",5,0 days 00:56:48.090000,574/Sinatras-100th-Birthday
 575,Poetry of Propaganda,2017-12-14 10:24:29-08:00,Ira Glass,"['Jon Mooallem', 'Nancy Updike', 'Ira Glass', 'Sean Cole']",4,0 days 01:00:34.750000,575/Poetry-of-Propaganda
 576,Say Yes To Christmas,2017-12-14 10:24:29-08:00,Ira Glass,"['Stephanie Foo', 'Ira Glass']",3,0 days 01:00:12.210000,576/Say-Yes-To-Christmas
 577,Something Only I Can See,2017-12-14 10:24:29-08:00,Ira Glass,"['David Epstein', 'Nancy Updike', 'Ira Glass', 'Alex Karpovsky']",3,0 days 00:59:08.120000,577/Something-Only-I-Can-See
 578,I Thought I Knew You,2017-12-14 10:24:29-08:00,Ira Glass,"['Eve Abrams', 'Ira Glass', 'Zoe Chace']",4,0 days 01:01:22.420000,578/I-Thought-I-Knew-You
 579,My Damn Mind,2017-12-14 10:24:29-08:00,Ira Glass,"['Nancy Updike', 'Ira Glass']",2,0 days 00:56:48.680000,579/My-Damn-Mind
-580,That's One Way to Do It,2017-12-14 10:24:29-08:00,Ira Glass,"['Stephanie Foo', 'Ira Glass', 'Zoe Chace']",2,0 days 00:57:23.400000,580/That's-One-Way-to-Do-It
+580,That's One Way to Do It,2017-12-14 10:24:29-08:00,Ira Glass,"['Stephanie Foo', 'Ira Glass', 'Zoe Chace']",2,0 days 00:57:23.400000,580/Thats-One-Way-to-Do-It
 581,Anatomy of Doubt,2017-12-14 10:24:29-08:00,Ira Glass,"['Robyn Semien', 'Ken Armstrong', 'Ira Glass']",2,0 days 00:57:50.210000,581/Anatomy-of-Doubt
 582,When the Beasts Come Marching In,2017-12-14 11:21:30-08:00,Ira Glass,"['James Spring', 'Michael Chernus', 'Ira Glass', 'Michael Chernis', 'Jon Mooallem']",3,0 days 01:00:44.640000,582/When-the-Beasts-Come-Marching-In
-583,It’ll Make Sense When You’re Older,2017-12-14 10:24:29-08:00,Chana Joffe-Walt,"['Chana Joffe-Walt', 'Hillary Frank', 'Sasheer Zamata']",4,0 days 00:56:07.600000,583/It’ll-Make-Sense-When-You’re-Older
+583,It’ll Make Sense When You’re Older,2017-12-14 10:24:29-08:00,Chana Joffe-Walt,"['Chana Joffe-Walt', 'Hillary Frank', 'Sasheer Zamata']",4,0 days 00:56:07.600000,583/Itll-Make-Sense-When-Youre-Older
 584,For Your Reconsideration,2017-12-14 10:24:29-08:00,Ira Glass,"['Ira Glass', 'Joel Lovell']",3,0 days 00:57:51.050000,584/For-Your-Reconsideration
 585,In Defense of Ignorance,2017-12-14 10:24:29-08:00,Ira Glass,"['Lulu Wang', 'Stephanie Foo', 'Ira Glass', 'Sean Cole']",3,0 days 00:58:30.430000,585/In-Defense-of-Ignorance
-586,Who Do We Think We Are?,2017-12-14 10:24:29-08:00,Sean Cole,"['Mariya Karimjee', 'Zoe Chace', 'Sean Cole']",2,0 days 00:56:57.870000,586/Who-Do-We-Think-We-Are?
+586,Who Do We Think We Are?,2017-12-14 10:24:29-08:00,Sean Cole,"['Mariya Karimjee', 'Zoe Chace', 'Sean Cole']",2,0 days 00:56:57.870000,586/Who-Do-We-Think-We-Are
 587,The Perils of Intimacy,2017-12-14 11:21:30-08:00,Ira Glass,"['Kyle Mizono', 'Matt Malloy', 'Ira Glass', 'Neil Drumming']",4,0 days 00:59:57.190000,587/The-Perils-of-Intimacy
 588,Mind Games,2017-12-14 10:24:29-08:00,Ira Glass,"['Jorge Just', 'Ira Glass']",3,0 days 00:57:45.340000,588/Mind-Games
-589,Tell Me I’m Fat,2017-12-14 10:24:29-08:00,Ira Glass,"['Elna Baker', 'Ira Glass', 'Daniel Engber']",4,0 days 01:06:51.300000,589/Tell-Me-I’m-Fat
+589,Tell Me I’m Fat,2017-12-14 10:24:29-08:00,Ira Glass,"['Elna Baker', 'Ira Glass', 'Daniel Engber']",4,0 days 01:06:51.300000,589/Tell-Me-Im-Fat
 590,Choosing Wrong,2017-12-14 10:24:29-08:00,Ira Glass,"['Malcolm Gladwell', 'Ira Glass', 'Zoe Chace']",2,0 days 00:56:59.710000,590/Choosing-Wrong
-591,Get Your Money's Worth,2017-12-14 11:21:30-08:00,Zoe Chace,"['Sara Corbett', 'Simon Rich', 'Zoe Chace']",3,0 days 00:59:05.230000,591/Get-Your-Money's-Worth
-592,Are We There Yet?,2017-12-14 10:24:29-08:00,Ira Glass,"['Joanna', 'Ira Glass', 'Miki Meek']",2,0 days 01:01:36.750000,592/Are-We-There-Yet?
-593,Don’t Have to Live Like a Refugee,2017-12-14 10:24:29-08:00,Ira Glass,"['Interpreter', 'Ira Glass', 'Joanna Kakissis', 'Miki Meek', 'Robyn Semien', 'Sean Cole']",5,0 days 01:19:28.590000,593/Don’t-Have-to-Live-Like-a-Refugee
+591,Get Your Money's Worth,2017-12-14 11:21:30-08:00,Zoe Chace,"['Sara Corbett', 'Simon Rich', 'Zoe Chace']",3,0 days 00:59:05.230000,591/Get-Your-Moneys-Worth
+592,Are We There Yet?,2017-12-14 10:24:29-08:00,Ira Glass,"['Joanna', 'Ira Glass', 'Miki Meek']",2,0 days 01:01:36.750000,592/Are-We-There-Yet
+593,Don’t Have to Live Like a Refugee,2017-12-14 10:24:29-08:00,Ira Glass,"['Interpreter', 'Ira Glass', 'Joanna Kakissis', 'Miki Meek', 'Robyn Semien', 'Sean Cole']",5,0 days 01:19:28.590000,593/Dont-Have-to-Live-Like-a-Refugee
 594,My Summer Self,2017-12-14 10:24:29-08:00,Ira Glass,"['Neil Drumming', 'Ira Glass', 'Dana Chivvis']",2,0 days 00:57:25.840000,594/My-Summer-Self
 595,Deep End of the Pool,2017-12-14 10:24:29-08:00,Ira Glass,"['David Zax', 'Ira Glass', 'Karen Duffin']",2,0 days 00:58:03.870000,595/Deep-End-of-the-Pool
 596,Becoming a Badger,2017-12-14 10:24:29-08:00,Ira Glass,"['Zoe Chace', 'Emmanuel Dzotsi', 'Ira Glass', 'Zack McDermott']",2,0 days 00:57:24.840000,596/Becoming-a-Badger
 597,One Last Thing Before I Go,2017-12-14 10:24:29-08:00,Ira Glass,"['Jonathan Goldstein', 'Ira Glass', 'Miki Meek']",2,0 days 00:59:00.500000,597/One-Last-Thing-Before-I-Go
 598,My Undesirable Talent,2017-12-14 10:24:29-08:00,Ira Glass,"['Neil Drumming', 'Ira Glass', 'Karen Duffin']",3,0 days 00:58:26.070000,598/My-Undesirable-Talent
-599,Seriously?,2017-12-14 11:21:30-08:00,Ira Glass,"['Dave Kestenbaum', 'Ira Glass']",3,0 days 01:03:34.780000,599/Seriously?
-600,Will I Know Anyone at This Party?,2017-12-14 11:21:30-08:00,Ira Glass,"['Ira Glass', 'Zoe Chace']",1,0 days 01:04:51.690000,600/Will-I-Know-Anyone-at-This-Party?
-601,Master of Her Domain… Name,2017-12-14 11:21:30-08:00,Ira Glass,"['Garrett Graff', 'Jack Hitt', 'Ira Glass', 'Sean Cole']",3,0 days 00:57:25,601/Master-of-Her-Domain…-Name
+599,Seriously?,2017-12-14 11:21:30-08:00,Ira Glass,"['Dave Kestenbaum', 'Ira Glass']",3,0 days 01:03:34.780000,599/Seriously
+600,Will I Know Anyone at This Party?,2017-12-14 11:21:30-08:00,Ira Glass,"['Ira Glass', 'Zoe Chace']",1,0 days 01:04:51.690000,600/Will-I-Know-Anyone-at-This-Party
+601,Master of Her Domain… Name,2017-12-14 11:21:30-08:00,Ira Glass,"['Garrett Graff', 'Jack Hitt', 'Ira Glass', 'Sean Cole']",3,0 days 00:57:25,601/Master-of-Her-Domain-Name
 602,The Sun Comes Up,2017-12-14 10:24:29-08:00,Ira Glass,"['Emmanuel Dzotsi', 'David Kestenbaum', 'Stephanie Foo', 'Ira Glass', 'Karen Duffin', 'Zoe Chace', 'Jonathan Menjivar', 'Miki Meek', 'Neil Drumming', 'Elna Baker']",11,0 days 01:04:40.740000,602/The-Sun-Comes-Up
-603,"Once More, With Feeling",2017-12-14 10:24:29-08:00,Ira Glass,"['Eleantor Gordon-Smith', 'Jeremy Shamos', 'Stephanie Foo', 'Ira Glass', 'Eleanor Gordon-Smith']",3,0 days 00:57:38.920000,"603/Once-More,-With-Feeling"
+603,"Once More, With Feeling",2017-12-14 10:24:29-08:00,Ira Glass,"['Eleantor Gordon-Smith', 'Jeremy Shamos', 'Stephanie Foo', 'Ira Glass', 'Eleanor Gordon-Smith']",3,0 days 00:57:38.920000,603/Once-More-With-Feeling
 604,20 Years Later,2017-12-14 10:24:29-08:00,Ira Glass,"['Samantha Broun', 'Ira Glass']",2,0 days 00:58:45.570000,604/20-Years-Later
 605,Kid Logic,2017-12-14 10:24:29-08:00,Ira Glass,"['Alex Blumberg', 'Howie Chackowicz', 'Ira Glass']",4,0 days 00:57:25.890000,605/Kid-Logic
 606,Just What I Wanted,2017-12-14 10:24:29-08:00,Ira Glass,"['Maile Meloy', 'Ira Glass', 'Zoe Chace']",2,0 days 00:58:41.760000,606/Just-What-I-Wanted
-607,Didn’t We Solve This One?,2017-12-14 10:24:29-08:00,Ira Glass,"['Nancy Updike', 'Ira Glass']",2,0 days 01:01:59.430000,607/Didn’t-We-Solve-This-One?
+607,Didn’t We Solve This One?,2017-12-14 10:24:29-08:00,Ira Glass,"['Nancy Updike', 'Ira Glass']",2,0 days 01:01:59.430000,607/Didnt-We-Solve-This-One
 608,The Revolution Starts At Noon,2017-12-14 10:24:29-08:00,Ira Glass,"['Sam Black', 'David Kestenbaum', 'Stephanie Foo', 'Ira Glass', 'Zoe Chace', 'Seth Freed Wessler']",6,0 days 01:05:39.720000,608/The-Revolution-Starts-At-Noon
-609,It’s Working Out Very Nicely,2017-12-14 11:21:30-08:00,Ira Glass,"['Nancy Updike', 'Ira Glass', 'Zoe Chace']",5,0 days 00:59:51.710000,609/It’s-Working-Out-Very-Nicely
+609,It’s Working Out Very Nicely,2017-12-14 11:21:30-08:00,Ira Glass,"['Nancy Updike', 'Ira Glass', 'Zoe Chace']",5,0 days 00:59:51.710000,609/Its-Working-Out-Very-Nicely
 610,Grand Gesture,2017-12-14 10:24:29-08:00,Ira Glass,"['David Kestenbaum', 'Ira Glass', 'Miki Meek']",2,0 days 00:59:06.260000,610/Grand-Gesture
 611,Vague and Confused,2017-12-14 10:24:29-08:00,Ira Glass,"['David Kestenbaum', 'Ira Glass', 'Adia White', 'Sean Cole']",2,0 days 01:03:36.360000,611/Vague-and-Confused
-612,Ask a Grown,2017-12-14 10:24:29-08:00,Ira Glass,"['David Kestenbaum', 'Ira Glass', 'Sean Cole']",4,0 days 00:58:56.050000,612/Ask-a-Grown
-613,"OK, I’ll Do It",2017-12-14 11:21:30-08:00,Ira Glass,"['Francisco Cantu', 'Reya El-salahi', 'Ira Glass']",2,0 days 00:59:30.900000,"613/OK,-I’ll-Do-It"
-614,The Other Mr. President,2017-12-14 10:24:29-08:00,Ira Glass,"['Charles Maynes', 'Robyn Semien', 'Ira Glass', 'Sean Cole']",4,0 days 01:01:17.600000,614/The-Other-Mr.-President
+612,Ask a Grown up,2017-12-14 10:24:29-08:00,Ira Glass,"['David Kestenbaum', 'Ira Glass', 'Sean Cole']",4,0 days 00:58:56.050000,612/Ask-a-Grown
+613,"OK, I’ll Do It",2017-12-14 11:21:30-08:00,Ira Glass,"['Francisco Cantu', 'Reya El-salahi', 'Ira Glass']",2,0 days 00:59:30.900000,613/OK-Ill-Do-It
+614,The Other Mr. President,2017-12-14 10:24:29-08:00,Ira Glass,"['Charles Maynes', 'Robyn Semien', 'Ira Glass', 'Sean Cole']",4,0 days 01:01:17.600000,614/The-Other-Mr-President
 615,The Beginning of Now,2017-12-14 11:21:30-08:00,Ira Glass,"['Ira Glass', 'Zoe Chace']",2,0 days 00:57:44.390000,615/The-Beginning-of-Now
 616,I Am Not A Pirate,2017-12-14 10:24:29-08:00,Ira Glass,"['Stephanie Foo', 'Ira Glass', 'Dana Chivvis']",2,0 days 01:05:34.370000,616/I-Am-Not-A-Pirate
-617,Fermi’s Paradox,2017-12-14 10:24:29-08:00,Ira Glass,"['Stephanie Foo', 'Ira Glass', 'David Kestenbaum']",3,0 days 00:58:12.100000,617/Fermi’s-Paradox
-618,Mr. Lie Detector,2017-12-14 10:24:29-08:00,Ira Glass,"['Ira Glass', 'Sean Cole']",1,0 days 00:58:40.430000,618/Mr.-Lie-Detector
+617,Fermi’s Paradox,2017-12-14 10:24:29-08:00,Ira Glass,"['Stephanie Foo', 'Ira Glass', 'David Kestenbaum']",3,0 days 00:58:12.100000,617/Fermis-Paradox
+618,Mr. Lie Detector,2017-12-14 10:24:29-08:00,Ira Glass,"['Ira Glass', 'Sean Cole']",1,0 days 00:58:40.430000,618/Mr-Lie-Detector
 619,The Magic Show,2017-12-14 10:24:29-08:00,Ira Glass,"['Ira Glass', 'David Kestenbaum']",2,0 days 00:57:53.070000,619/The-Magic-Show
 620,To Be Real,2017-12-14 10:24:29-08:00,Ira Glass,"['Jon Ronson', 'Ira Glass', 'David Kestenbaum']",3,0 days 00:57:27.800000,620/To-Be-Real
 621,Fear and Loathing in Homer and Rockville,2017-12-14 10:24:29-08:00,Ira Glass,"['Brian Reed', 'Ira Glass', 'Zoe Chace']",2,0 days 01:02:32.660000,621/Fear-and-Loathing-in-Homer-and-Rockville
-622,Who You Gonna Call?,2017-12-14 10:24:29-08:00,Sean Cole,"['Aaron Reiss', 'Ira Glass', 'Sean Cole']",2,0 days 01:00:05.180000,622/Who-You-Gonna-Call?
+622,Who You Gonna Call?,2017-12-14 10:24:29-08:00,Sean Cole,"['Aaron Reiss', 'Ira Glass', 'Sean Cole']",2,0 days 01:00:05.180000,622/Who-You-Gonna-Call
 623,We Are in the Future,2017-12-14 10:24:29-08:00,Ira Glass,"['Ira Glass', 'Neil Drumming']",4,0 days 00:57:24.840000,623/We-Are-in-the-Future
 624,Private Geography,2017-12-14 10:24:29-08:00,Ira Glass,"['Neil Drumming', 'Ira Glass', 'Susan Burton']",2,0 days 00:58:14.580000,624/Private-Geography
 625,Essay B,2017-12-14 10:24:29-08:00,Ira Glass,"['Mariya Karimjee', 'Mosi Secret', 'Ira Glass']",2,0 days 00:57:54.680000,625/Essay-B
@@ -632,31 +632,31 @@ ep_num,ep_name,pub_date,host,contributers,num_acts,last_timestamp,url_suffix
 634,Human Error in Volatile Situations,2018-01-12 09:13:01-08:00,Ira Glass,"['Stephanie Foo', 'Ira Glass', 'Joe Richman']",2,0 days 00:59:51.980000,634/Human-Error-in-Volatile-Situations
 635,Chip in My Brain,2018-01-16 09:16:18-08:00,Ira Glass,"['Ira Glass', 'David Kestenbaum']",2,0 days 01:05:45.630000,635/Chip-in-My-Brain
 636,I Thought It Would Be Easier,2018-01-20 06:10:01-08:00,Ira Glass,"['Jonathan Menjivar', 'Ben Calhoun', 'Ira Glass', 'Julia Preston']",2,0 days 00:58:08.580000,636/I-Thought-It-Would-Be-Easier
-637,Words You Can't Say,2018-02-03 07:10:01-08:00,Ira Glass,"['Kelefa Sanneh', 'Ira Glass', 'Dana Chivvis']",2,0 days 00:57:42.220000,637/Words-You-Can't-Say
+637,Words You Can't Say,2018-02-03 07:10:01-08:00,Ira Glass,"['Kelefa Sanneh', 'Ira Glass', 'Dana Chivvis']",2,0 days 00:57:42.220000,637/Words-You-Cant-Say
 638,Rom,2018-02-10 05:10:01-08:00,Ira Glass,"['Daniel Radcliffe', 'Diane Wu', 'David Kestenbaum', 'Ira Glass', 'Neil Drumming', 'Elna Baker']",3,0 days 01:00:54.020000,638/Rom
 639,In Dog We Trust,2018-02-24 05:10:01-08:00,Ira Glass,"['Brady Udall', 'Ira Glass']",2,0 days 00:57:19.100000,639/In-Dog-We-Trust
 640,Five Women,2018-03-02 20:10:01-08:00,Ira Glass,"['Chana Joffe-Walt', 'Ira Glass']",6,0 days 01:17:16.130000,640/Five-Women
 641,The Walls,2018-03-17 06:10:01-07:00,Ira Glass,"['Brian Reed', 'Lizzie Presser', 'Ira Glass', 'David Kestenbaum']",4,0 days 01:12:29.270000,641/The-Walls
 642,The Impossible Dream,2018-04-09 00:10:01-07:00,Ira Glass,"['Ira Glass', 'Zoe Chace']",3,0 days 01:03:46.940000,642/The-Impossible-Dream
-643,Damned If You Do…,2018-04-14 06:10:01-07:00,Ira Glass,"['Kevin Sieff', 'Sharif Youssef', 'Ira Glass', 'Shannon Heffernan']",3,0 days 00:57:08.700000,643/Damned-If-You-Do…
+643,Damned If You Do…,2018-04-14 06:10:01-07:00,Ira Glass,"['Kevin Sieff', 'Sharif Youssef', 'Ira Glass', 'Shannon Heffernan']",3,0 days 00:57:08.700000,643/Damned-If-You-Do
 644,Random Acts of History,2018-04-28 05:10:01-07:00,Ira Glass,"['B. A. Parker', 'Ira Glass', 'Steve Kandell']",2,0 days 00:56:53.260000,644/Random-Acts-of-History
 645,My Effing First Amendment,2018-05-05 08:10:01-07:00,Ira Glass,"['Ira Glass', 'Zoe Chace', 'Steve Kolowich']",2,0 days 01:00:32.710000,645/My-Effing-First-Amendment
 646,The Secret of My Death,2018-05-19 07:10:01-07:00,Ira Glass,"['Stephanie Foo', 'Ira Glass', 'Dana Chivvis']",3,0 days 01:03:30.920000,646/The-Secret-of-My-Death
 647,LaDonna,2018-05-26 16:10:02-07:00,Ira Glass,"['Chana Joffe-Walt', 'Ira Glass']",2,0 days 01:02:54.500000,647/LaDonna
 648,Unteachable Moment,2018-06-09 06:10:01-07:00,Ira Glass,"['Kelefa Sanneh', 'Ira Glass', 'Eli Hager']",3,0 days 00:58:39.930000,648/Unteachable-Moment
-649,It's My Party and I'll Try If I Want To,2018-06-23 06:10:01-07:00,Ira Glass,"['Ben Calhoun', 'Ira Glass']",2,0 days 00:57:59.040000,649/It's-My-Party-and-I'll-Try-If-I-Want-To
+649,It's My Party and I'll Try If I Want To,2018-06-23 06:10:01-07:00,Ira Glass,"['Ben Calhoun', 'Ira Glass']",2,0 days 00:57:59.040000,649/Its-My-Party-and-Ill-Try-If-I-Want-To
 650,Change You Can Maybe Believe In,2018-06-30 07:10:01-07:00,Ira Glass,"['Lilly Sullivan', 'Ira Glass', 'Jasmine Garsd']",2,0 days 01:00:08,650/Change-You-Can-Maybe-Believe-In
-651,"If You Build It, Will They Come?",2018-07-14 07:10:02-07:00,Ira Glass,"['Eric Mennel', 'Ira Glass', 'Neil Drumming']",3,0 days 00:57:23.990000,"651/If-You-Build-It,-Will-They-Come?"
+651,"If You Build It, Will They Come?",2018-07-14 07:10:02-07:00,Ira Glass,"['Eric Mennel', 'Ira Glass', 'Neil Drumming']",3,0 days 00:57:23.990000,651/If-You-Build-It-Will-They-Come
 652,ICE Capades,2018-07-21 06:10:01-07:00,Ira Glass,"['Nadia Reiman', 'Ira Glass', 'Miki Meek']",2,0 days 01:02:55.660000,652/ICE-Capades
 653,Crime Scene,2018-08-04 06:10:01-07:00,Ira Glass,"['Matt Molloy', 'Nancy Updike', 'Ira Glass', 'Katie Davis']",3,0 days 00:57:48.440000,653/Crime-Scene
 654,The Feather Heist,2018-08-11 05:10:01-07:00,Sean Cole,['Sean Cole'],7,0 days 01:03:04.020000,654/The-Feather-Heist
-655,The Not,2018-08-25 05:10:01-07:00,Ira Glass,"['Diane Wu', 'Dorian Missick', 'David Kestenbaum', 'Ira Glass', 'Jared Marcelle']",4,0 days 00:56:17.150000,655/The-Not
+655,The Not so great unknown,2018-08-25 05:10:01-07:00,Ira Glass,"['Diane Wu', 'Dorian Missick', 'David Kestenbaum', 'Ira Glass', 'Jared Marcelle']",4,0 days 00:56:17.150000,655/The-Not
 656,Let Me Count the Ways,2018-09-16 22:10:01-07:00,Ira Glass,"['Nadia Reiman', 'Julia Preston', 'Ira Glass', 'Zoe Chace']",5,0 days 01:15:57.690000,656/Let-Me-Count-the-Ways
 657,The Runaways,2018-09-23 08:10:01-07:00,Ira Glass,"['Hannah Dreier', 'Ira Glass']",2,0 days 00:58:47.220000,657/The-Runaways
 658,The Unhappy Deciders,2018-10-06 04:10:01-07:00,Ira Glass,"['Ira Glass', 'Zoe Chace', 'Jonathan Goldstein']",2,0 days 00:58:10.470000,658/The-Unhappy-Deciders
 659,Before the Next One,2018-10-13 03:10:01-07:00,Ira Glass,"['Robyn Semien', 'Lisa Pollak', 'Ira Glass', 'Miki Meek']",2,0 days 00:57:18.900000,659/Before-the-Next-One
 660,Hoaxing Yourself,2018-11-03 02:10:01-07:00,Ira Glass,"['Nancy Updike', 'Ira Glass', 'Shalom Auslander', 'Sean Cole']",3,0 days 00:56:12.870000,660/Hoaxing-Yourself
-661,But That's What Happened,2018-11-12 05:10:01-08:00,Ira Glass,"['Lilly Sullivan', 'Elna Baker', 'Ira Glass']",2,0 days 01:00:06.190000,661/But-That's-What-Happened
+661,But That's What Happened,2018-11-12 05:10:01-08:00,Ira Glass,"['Lilly Sullivan', 'Elna Baker', 'Ira Glass']",2,0 days 01:00:06.190000,661/But-Thats-What-Happened
 662,Where There Is a Will,2018-11-17 08:10:01-08:00,Ira Glass,"['Ira Glass', 'Zoe Chace', 'David Kestenbaum']",1,0 days 01:01:02.510000,662/Where-There-Is-a-Will
 663,How I Read It,2018-12-08 05:10:01-08:00,Ira Glass,"['Diane Wu', 'Ben Calhoun', 'Ira Glass', 'David Kestenbaum']",3,0 days 01:00:27.240000,663/How-I-Read-It
 664,The Room of Requirement,2018-12-28 23:10:01-08:00,Ira Glass,"['Stephanie Foo', 'Ira Glass', 'Zoe Chace', 'Sean Cole']",3,0 days 00:58:26.670000,664/The-Room-of-Requirement
@@ -667,11 +667,11 @@ ep_num,ep_name,pub_date,host,contributers,num_acts,last_timestamp,url_suffix
 669,Scrambling to Get Off the Ice,2019-03-02 05:10:01-08:00,Ira Glass,"['Jessica Hopper', 'Ira Glass', 'Zoe Chace']",2,0 days 01:00:25.520000,669/Scrambling-to-Get-Off-the-Ice
 670,Beware the Jabberwock,2019-03-18 05:10:01-07:00,Ira Glass,"['Jon Ronson', 'Ira Glass', 'Miki Meek']",2,0 days 01:07:10.110000,670/Beware-the-Jabberwock
 671,Anything Can Be Anything,2019-03-30 05:10:01-07:00, Ira  Glass,"['Jelani Cobb', 'Ben Calhoun', 'Ira Glass', 'Zoe Chace']",2,0 days 00:59:10.920000,671/Anything-Can-Be-Anything
-672,No Fair!,2019-04-06 05:10:01-07:00,David Kestenbaum,"['Michael Lewis', 'Ira Glass', 'David Kestenbaum']",2,0 days 01:01:50.860000,672/No-Fair!
+672,No Fair!,2019-04-06 05:10:01-07:00,David Kestenbaum,"['Michael Lewis', 'Ira Glass', 'David Kestenbaum']",2,0 days 01:01:50.860000,672/No-Fair
 673,Left Behind,2019-04-20 05:10:02-07:00,Ira Glass,"['Lilly Sullivan', 'Nancy Updike', 'Ira Glass', 'David Kestenbaum']",3,0 days 01:03:22.730000,673/Left-Behind
-674,Get a Spine!,2019-05-11 03:10:01-07:00,Ira Glass,"['Lilly Sullivan', 'Nancy Updike', 'Ira Glass']",3,0 days 01:03:04.680000,674/Get-a-Spine!
-675,I’m on TV??,2019-05-18 14:10:01-07:00,Ira Glass,"['Dan Taberski', 'Ira Glass', 'Bim Adewunmi', 'Lina Misitzis']",2,0 days 00:59:01.750000,675/I’m-on-TV??
-676,"Here’s Looking at You, Kid",2019-06-01 05:10:01-07:00,Ira Glass,"['Ira Glass', 'Eleanor Gordon-Smith']",2,0 days 00:59:44.330000,"676/Here’s-Looking-at-You,-Kid"
+674,Get a Spine!,2019-05-11 03:10:01-07:00,Ira Glass,"['Lilly Sullivan', 'Nancy Updike', 'Ira Glass']",3,0 days 01:03:04.680000,674/Get-a-Spine
+675,I’m on TV??,2019-05-18 14:10:01-07:00,Ira Glass,"['Dan Taberski', 'Ira Glass', 'Bim Adewunmi', 'Lina Misitzis']",2,0 days 00:59:01.750000,675/Im-on-TV
+676,"Here’s Looking at You, Kid",2019-06-01 05:10:01-07:00,Ira Glass,"['Ira Glass', 'Eleanor Gordon-Smith']",2,0 days 00:59:44.330000,676/Heres-Looking-at-You-Kid
 677,Seeing Yourself In the Wild,2019-06-15 06:10:01-07:00,Sean Cole,"['Emanuele Berry', 'Sean Cole']",2,0 days 01:00:11.080000,677/Seeing-Yourself-In-the-Wild
 678,The Wannabes,2019-07-06 03:10:01-07:00,Ira Glass,"['Emanuele Berry', 'David Kestenbaum', 'Ira Glass', 'Zoe Chace', 'Ben Calhoun']",5,0 days 01:06:57.760000,678/The-Wannabes
 679,Save the Girl,2019-07-13 05:10:01-07:00,Ira Glass,"['Nadia Reiman', 'Aviva DeKornfeld', 'Ira Glass', 'Lina Misitzis']",2,0 days 00:59:37.040000,679/Save-the-Girl
@@ -690,40 +690,40 @@ ep_num,ep_name,pub_date,host,contributers,num_acts,last_timestamp,url_suffix
 692,The Show of Delights,2020-02-01 05:10:01-08:00,Ira Glass,"['Ira Glass', 'Bim Adewunmi']",4,0 days 01:01:56.970000,692/The-Show-of-Delights
 693,Abdi the American,2020-02-08 05:10:01-08:00,Ira Glass,"['Leo Hornak', 'Ira Glass']",2,0 days 01:02:38.120000,693/Abdi-the-American
 694,Get Back to Where You Once Belonged,2020-02-15 06:10:01-08:00,Ira Glass,"['Ira Glass', 'Emanuele Berry', 'Jeremy Raff']",2,0 days 01:02:44.470000,694/Get-Back-to-Where-You-Once-Belonged
-695,Everyone's a Critic,2020-03-01 17:10:01-08:00,Ira Glass,"['Parker', 'Jiayang Fan', 'Ira Glass', 'Lina Misitzis']",3,0 days 00:57:50.480000,695/Everyone's-a-Critic
+695,Everyone's a Critic,2020-03-01 17:10:01-08:00,Ira Glass,"['Parker', 'Jiayang Fan', 'Ira Glass', 'Lina Misitzis']",3,0 days 00:57:50.480000,695/Everyones-a-Critic
 696,Low Hum of Menace,2020-03-14 11:10:01-07:00,Ira Glass,"['Jessica Lussenhop', 'Ira Glass']",2,0 days 01:01:39.250000,696/Low-Hum-of-Menace
 697,Alone Together,2020-03-21 01:10:01-07:00,Ira Glass,"['David Kestenbaum', 'Stephanie Foo', 'Ira Glass', 'Neil Drumming', 'Sean Cole']",4,0 days 00:58:59.270000,697/Alone-Together
 698,The Test,2020-03-28 04:10:01-07:00,Ira Glass,"['Ira Glass', 'Emanuele Berry', 'Sean Cole']",4,0 days 00:58:32.780000,698/The-Test
-699,Fiasco!,2020-04-04 04:10:01-07:00,Ira Glass,"['Ira Glass', 'Mike Birbiglia']",4,0 days 00:58:11.840000,699/Fiasco!
+699,Fiasco!,2020-04-04 04:10:01-07:00,Ira Glass,"['Ira Glass', 'Mike Birbiglia']",4,0 days 00:58:11.840000,699/Fiasco
 700,Embiggening,2020-04-11 05:10:01-07:00,Man,"['Man', 'Ira Glass', 'Karla Cornejo Villavicencio', 'Sean Cole']",3,0 days 01:01:59.430000,700/Embiggening
 701,Black Box,2020-04-18 02:10:01-07:00,Ira Glass,"['Ira Glass', 'Durrie Bouscaren', 'Miki Meek']",1,0 days 01:01:16.850000,701/Black-Box
 702,One Last Thing Before I Go,2020-04-25 05:10:01-07:00,Ira Glass,"['Jonathan Goldstein', 'Ira Glass', 'Miki Meek']",2,0 days 01:02:15.370000,702/One-Last-Thing-Before-I-Go
-703,Stuck!,2020-05-10 19:10:01-07:00,Ira Glass,"['Nadia Reiman', 'Narrator', 'Ira Glass']",3,0 days 00:58:09.180000,703/Stuck!
-704,Our Pulitzer,2020-05-16 02:10:01-07:00,Ira Glass,"[""Molly O'Toole"", 'Ira Glass', 'Emily Green']",2,0 days 01:06:06.680000,704/Our-Pulitzer
+703,Stuck!,2020-05-10 19:10:01-07:00,Ira Glass,"['Nadia Reiman', 'Narrator', 'Ira Glass']",3,0 days 00:58:09.180000,703/Stuck
+704,Our Pulitzer winning episode,2020-05-16 02:10:01-07:00,Ira Glass,"[""Molly O'Toole"", 'Ira Glass', 'Emily Green']",2,0 days 01:06:06.680000,704/Our-Pulitzer
 705,Time Out,2020-05-23 04:10:01-07:00,Ira Glass,"['Lisa Pollak', 'Nancy Updike', 'Ira Glass', 'Meema Spadola']",4,0 days 01:02:19.390000,705/Time-Out
 706,A Mess to Be Reckoned With,2020-05-30 04:10:01-07:00,Ira Glass,"['Sierra Crane Murdoch', 'Ira Glass']",2,0 days 01:03:20.620000,706/A-Mess-to-Be-Reckoned-With
 707,We Are in the Future,2020-06-06 03:10:01-07:00,Ira Glass,"['Ira Glass', 'Neil Drumming']",3,0 days 00:59:05.380000,707/We-Are-in-the-Future
-708,"Here, Again",2020-06-13 06:10:01-07:00,Ira Glass,"['Dana Chivvis', 'Diane Wu', 'Ira Glass', 'Lina Misitzis', 'Bim Adewunmi']",4,0 days 01:03:36.910000,"708/Here,-Again"
+708,"Here, Again",2020-06-13 06:10:01-07:00,Ira Glass,"['Dana Chivvis', 'Diane Wu', 'Ira Glass', 'Lina Misitzis', 'Bim Adewunmi']",4,0 days 01:03:36.910000,708/Here-Again
 709,The Reprieve,2020-06-27 06:10:02-07:00,Ira Glass,"['Emanuele Berry', 'Ira Glass', 'Miki Meek', 'Aaron Foley', 'Robyn Semien', 'Ben Calhoun']",4,0 days 01:16:15.710000,709/The-Reprieve
 710,Umbrellas Down,2020-07-11 05:10:01-07:00,Ira Glass,"['Alan Yu', 'Diane Wu', 'Ira Glass']",5,0 days 01:11:41.330000,710/Umbrellas-Down
 711,How to Be Alone,2020-07-18 05:10:01-07:00,Announcer,"['Lilly Sullivan', 'Nadia Reiman', 'Announcer', 'Danielle Evans', 'Bim Adewunmi']",4,0 days 01:04:38.840000,711/How-to-Be-Alone
 712,Nice White Parents,2020-08-03 07:10:01-07:00,Ira Glass,"['Chana Joffe-Walt', 'Ira Glass']",2,0 days 01:02:51.410000,712/Nice-White-Parents
 713,Made to Be Broken,2020-08-08 04:10:01-07:00,Sean Cole,"['Elna Baker', 'Sean Cole']",2,0 days 00:57:22.270000,713/Made-to-Be-Broken
 714,Day at the Beach,2020-08-15 02:10:01-07:00,Ira Glass,"['David Sedaris', 'Ira Glass', 'Dana Chivvis']",4,0 days 01:02:22.760000,714/Day-at-the-Beach
-715,Long,2020-08-29 05:10:01-07:00,Ira Glass,"['David Kestenbaum', 'Ira Glass', 'Miki Meek', 'Robyn Semien', 'Stephanie Wang']",4,0 days 01:05:13.660000,715/Long
+715,Long awaited asteroid finally hits earth,2020-08-29 05:10:01-07:00,Ira Glass,"['David Kestenbaum', 'Ira Glass', 'Miki Meek', 'Robyn Semien', 'Stephanie Wang']",4,0 days 01:05:13.660000,715/Long
 716,Trail of Tears,2020-09-07 14:10:01-07:00,Ira Glass,"['Amy Vowell', 'Sarah Vowell', 'Ira Glass']",1,0 days 00:58:36.980000,716/Trail-of-Tears
 717,Audience of One,2020-09-12 06:10:01-07:00,Ira Glass,"['Diane Wu', 'Ben Calhoun', 'Ira Glass', 'Sean Cole']",3,0 days 01:10:27.570000,717/Audience-of-One
-718,"Same Bed, Different Dreams",2020-09-26 04:10:01-07:00,Ira Glass,"['Stephanie Foo', 'Nancy Updike', 'Ira Glass', 'Miki Meek']",4,0 days 00:59:43.420000,"718/Same-Bed,-Different-Dreams"
-719,Trust Me I’m a Doctor,2020-10-03 08:10:01-07:00,Ira Glass,"['Ben Calhoun', 'Ira Glass', 'Dana Chivvis']",2,0 days 00:57:31.350000,719/Trust-Me-I’m-a-Doctor
+718,"Same Bed, Different Dreams",2020-09-26 04:10:01-07:00,Ira Glass,"['Stephanie Foo', 'Nancy Updike', 'Ira Glass', 'Miki Meek']",4,0 days 00:59:43.420000,718/Same-Bed-Different-Dreams
+719,Trust Me I’m a Doctor,2020-10-03 08:10:01-07:00,Ira Glass,"['Ben Calhoun', 'Ira Glass', 'Dana Chivvis']",2,0 days 00:57:31.350000,719/Trust-Me-Im-a-Doctor
 720,The Moment After This Moment,2020-10-17 02:10:01-07:00,Ira Glass,"['Jonathan Menjivar', 'Ira Glass', 'Lina Misitzis']",4,0 days 00:56:32.480000,720/The-Moment-After-This-Moment
 721,The Walls Close In,2020-10-24 03:10:01-07:00,Ira Glass,"['Jay Caspian Kang', 'Kevin Sieff', 'Ira Glass']",2,0 days 00:57:54.530000,721/The-Walls-Close-In
 722,The Unreality of Now,2020-10-31 04:10:01-07:00,Ira Glass,"['Lilly Sullivan', 'Johnny Kauffman', 'E. Jean Carroll', 'Ira Glass']",3,0 days 01:03:02.780000,722/The-Unreality-of-Now
 723,Squeaker,2020-11-07 04:10:01-08:00,Announcer,"['Emanuele Berry', 'Mike Giglio', 'Nadia Reiman', 'Stephanie Foo', 'Ira Glass', 'Announcer', 'Ben Calhoun', 'Sean Cole']",6,0 days 01:06:35.990000,723/Squeaker
 724,Personal Recount,2020-11-14 03:10:01-08:00,Ira Glass,"['Emily Flake', 'Lizzie Johnson', 'Jasmine Garsd', 'Ira Glass', 'Johnny Kauffman']",3,0 days 01:01:24.940000,724/Personal-Recount
 725,Turkey in a Face Mask,2020-11-25 23:10:01-08:00,Ira Glass,"['Ben Calhoun', 'Ira Glass', 'Jonathan Goldstein']",3,0 days 01:03:16.360000,725/Turkey-in-a-Face-Mask
-726,Twenty,2020-12-12 01:10:02-08:00,Ira Glass,"['Noor Gill', 'Mitchell S. Jackson', 'Ira Glass', 'Linah Mohammad', 'Sue Jaye Johnson']",4,0 days 00:58:11.050000,726/Twenty
-727,Boulder v. Hill,2020-12-19 08:10:02-08:00,Ira Glass,"['Lilly Sullivan', 'Lizzie Johnson', 'Ira Glass', 'David Kestenbaum']",2,0 days 01:05:10.580000,727/Boulder-v.-Hill
-728,"Lights, Camera, Christmas!",2020-12-24 08:10:01-08:00,Ira Glass,"['Maya Gurantz', 'Ira Glass']",2,0 days 00:57:55.070000,"728/Lights,-Camera,-Christmas!"
+726,Twenty five,2020-12-12 01:10:02-08:00,Ira Glass,"['Noor Gill', 'Mitchell S. Jackson', 'Ira Glass', 'Linah Mohammad', 'Sue Jaye Johnson']",4,0 days 00:58:11.050000,726/Twenty
+727,Boulder v. Hill,2020-12-19 08:10:02-08:00,Ira Glass,"['Lilly Sullivan', 'Lizzie Johnson', 'Ira Glass', 'David Kestenbaum']",2,0 days 01:05:10.580000,727/Boulder-v-Hill
+728,"Lights, Camera, Christmas!",2020-12-24 08:10:01-08:00,Ira Glass,"['Maya Gurantz', 'Ira Glass']",2,0 days 00:57:55.070000,728/Lights-Camera-Christmas
 729,Making the Cut,2021-01-09 06:10:01-08:00,Ira Glass,"['Lilly Sullivan', 'Elna Baker', 'Katie Mingle', 'Ira Glass']",3,0 days 01:02:17.880000,729/Making-the-Cut
 730,The Empty Chair,2021-01-23 03:10:01-08:00,Announcer,"['Chana Joffe-Walt', 'Lilly Sullivan', 'Ira Glass', 'Announcer', 'Emmanuel Felton']",4,0 days 00:57:27.430000,730/The-Empty-Chair
 731,What Lies Beneath,2021-02-13 04:10:01-08:00,Announcer,"['Dana Chivvis', 'David Kestenbaum', 'Lilly Sullivan', 'Ira Glass', 'Announcer']",4,0 days 00:59:02.990000,731/What-Lies-Beneath
@@ -733,12 +733,12 @@ ep_num,ep_name,pub_date,host,contributers,num_acts,last_timestamp,url_suffix
 735,Bloody Feelings,2021-04-10 05:10:01-07:00,Ira Glass,"['Diane Wu', 'David Kestenbaum', 'Ira Glass', 'Bim Adewunmi', 'Sean Cole']",5,0 days 00:59:56.660000,735/Bloody-Feelings
 736,The Herd,2021-04-24 12:10:01-07:00,Ira Glass,"['Ira Glass', 'Anna Maria Barry-Jester', 'David Kestenbaum']",1,0 days 00:58:34.150000,736/The-Herd
 737,The Daily,2021-05-17 07:10:01-07:00,Ira Glass,"['Kelefa Sanneh', 'Ben Calhoun', 'Ira Glass', 'Cecilia Brown']",4,0 days 01:01:13.760000,737/The-Daily
-738,Good Grief!,2021-05-29 07:10:01-07:00,Ira Glass,"['Chana Joffe-Walt', 'Ira Glass', 'Bim Adewunmi', 'Sean Cole']",4,0 days 00:57:00.100000,738/Good-Grief!
+738,Good Grief!,2021-05-29 07:10:01-07:00,Ira Glass,"['Chana Joffe-Walt', 'Ira Glass', 'Bim Adewunmi', 'Sean Cole']",4,0 days 00:57:00.100000,738/Good-Grief
 739,Sisters,2021-06-12 14:10:01-07:00,Bim Adewunmi,"['Lilly Sullivan', 'Cindy Carcamo', 'Bim Adewunmi']",2,0 days 00:57:41.110000,739/Sisters
-740,There. I Fixed It.,2021-07-03 05:10:01-07:00,Ira Glass,"['Ira Glass', 'Lina Misitzis', 'Karen Cheung']",1,0 days 01:02:45.660000,740/There.-I-Fixed-It.
+740,There. I Fixed It.,2021-07-03 05:10:01-07:00,Ira Glass,"['Ira Glass', 'Lina Misitzis', 'Karen Cheung']",1,0 days 01:02:45.660000,740/There-I-Fixed-It
 741,The Weight of Words,2021-07-12 15:10:01-07:00,Ira Glass,"['Elna Baker', 'Starlee Kine', 'Ira Glass', 'Neil Drumming']",2,0 days 00:58:35.180000,741/The-Weight-of-Words
-742,The Thing I'm Getting Over,2021-07-24 05:10:01-07:00,Ira Glass,"['Elna Baker', 'Ira Glass', 'Susan Burton']",2,0 days 00:57:42.700000,742/The-Thing-I'm-Getting-Over
-743,Don't You Be My Neighbor,2021-08-01 09:10:01-07:00,Ira Glass,"['Ira Glass', 'Mike Giglio']",2,0 days 00:56:48.460000,743/Don't-You-Be-My-Neighbor
+742,The Thing I'm Getting Over,2021-07-24 05:10:01-07:00,Ira Glass,"['Elna Baker', 'Ira Glass', 'Susan Burton']",2,0 days 00:57:42.700000,742/The-Thing-Im-Getting-Over
+743,Don't You Be My Neighbor,2021-08-01 09:10:01-07:00,Ira Glass,"['Ira Glass', 'Mike Giglio']",2,0 days 00:56:48.460000,743/Dont-You-Be-My-Neighbor
 744,Essential,2021-08-16 04:10:01-07:00,Chana Joffe-Walt,['Chana Joffe-Walt'],4,0 days 01:07:15.530000,744/Essential
 745,Getting Out,2021-08-28 11:10:01-07:00,David Kestenbaum,"['Sarah Koenig', 'Nancy Updike', 'Ira Glass', 'David Kestenbaum']",4,0 days 01:00:17.590000,745/Getting-Out
 746,This Is Just Some Songs,2021-09-04 00:10:01-07:00,Sean Cole,"['Chana Joffe Walt', 'Nichole Perkins', 'Ira Glass', 'Sean Cole']",5,0 days 01:01:41.990000,746/This-Is-Just-Some-Songs
@@ -748,7 +748,7 @@ ep_num,ep_name,pub_date,host,contributers,num_acts,last_timestamp,url_suffix
 750,The Ferryman,2021-10-16 08:10:01-07:00,Ira Glass,"['Kevin Sieff', 'Ira Glass', 'David Kestenbaum', 'Noma Dumezweni']",3,0 days 00:57:09.470000,750/The-Ferryman
 751,Audience of One,2021-10-23 02:10:01-07:00,Ira Glass,"['Diane Wu', 'Jaime Amor', 'Ira Glass', 'Elna Baker', 'Sean Cole']",4,0 days 01:09:27.370000,751/Audience-of-One
 752,An Invitation to Tea,2021-10-30 06:10:01-07:00,Ira Glass,"['Bastian Berbner', 'Ira Glass', 'John Goetz']",1,0 days 01:00:52.130000,752/An-Invitation-to-Tea
-753,What We’ve Got Here is Failure to Communicate,2021-11-13 09:10:01-08:00,Ira Glass,"['David Kestenbaum', 'Ira Glass', 'Hannah Einbinder', 'Elna Baker', 'Jeanne Darst']",3,0 days 01:01:45.320000,753/What-We’ve-Got-Here-is-Failure-to-Communicate
+753,What We’ve Got Here is Failure to Communicate,2021-11-13 09:10:01-08:00,Ira Glass,"['David Kestenbaum', 'Ira Glass', 'Hannah Einbinder', 'Elna Baker', 'Jeanne Darst']",3,0 days 01:01:45.320000,753/What-Weve-Got-Here-is-Failure-to-Communicate
 754,Spark Bird,2021-11-26 03:10:02-08:00,Ira Glass,"['Ira Glass', 'Bim Adewunmi', 'Sean Cole']",3,0 days 01:01:48.160000,754/Spark-Bird
 755,The Convert,2021-12-04 09:10:01-08:00,Ira Glass,"['Sam Black', 'Ira Glass']",0,0 days 00:59:50.220000,755/The-Convert
 756,But I Did Everything Right,2021-12-11 04:10:01-08:00,Ira Glass,"['Emma Green', 'Ira Glass', 'David Kestenbaum']",2,0 days 01:01:24.690000,756/But-I-Did-Everything-Right
@@ -758,35 +758,35 @@ ep_num,ep_name,pub_date,host,contributers,num_acts,last_timestamp,url_suffix
 760,A City Walks Into an Investigation,2022-01-29 05:10:01-08:00,Ira Glass,"['Ben Calhoun', 'Ira Glass']",7,0 days 00:54:33.250000,760/A-City-Walks-Into-an-Investigation
 761,The Trojan Horse Affair,2022-02-05 05:10:01-08:00,Ira Glass,"['Brian Reed', 'Hamza Syed', 'Ira Glass']",2,0 days 01:01:17.500000,761/The-Trojan-Horse-Affair
 762,Apocalypse Creep,2022-02-12 07:10:01-08:00,Ira Glass,"['Alix Spiegel', 'Mario Alejandro Ariza', 'Ira Glass']",2,0 days 00:59:44.900000,762/Apocalypse-Creep
-763,The Other Mr. President,2022-02-28 06:10:01-08:00,Ira Glass,"['Charles Maynes', 'Robyn Semien', 'Ira Glass', 'Sean Cole']",4,0 days 01:09:54.290000,763/The-Other-Mr.-President
-764,School's Out Forever,2022-03-12 05:10:01-08:00,Chana Joffe-Walt,['Chana Joffe-Walt'],2,0 days 01:06:19.390000,764/School's-Out-Forever
+763,The Other Mr. President,2022-02-28 06:10:01-08:00,Ira Glass,"['Charles Maynes', 'Robyn Semien', 'Ira Glass', 'Sean Cole']",4,0 days 01:09:54.290000,763/The-Other-Mr-President
+764,School's Out Forever,2022-03-12 05:10:01-08:00,Chana Joffe-Walt,['Chana Joffe-Walt'],2,0 days 01:06:19.390000,764/Schools-Out-Forever
 765,Off Course,2022-03-19 06:10:01-07:00,Ira Glass,"['Casey Wilson', 'Ira Glass', 'Phoebe Judge']",3,0 days 01:04:04.700000,765/Off-Course
-766,Well Someone Had to Do SOMETHING!,2022-04-02 04:10:01-07:00,Sean Cole,"['Chana Joffe-Walt', 'Aviva DeKornfeld', 'Alix Spiegel', 'Sean Cole']",4,0 days 00:57:49.430000,766/Well-Someone-Had-to-Do-SOMETHING!
+766,Well Someone Had to Do SOMETHING!,2022-04-02 04:10:01-07:00,Sean Cole,"['Chana Joffe-Walt', 'Aviva DeKornfeld', 'Alix Spiegel', 'Sean Cole']",4,0 days 00:57:49.430000,766/Well-Someone-Had-to-Do-SOMETHING
 767,Do Not Go Gentle,2022-04-09 05:10:01-07:00,Ira Glass,"['Robyn Semien', 'Ira Glass', 'Zoe Chace']",2,0 days 00:57:22.820000,767/Do-Not-Go-Gentle
 768,The Other Front Lines,2022-04-23 08:10:01-07:00,Ira Glass,"['Alexis Okeowo', 'Ira Glass', 'Ashley Cleek']",3,0 days 01:01:44.050000,768/The-Other-Front-Lines
 769,The Reluctant Explorer,2022-04-30 09:10:01-07:00,Ira Glass,['Ira Glass'],2,0 days 00:56:49.350000,769/The-Reluctant-Explorer
 770,My Lying Eyes,2022-05-07 05:10:01-07:00,Ira Glass,"['James Spring', 'Chana Joffe-Walt', 'Ira Glass', 'Katie Worth']",3,0 days 01:04:24.140000,770/My-Lying-Eyes
 771,The Parents Step In,2022-05-28 03:10:01-07:00,Ira Glass,"['Ira Glass', 'Miki Meek']",2,0 days 01:01:21.660000,771/The-Parents-Step-In
-772,The Kids' Table,2022-06-04 01:10:01-07:00,Ira Glass,"['Lilly Sullivan', 'Ira Glass', 'Michelle Navarro', 'Chris Benderev', 'Elna Baker']",3,0 days 00:59:51.120000,772/The-Kids'-Table
+772,The Kids' Table,2022-06-04 01:10:01-07:00,Ira Glass,"['Lilly Sullivan', 'Ira Glass', 'Michelle Navarro', 'Chris Benderev', 'Elna Baker']",3,0 days 00:59:51.120000,772/The-Kids-Table
 773,The Longest Distance Between Two Points,2022-06-18 03:10:01-07:00,Ira Glass,"['Jaime Lowe', 'Johnny Kauffman', 'Ira Glass']",3,0 days 01:02:29.510000,773/The-Longest-Distance-Between-Two-Points
 774,The Pink House at the Center of the World,2022-07-02 19:10:02-07:00,Ira Glass,"['Ira Glass', 'Zoe Chace', 'Emma Green', 'Maisie Crow', 'Rebecca Grant']",7,0 days 01:08:19.460000,774/The-Pink-House-at-the-Center-of-the-World
 775,The Possum Experiment,2022-07-09 03:10:01-07:00,Ira Glass,"['Elna Baker', 'Kiese Laymon', 'Ira Glass', 'Sean Cole']",3,0 days 00:57:43,775/The-Possum-Experiment
 776,I Work Better on Deadline,2022-07-30 05:10:01-07:00,Ira Glass,"['Sarah Gibson', 'Ira Glass', 'David Kestenbaum']",1,0 days 01:03:09.720000,776/I-Work-Better-on-Deadline
-777,Name. Age. Detail.,2022-08-13 23:10:02-07:00,Ira Glass,"['B.A. Parker', 'Damon Young', 'Michael Harriot', 'Ira Glass', 'Brittany Luse', 'Eve Ewing', 'Bim Adewunmi', 'Kiese Laymon']",8,0 days 01:17:01.710000,777/Name.-Age.-Detail.
+777,Name. Age. Detail.,2022-08-13 23:10:02-07:00,Ira Glass,"['B.A. Parker', 'Damon Young', 'Michael Harriot', 'Ira Glass', 'Brittany Luse', 'Eve Ewing', 'Bim Adewunmi', 'Kiese Laymon']",8,0 days 01:17:01.710000,777/Name-Age-Detail
 778,Me Minus Me,2022-08-27 05:10:01-07:00,Bim Adewunmi,"['Marie Phillips', 'Karla Cornejo Villavicencio', 'Bim Adewunmi']",3,0 days 00:55:44.530000,778/Me-Minus-Me
 779,Ends of the Earth,2022-09-19 18:10:01-07:00,Ira Glass,"['Ira Glass', 'Amy Bloom']",2,0 days 01:04:12.910000,779/Ends-of-the-Earth
 780,Setting the Record Straight,2022-10-01 19:10:01-07:00,Ira Glass,"['Valerie Kipnis', 'Tobin Low', 'David Kestenbaum', 'Lilly Sullivan', 'Ira Glass']",3,0 days 00:57:03.520000,780/Setting-the-Record-Straight
 781,Watching the Watchers,2022-10-08 13:10:01-07:00,Ira Glass,"['Isaac Arnsdorf', 'Ira Glass', 'Zoe Chace']",2,0 days 00:58:08.790000,781/Watching-the-Watchers
 782,Family Dig,2022-10-15 07:10:01-07:00,Ira Glass,"['Gabrielle Emanuel', 'Nancy Updike', 'Ira Glass']",2,0 days 01:00:22.040000,782/Family-Dig
 783,Kids These Days,2022-10-29 03:10:01-07:00,Chana Joffe-Walt,"['Chana Joffe-Walt', 'Alix Spiegel']",3,0 days 01:02:54.710000,783/Kids-These-Days
-784,"Mapmaker, Mapmaker, Make Me a Map",2022-11-05 15:10:01-07:00,Ira Glass,['Ira Glass'],1,0 days 00:59:24.230000,"784/Mapmaker,-Mapmaker,-Make-Me-a-Map"
+784,"Mapmaker, Mapmaker, Make Me a Map",2022-11-05 15:10:01-07:00,Ira Glass,['Ira Glass'],1,0 days 00:59:24.230000,784/Mapmaker-Mapmaker-Make-Me-a-Map
 785,Through the Looking Glass,2022-11-26 05:10:01-08:00,Ira Glass,"['Valerie Kipnis', 'Torey Malatia', 'Ira Glass', 'Zoe Chace', 'Natalia Contreras', 'Bim Adewunmi']",2,0 days 00:59:18.030000,785/Through-the-Looking-Glass
-786,It's a Game Show!,2022-12-03 06:10:01-08:00,Ira Glass,"['Jiayang Fan', 'Tobin Low', 'Ira Glass', 'George Gray', 'Sean Cole']",3,0 days 01:03:00.270000,786/It's-a-Game-Show!
-787,Baby's First Christmas,2022-12-24 03:10:01-08:00,Ira Glass,"['Aviva DeKornfeld', 'Ira Glass', 'Emanuele Berry', 'Scaachi Koul']",4,0 days 00:56:21.680000,787/Baby's-First-Christmas
-788,Half,2023-01-07 03:10:01-08:00,Ira Glass,"['Etgar Keret', 'Ira Glass']",12,0 days 00:59:43.030000,788/Half
+786,It's a Game Show!,2022-12-03 06:10:01-08:00,Ira Glass,"['Jiayang Fan', 'Tobin Low', 'Ira Glass', 'George Gray', 'Sean Cole']",3,0 days 01:03:00.270000,786/Its-a-Game-Show
+787,Baby's First Christmas,2022-12-24 03:10:01-08:00,Ira Glass,"['Aviva DeKornfeld', 'Ira Glass', 'Emanuele Berry', 'Scaachi Koul']",4,0 days 00:56:21.680000,787/Babys-First-Christmas
+788,Half baked stories about my dead mom,2023-01-07 03:10:01-08:00,Ira Glass,"['Etgar Keret', 'Ira Glass']",12,0 days 00:59:43.030000,788/Half
 789,The Runaround,2023-01-21 05:10:02-08:00,Ira Glass,"['Brenna Smith', 'Kevin Sieff', 'Ira Glass', 'David Kestenbaum']",3,0 days 01:00:46.300000,789/The-Runaround
-790,You're It,2023-01-28 06:10:01-08:00,Ira Glass,"['Chana Joffe-Walt', 'Megan Tan', 'Ira Glass']",2,0 days 00:57:31.960000,790/You're-It
-791,Math or Magic?,2023-02-11 06:10:01-08:00,Tobin Low,"['Aviva DeKornfeld', 'Tobin Low', 'Diane Wu']",4,0 days 00:54:21.910000,791/Math-or-Magic?
+790,You're It,2023-01-28 06:10:01-08:00,Ira Glass,"['Chana Joffe-Walt', 'Megan Tan', 'Ira Glass']",2,0 days 00:57:31.960000,790/Youre-It
+791,Math or Magic?,2023-02-11 06:10:01-08:00,Tobin Low,"['Aviva DeKornfeld', 'Tobin Low', 'Diane Wu']",4,0 days 00:54:21.910000,791/Math-or-Magic
 792,When to Leave,2023-03-04 05:10:01-08:00,Nancy Updike,"['Valerie Kipnis', 'Nancy Updike', 'Miki Meek']",2,0 days 00:58:50.530000,792/When-to-Leave
 793,The Problem with Ghosts,2023-03-11 05:10:01-08:00,Ira Glass,"['Elna Baker', 'Ira Glass', 'Chenjerai Kumanyika', 'Sean Cole']",3,0 days 01:01:04.990000,793/The-Problem-with-Ghosts
 794,So Close and Yet So Far,2023-03-25 04:10:02-07:00,Ira Glass,"['Saidu Tejan-Thomas', 'Ira Glass', 'Tig Notaro']",2,0 days 01:01:36.600000,794/So-Close-and-Yet-So-Far
@@ -797,25 +797,25 @@ ep_num,ep_name,pub_date,host,contributers,num_acts,last_timestamp,url_suffix
 799,The Lives of Others,2023-05-13 03:10:01-07:00,Lilly Sullivan,"['Lilly Sullivan', 'Aviva DeKornfeld', 'Alix Spiegel']",3,0 days 01:02:50.780000,799/The-Lives-of-Others
 800,Jane Doe,2023-05-27 06:10:01-07:00,Ira Glass,"['Ira Glass', 'Miki Meek']",3,0 days 01:13:03.350000,800/Jane-Doe
 801,Must Be Rats on the Brain,2023-06-10 05:10:01-07:00,Ira Glass,"['Rachel', 'Ira Glass', 'Bashir Salahuddin', 'Reggie', 'Chandra Russell', 'Elna Baker', 'Ike Sriskandarajah']",4,0 days 01:08:27.330000,801/Must-Be-Rats-on-the-Brain
-802,Father's Day,2023-06-17 03:40:57-07:00,Ira Glass,"[""Beau O'reilly"", 'Sandra Tsing Loh', 'Ira Glass', 'Barry Glass', 'Ian Brown', 'Dan Robb']",4,0 days 00:57:36.180000,802/Father's-Day
-803,"Greetings, People Of Earth",2023-06-24 04:20:20-07:00,Ira Glass,"['Chris Benderev', 'Diane Wu', 'Ira Glass', 'David Kestenbaum']",4,0 days 01:01:08.280000,"803/Greetings,-People-Of-Earth"
+802,Father's Day,2023-06-17 03:40:57-07:00,Ira Glass,"[""Beau O'reilly"", 'Sandra Tsing Loh', 'Ira Glass', 'Barry Glass', 'Ian Brown', 'Dan Robb']",4,0 days 00:57:36.180000,802/Fathers-Day
+803,"Greetings, People Of Earth",2023-06-24 04:20:20-07:00,Ira Glass,"['Chris Benderev', 'Diane Wu', 'Ira Glass', 'David Kestenbaum']",4,0 days 01:01:08.280000,803/Greetings-People-Of-Earth
 804,The Retrievals,2023-07-01 04:10:42-07:00,Ira Glass,"['Ira Glass', 'Susan Burton']",1,0 days 00:57:27.340000,804/The-Retrievals
 805,The Florida Experiment,2023-07-15 05:50:12-07:00,Ira Glass,"['Emmanuel Dzotsi', 'Ira Glass', 'Zoe Chace']",2,0 days 01:12:39.380000,805/The-Florida-Experiment
-806,"I Can't Quit You, Baby",2023-07-28 22:10:18-07:00,Sean Cole,"['Cheryl Strayed', 'Zoe Chace', 'Sean Cole']",2,0 days 00:59:41.490000,"806/I-Can't-Quit-You,-Baby"
+806,"I Can't Quit You, Baby",2023-07-28 22:10:18-07:00,Sean Cole,"['Cheryl Strayed', 'Zoe Chace', 'Sean Cole']",2,0 days 00:59:41.490000,806/I-Cant-Quit-You-Baby
 807,Eight Fights,2023-08-05 05:50:03-07:00,Ira Glass,"['Ira Glass', 'Masha Gessen']",7,0 days 00:57:55.710000,807/Eight-Fights
 808,The Rest of the Story,2023-08-18 23:00:03-07:00,Ira Glass,"['Chris Benderev', 'Bim Adewunmi', 'Ira Glass', 'Samuel James']",3,0 days 01:00:45.650000,808/The-Rest-of-the-Story
 809,The Call,2023-09-09 03:40:35-07:00,Ira Glass,"['Mary Harris', 'Ira Glass']",4,0 days 00:59:52.480000,809/The-Call
 810,Say It to My Face,2023-09-18 05:50:56-07:00,Ira Glass,"['Aviva DeKornfeld', 'Ira Glass', 'Jasmine Garsd']",2,0 days 01:01:08.570000,810/Say-It-to-My-Face
-811,The One Place I Can’t Go,2023-09-29 20:40:30-07:00,Bim Adewunmi,"['Atsuko Okatsuka', 'Lilly Sullivan', 'Emmanuel Dzotsi', 'Bim Adewunmi']",2,0 days 00:58:10.150000,811/The-One-Place-I-Can’t-Go
+811,The One Place I Can’t Go,2023-09-29 20:40:30-07:00,Bim Adewunmi,"['Atsuko Okatsuka', 'Lilly Sullivan', 'Emmanuel Dzotsi', 'Bim Adewunmi']",2,0 days 00:58:10.150000,811/The-One-Place-I-Cant-Go
 812,The Bear at the End of the Tunnel,2023-10-22 05:40:54-07:00,Ira Glass,"['Ira Glass', 'Miki Meek']",2,0 days 01:01:27.910000,812/The-Bear-at-the-End-of-the-Tunnel
-813,Is That What I Look Like?,2023-11-04 05:00:50-07:00,Nancy Updike,"['Domingo Martinez', 'Ben Calhoun', 'Nancy Updike', 'Ira Glass']",3,0 days 00:54:21.240000,813/Is-That-What-I-Look-Like?
+813,Is That What I Look Like?,2023-11-04 05:00:50-07:00,Nancy Updike,"['Domingo Martinez', 'Ben Calhoun', 'Nancy Updike', 'Ira Glass']",3,0 days 00:54:21.240000,813/Is-That-What-I-Look-Like
 814,Parents Are People,2023-11-11 05:10:25-08:00,Chana Joffe-Walt,"['Chana Joffe-Walk', 'Reader', 'Chana Joffe-Walt', 'Talia Richman']",4,0 days 01:00:47.910000,814/Parents-Are-People
 815,How I Learned to Shave,2023-11-20 06:30:50-08:00,Ira Glass,"['Lilly Sullivan', 'Phia Bennin', 'Ira Glass', 'Simon Rich']",3,0 days 00:57:49.260000,815/How-I-Learned-to-Shave
 816,Poultry Slam,2023-11-24 19:00:59-08:00,Ira Glass,"['Jack Hitt', 'Ira Glass']",3,0 days 00:55:27.210000,816/Poultry-Slam
 817,The Cavalry Is Not Coming,2023-12-01 22:20:00-08:00,Ira Glass,"['Nadia Reiman', 'Nancy Updike', 'Ira Glass']",2,0 days 00:57:06.390000,817/The-Cavalry-Is-Not-Coming
 818,Stand Clear of the Closing Doors,2023-12-16 10:20:08-08:00,Ira Glass,"['Valerie Kipnis', 'Diane Wu', 'Emmanuel Dzotsi', 'Ira Glass', 'Aviva DeKornfeld']",4,0 days 01:15:31.860000,818/Stand-Clear-of-the-Closing-Doors
-819,Special Bonus Podcast — Yousef’s Week,2023-12-21 08:50:14-08:00,Ira Glass,"['Chana Joffe-Walt', 'Ira Glass']",0,0 days 00:40:09.700000,819/Special-Bonus-Podcast-—-Yousef’s-Week
-820,It Wouldn’t Be Make,2023-12-23 06:00:15-08:00,Ira Glass,"['Ira Glass', 'Zoe Chace']",4,0 days 01:00:00.900000,820/It-Wouldn’t-Be-Make
+819,Special Bonus Podcast — Yousef’s Week,2023-12-21 08:50:14-08:00,Ira Glass,"['Chana Joffe-Walt', 'Ira Glass']",0,0 days 00:40:09.700000,819/Special-Bonus-Podcast-Yousefs-Week
+820,It Wouldn’t Be Make believe if you'd believe in me,2023-12-23 06:00:15-08:00,Ira Glass,"['Ira Glass', 'Zoe Chace']",4,0 days 01:00:00.900000,820/It-Wouldnt-Be-Make
 821,Embrace the Suck,2024-01-22 07:40:41-08:00,Ira Glass,"['Boen Wang', 'Ike Sriskandarajah', 'Ira Glass', 'Zoe Chace']",3,0 days 00:56:15.940000,821/Embrace-the-Suck
 822,The Words to Say It,2024-01-28 18:40:36-08:00,Ira Glass,"['Valerie Kipnis', 'Chana Joffe-Walt', 'Ira Glass']",2,0 days 00:55:32.160000,822/The-Words-to-Say-It
 823,The Question Trap,2024-02-03 04:00:44-08:00,Ira Glass,"['Chris Benderev', 'Janelle Taylor', 'Tobin Low', 'Ira Glass']",4,0 days 00:55:12.240000,823/The-Question-Trap
@@ -823,20 +823,20 @@ ep_num,ep_name,pub_date,host,contributers,num_acts,last_timestamp,url_suffix
 824,Family Meeting,2024-02-26 08:10:26-08:00,Ira Glass,['Ira Glass'],3,0 days 01:00:24.060000,824/Family-Meeting
 825,Yousef,2024-03-02 04:10:58-08:00,Ira Glass,"['Chana Joffe-Walt', 'Ira Glass']",1,0 days 01:03:41.560000,825/Yousef
 826,Unprepared for What Has Already Happened,2024-03-16 05:50:00-07:00,Ira Glass,"['Tobin Low', 'Lilly Sullivan', 'Ira Glass', 'Zoe Chace', 'Bela Shayevich']",4,0 days 01:01:05.690000,826/Unprepared-for-What-Has-Already-Happened
-827,All the King's Horses,2024-03-23 07:20:08-07:00,Ira Glass,"['Dana Ballout', 'Ira Glass', 'David Kestenbaum']",3,0 days 00:58:42.150000,827/All-the-King's-Horses
+827,All the King's Horses,2024-03-23 07:20:08-07:00,Ira Glass,"['Dana Ballout', 'Ira Glass', 'David Kestenbaum']",3,0 days 00:58:42.150000,827/All-the-Kings-Horses
 828,Minor Crimes Division,2024-04-08 05:30:40-07:00,Ira Glass,"['Micaela Blei', 'Michael Harriot', 'Ira Glass', 'Bethel Habte', 'Aviva DeKornfeld']",4,0 days 00:58:18.690000,828/Minor-Crimes-Division
 829,Two Ledgers,2024-05-13 14:00:04-07:00,Ira Glass,"['Ira Glass', 'Dana Chivvis']",2,0 days 01:02:54.680000,829/Two-Ledgers
 830,The Forever Trial,2024-05-18 04:20:27-07:00,Ira Glass,"['Sarah Koenig', 'Ira Glass']",1,0 days 01:01:03.170000,830/The-Forever-Trial
-831,Lists!!!,2024-05-27 05:10:47-07:00,Ira Glass,"['John Fecile', 'Ira Glass', 'Masha Gessen']",2,0 days 01:00:18.940000,831/Lists!!!
+831,Lists!!!,2024-05-27 05:10:47-07:00,Ira Glass,"['John Fecile', 'Ira Glass', 'Masha Gessen']",2,0 days 01:00:18.940000,831/Lists
 832,That Other Guy,2024-05-31 23:40:27-07:00,Emmanuel Dzotsi,"['Marie Phillips', 'Emmanuel Dzotsi', 'David Kestenbaum']",3,0 days 01:02:04.650000,832/That-Other-Guy
 833,Come Retribution,2024-06-08 06:40:30-07:00,Ira Glass,"['Alix Spiegel', 'Ira Glass', 'Zoe Chace']",3,0 days 01:01:44.200000,833/Come-Retribution
 834,Yousef and the Fourth Move,2024-06-15 07:10:53-07:00,Ira Glass,"['Chana Joffe-Walt', 'Ira Glass']",1,0 days 00:56:04.810000,834/Yousef-and-the-Fourth-Move
 835,Children of Dave,2024-06-29 04:30:01-07:00,Ira Glass,"['Ira Glass', 'Boen Wang']",2,0 days 00:58:47.010000,835/Children-of-Dave
 836,The Big Rethink,2024-07-20 08:30:55-07:00,Ira Glass,"['Elna Baker', 'Ira Glass', 'Zoe Chace']",3,0 days 00:57:10.820000,836/The-Big-Rethink
 837,Swim Towards the Shark,2024-08-12 06:50:30-07:00,Ira Glass,"['Ira Glass', 'Kimu Elolia', 'Sean Cole']",3,0 days 01:03:11.700000,837/Swim-Towards-the-Shark
-838,Letters! Actual Letters!,2024-08-19 09:30:09-07:00,Ira Glass,"['David Kestenbaum', 'Ira Glass', 'Zoe Chace', 'Taron Egerton', 'Nicole Piasecki', 'Crystal Clarke']",5,0 days 00:56:13.330000,838/Letters!-Actual-Letters!
+838,Letters! Actual Letters!,2024-08-19 09:30:09-07:00,Ira Glass,"['David Kestenbaum', 'Ira Glass', 'Zoe Chace', 'Taron Egerton', 'Nicole Piasecki', 'Crystal Clarke']",5,0 days 00:56:13.330000,838/Letters-Actual-Letters
 839,Meet Me at the Fair,2024-09-07 10:10:54-07:00,Ira Glass,"['Chris Benderev', 'Ira Glass', 'Dana Chivvis']",4,0 days 01:02:10.640000,839/Meet-Me-at-the-Fair
-840,How Are You Not Seeing This?,2024-09-14 02:20:23-07:00,Tobin Low,"['Tobin Low', 'Alix Spiegel', 'David Kestenbaum', 'Marie Phillips', 'Aviva DeKornfeld']",4,0 days 00:57:22.560000,840/How-Are-You-Not-Seeing-This?
+840,How Are You Not Seeing This?,2024-09-14 02:20:23-07:00,Tobin Low,"['Tobin Low', 'Alix Spiegel', 'David Kestenbaum', 'Marie Phillips', 'Aviva DeKornfeld']",4,0 days 00:57:22.560000,840/How-Are-You-Not-Seeing-This
 841,My Senior Year,2024-09-21 06:00:31-07:00,Chana Joffe-Walt,['Chana Joffe-Walt'],2,0 days 00:57:34.090000,841/My-Senior-Year
 842,51 Days,2024-10-07 19:20:46-07:00,Ira Glass,['Ira Glass'],5,0 days 00:56:17.570000,842/51-Days
 843,A Little Bit of Power,2024-10-12 07:10:50-07:00,Ira Glass,"['Ben Terris', 'Ira Glass', 'Zoe Chace']",2,0 days 00:54:01.580000,843/A-Little-Bit-of-Power
@@ -846,6 +846,6 @@ ep_num,ep_name,pub_date,host,contributers,num_acts,last_timestamp,url_suffix
 847,The Truly Incredible Story of Keiko the Killer Whale,2024-11-16 03:40:15-08:00,Ira Glass,"['Daniel Alarcón', 'Diane Wu', 'Ira Glass']",2,0 days 00:59:54.100000,847/The-Truly-Incredible-Story-of-Keiko-the-Killer-Whale
 848,The Official Unofficial Record,2024-11-23 08:50:53-08:00,Ira Glass,"['Lilly Sullivan', 'Nancy Updike', 'Ira Glass']",3,0 days 00:59:44.810000,848/The-Official-Unofficial-Record
 849,The Narrator,2024-12-14 03:40:47-08:00,Chana Joffe-Walt,['Chana Joffe-Walt'],2,0 days 00:55:52.570000,849/The-Narrator
-850,"If You Want to Destroy My Sweater, Hold This Thread as I Walk Away",2024-12-21 02:30:34-08:00,Ira Glass,"['Lilly Sullivan', 'Mike Comite', 'Diane Wu', 'Ira Glass']",3,0 days 01:02:52.080000,"850/If-You-Want-to-Destroy-My-Sweater,-Hold-This-Thread-as-I-Walk-Away"
+850,"If You Want to Destroy My Sweater, Hold This Thread as I Walk Away",2024-12-21 02:30:34-08:00,Ira Glass,"['Lilly Sullivan', 'Mike Comite', 'Diane Wu', 'Ira Glass']",3,0 days 01:02:52.080000,850/If-You-Want-to-Destroy-My-Sweater-Hold-This-Thread-as-I-Walk-Away
 851,Try a Little Tenderness,2025-01-13 07:30:23-08:00,Ira Glass,"['Etgar Keret', 'Aviva DeKornfeld', 'Ira Glass']",4,0 days 00:58:06.240000,851/Try-a-Little-Tenderness
 852,Pivot Point,2025-01-18 06:00:32-08:00,Ira Glass,"['Valerie Kipnis', 'Nancy Updike', 'Ira Glass', 'Susan Burton', 'Miki Meek']",4,0 days 00:56:04.590000,852/Pivot-Point
