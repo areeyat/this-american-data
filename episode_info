@@ -529,7 +529,7 @@ ep_num,ep_name,pub_date,host,contributers,num_acts,last_timestamp,url_suffix
 531,Got Your Back,2017-12-14 11:21:30-08:00,Ira Glass,"['David Segal', 'Kevin Sieff', 'Ira Glass', 'David Hill']",2,0 days 00:56:59.190000,531/Got-Your-Back
 532,Magic Words,2017-12-14 11:21:30-08:00,Ira Glass,"['Jake Halpern', 'Man', 'Chana Joffe-Walt', 'Jonathan Goldstein', 'Ira Glass', 'Mike Pesca', 'Troy Malatia']",3,0 days 00:57:28.410000,532/Magic-Words
 533,"It's Not the Product, It's the Person",2017-12-14 10:24:29-08:00,Ira Glass,"['Alex Blumberg', 'Ira Glass', 'Zoe Chace']",3,0 days 00:57:23.190000,533/Its-Not-the-Product-Its-the-Person
-534,A Not so simple majority,2017-12-14 10:24:29-08:00,Ira Glass,"['Ben Calhoun', 'Ira Glass']",2,0 days 01:00:19.150000,534/A-Not
+534,A Not so simple majority,2017-12-14 10:24:29-08:00,Ira Glass,"['Ben Calhoun', 'Ira Glass']",2,0 days 01:00:19.150000,534/A-Not-so-simple-majority
 535,Origin Story 2014,2017-12-14 10:24:29-08:00,Ira Glass,"['Sarah Koenig', 'Mary Wiltenburg', 'Ira Glass', 'Sean Cole']",4,0 days 00:58:32.430000,535/Origin-Story-2014
 536,The Secret Recordings of Carmen Segarra,2017-12-14 11:21:30-08:00,Ira Glass,"['Ira Glass', 'Jake Bernstein']",1,0 days 01:02:00.140000,536/The-Secret-Recordings-of-Carmen-Segarra
 537,The Alibi,2017-12-14 10:24:29-08:00,Ira Glass,"['Sarah Koenig', 'Ira Glass']",0,0 days 00:56:48.790000,537/The-Alibi
@@ -557,8 +557,8 @@ ep_num,ep_name,pub_date,host,contributers,num_acts,last_timestamp,url_suffix
 559,Captain's Log,2017-12-14 10:24:29-08:00,Ira Glass,"['Ira Glass', 'John Ellison Conlee', 'Jonathan Menjivar', 'Sue Scott', 'Pj Vogt', 'Jonathan Manjivar']",4,0 days 01:01:06.640000,559/Captains-Log
 560,Abdi and the Golden Ticket,2017-12-14 11:21:30-08:00,Ira Glass,"['Leo Hornak', 'Ira Glass']",2,0 days 01:01:09.330000,560/Abdi-and-the-Golden-Ticket
 561,NUMMI (2015),2017-12-14 10:24:29-08:00,Ira Glass,"['Frank Langfitt', 'Ira Glass']",2,0 days 01:04:17.270000,561/NUMMI-2015
-562,The Problem We All Live With Part One,2017-12-14 11:21:30-08:00,Ira Glass,"['Nikole Hannah Jones', 'Ira Glass']",2,0 days 00:57:58.900000,562/The-Problem-We-All-Live-With
-563,The Problem We All Live With Part Two,2017-12-14 11:21:30-08:00,Ira Glass,"['', 'Chana Joffe-Walt', 'Ira Glass']",1,0 days 00:56:34.080000,563/The-Problem-We-All-Live-With
+562,The Problem We All Live With Part One,2017-12-14 11:21:30-08:00,Ira Glass,"['Nikole Hannah Jones', 'Ira Glass']",2,0 days 00:57:58.900000,562/The-Problem-We-All-Live-With-Part-One
+563,The Problem We All Live With Part Two,2017-12-14 11:21:30-08:00,Ira Glass,"['', 'Chana Joffe-Walt', 'Ira Glass']",1,0 days 00:56:34.080000,563/The-Problem-We-All-Live-With-Part-Two
 564,Too Soon?,2017-12-14 10:24:29-08:00,Ira Glass,"['Nancy Updike', 'Ira Glass', 'Zoe Chace', 'Harmon Leon', 'Jordan Riley', 'Amy Silverman']",2,0 days 00:58:06.260000,564/Too-Soon
 565,Lower 9 + 10,2017-12-14 10:24:29-08:00,Ira Glass,"['Robyn Semien', 'Ira Glass', 'Zoe Chace', 'Sean Cole']",6,0 days 01:07:42.670000,565/Lower-9-10
 566,The Land of Make Believe,2017-12-14 10:24:29-08:00,Ira Glass,"['Jonathan Menjivar', 'Ira Glass', 'Miki Meek']",2,0 days 00:55:39.080000,566/The-Land-of-Make-Believe
@@ -607,7 +607,7 @@ ep_num,ep_name,pub_date,host,contributers,num_acts,last_timestamp,url_suffix
 609,It’s Working Out Very Nicely,2017-12-14 11:21:30-08:00,Ira Glass,"['Nancy Updike', 'Ira Glass', 'Zoe Chace']",5,0 days 00:59:51.710000,609/Its-Working-Out-Very-Nicely
 610,Grand Gesture,2017-12-14 10:24:29-08:00,Ira Glass,"['David Kestenbaum', 'Ira Glass', 'Miki Meek']",2,0 days 00:59:06.260000,610/Grand-Gesture
 611,Vague and Confused,2017-12-14 10:24:29-08:00,Ira Glass,"['David Kestenbaum', 'Ira Glass', 'Adia White', 'Sean Cole']",2,0 days 01:03:36.360000,611/Vague-and-Confused
-612,Ask a Grown up,2017-12-14 10:24:29-08:00,Ira Glass,"['David Kestenbaum', 'Ira Glass', 'Sean Cole']",4,0 days 00:58:56.050000,612/Ask-a-Grown
+612,Ask a Grown up,2017-12-14 10:24:29-08:00,Ira Glass,"['David Kestenbaum', 'Ira Glass', 'Sean Cole']",4,0 days 00:58:56.050000,612/Ask-a-Grown-up
 613,"OK, I’ll Do It",2017-12-14 11:21:30-08:00,Ira Glass,"['Francisco Cantu', 'Reya El-salahi', 'Ira Glass']",2,0 days 00:59:30.900000,613/OK-Ill-Do-It
 614,The Other Mr. President,2017-12-14 10:24:29-08:00,Ira Glass,"['Charles Maynes', 'Robyn Semien', 'Ira Glass', 'Sean Cole']",4,0 days 01:01:17.600000,614/The-Other-Mr-President
 615,The Beginning of Now,2017-12-14 11:21:30-08:00,Ira Glass,"['Ira Glass', 'Zoe Chace']",2,0 days 00:57:44.390000,615/The-Beginning-of-Now
@@ -627,13 +627,13 @@ ep_num,ep_name,pub_date,host,contributers,num_acts,last_timestamp,url_suffix
 629,Expect Delays,2017-12-14 10:24:29-08:00,Ira Glass,"['Britney Wilson', 'Stephanie Foo', 'Ira Glass', 'Sean Cole']",3,0 days 00:56:41.590000,629/Expect-Delays
 630,Things I Mean to Know,2017-12-14 10:24:29-08:00,Ira Glass,"['Diane Wu', 'David Kestenbaum', 'Ira Glass', 'Zoe Chace', 'Selena Ross']",3,0 days 00:59:53.970000,630/Things-I-Mean-to-Know
 631,So a Monkey and a Horse Walk Into a Bar,2017-12-14 10:24:29-08:00,Ira Glass,"['Ira Glass', 'Dana Chivvis']",2,0 days 00:58:41.580000,631/So-a-Monkey-and-a-Horse-Walk-Into-a-Bar
-632,Our Town,2017-12-14 10:24:29-08:00,Ira Glass,"['Ira Glass', 'Miki Meek']",2,0 days 01:02:21.320000,632/Our-Town
-633,Our Town,2018-01-12 09:13:01-08:00,Ira Glass,"['Lilly Sullivan', 'Ira Glass', 'Miki Meek']",5,0 days 01:06:06.740000,633/Our-Town
+632,Our Town Part One,2017-12-14 10:24:29-08:00,Ira Glass,"['Ira Glass', 'Miki Meek']",2,0 days 01:02:21.320000,632/Our-Town-Part-One
+633,Our Town Part Two,2018-01-12 09:13:01-08:00,Ira Glass,"['Lilly Sullivan', 'Ira Glass', 'Miki Meek']",5,0 days 01:06:06.740000,633/Our-Town-Part-Two
 634,Human Error in Volatile Situations,2018-01-12 09:13:01-08:00,Ira Glass,"['Stephanie Foo', 'Ira Glass', 'Joe Richman']",2,0 days 00:59:51.980000,634/Human-Error-in-Volatile-Situations
 635,Chip in My Brain,2018-01-16 09:16:18-08:00,Ira Glass,"['Ira Glass', 'David Kestenbaum']",2,0 days 01:05:45.630000,635/Chip-in-My-Brain
 636,I Thought It Would Be Easier,2018-01-20 06:10:01-08:00,Ira Glass,"['Jonathan Menjivar', 'Ben Calhoun', 'Ira Glass', 'Julia Preston']",2,0 days 00:58:08.580000,636/I-Thought-It-Would-Be-Easier
 637,Words You Can't Say,2018-02-03 07:10:01-08:00,Ira Glass,"['Kelefa Sanneh', 'Ira Glass', 'Dana Chivvis']",2,0 days 00:57:42.220000,637/Words-You-Cant-Say
-638,Rom,2018-02-10 05:10:01-08:00,Ira Glass,"['Daniel Radcliffe', 'Diane Wu', 'David Kestenbaum', 'Ira Glass', 'Neil Drumming', 'Elna Baker']",3,0 days 01:00:54.020000,638/Rom
+638,Rom-Com,2018-02-10 05:10:01-08:00,Ira Glass,"['Daniel Radcliffe', 'Diane Wu', 'David Kestenbaum', 'Ira Glass', 'Neil Drumming', 'Elna Baker']",3,0 days 01:00:54.020000,638/Rom-Com
 639,In Dog We Trust,2018-02-24 05:10:01-08:00,Ira Glass,"['Brady Udall', 'Ira Glass']",2,0 days 00:57:19.100000,639/In-Dog-We-Trust
 640,Five Women,2018-03-02 20:10:01-08:00,Ira Glass,"['Chana Joffe-Walt', 'Ira Glass']",6,0 days 01:17:16.130000,640/Five-Women
 641,The Walls,2018-03-17 06:10:01-07:00,Ira Glass,"['Brian Reed', 'Lizzie Presser', 'Ira Glass', 'David Kestenbaum']",4,0 days 01:12:29.270000,641/The-Walls
@@ -650,7 +650,7 @@ ep_num,ep_name,pub_date,host,contributers,num_acts,last_timestamp,url_suffix
 652,ICE Capades,2018-07-21 06:10:01-07:00,Ira Glass,"['Nadia Reiman', 'Ira Glass', 'Miki Meek']",2,0 days 01:02:55.660000,652/ICE-Capades
 653,Crime Scene,2018-08-04 06:10:01-07:00,Ira Glass,"['Matt Molloy', 'Nancy Updike', 'Ira Glass', 'Katie Davis']",3,0 days 00:57:48.440000,653/Crime-Scene
 654,The Feather Heist,2018-08-11 05:10:01-07:00,Sean Cole,['Sean Cole'],7,0 days 01:03:04.020000,654/The-Feather-Heist
-655,The Not so great unknown,2018-08-25 05:10:01-07:00,Ira Glass,"['Diane Wu', 'Dorian Missick', 'David Kestenbaum', 'Ira Glass', 'Jared Marcelle']",4,0 days 00:56:17.150000,655/The-Not
+655,The Not so great unknown,2018-08-25 05:10:01-07:00,Ira Glass,"['Diane Wu', 'Dorian Missick', 'David Kestenbaum', 'Ira Glass', 'Jared Marcelle']",4,0 days 00:56:17.150000,655/The-Not-so-great-unknown
 656,Let Me Count the Ways,2018-09-16 22:10:01-07:00,Ira Glass,"['Nadia Reiman', 'Julia Preston', 'Ira Glass', 'Zoe Chace']",5,0 days 01:15:57.690000,656/Let-Me-Count-the-Ways
 657,The Runaways,2018-09-23 08:10:01-07:00,Ira Glass,"['Hannah Dreier', 'Ira Glass']",2,0 days 00:58:47.220000,657/The-Runaways
 658,The Unhappy Deciders,2018-10-06 04:10:01-07:00,Ira Glass,"['Ira Glass', 'Zoe Chace', 'Jonathan Goldstein']",2,0 days 00:58:10.470000,658/The-Unhappy-Deciders
@@ -699,7 +699,7 @@ ep_num,ep_name,pub_date,host,contributers,num_acts,last_timestamp,url_suffix
 701,Black Box,2020-04-18 02:10:01-07:00,Ira Glass,"['Ira Glass', 'Durrie Bouscaren', 'Miki Meek']",1,0 days 01:01:16.850000,701/Black-Box
 702,One Last Thing Before I Go,2020-04-25 05:10:01-07:00,Ira Glass,"['Jonathan Goldstein', 'Ira Glass', 'Miki Meek']",2,0 days 01:02:15.370000,702/One-Last-Thing-Before-I-Go
 703,Stuck!,2020-05-10 19:10:01-07:00,Ira Glass,"['Nadia Reiman', 'Narrator', 'Ira Glass']",3,0 days 00:58:09.180000,703/Stuck
-704,Our Pulitzer winning episode,2020-05-16 02:10:01-07:00,Ira Glass,"[""Molly O'Toole"", 'Ira Glass', 'Emily Green']",2,0 days 01:06:06.680000,704/Our-Pulitzer
+704,Our Pulitzer winning episode,2020-05-16 02:10:01-07:00,Ira Glass,"[""Molly O'Toole"", 'Ira Glass', 'Emily Green']",2,0 days 01:06:06.680000,704/Our-Pulitzer-winning-episode
 705,Time Out,2020-05-23 04:10:01-07:00,Ira Glass,"['Lisa Pollak', 'Nancy Updike', 'Ira Glass', 'Meema Spadola']",4,0 days 01:02:19.390000,705/Time-Out
 706,A Mess to Be Reckoned With,2020-05-30 04:10:01-07:00,Ira Glass,"['Sierra Crane Murdoch', 'Ira Glass']",2,0 days 01:03:20.620000,706/A-Mess-to-Be-Reckoned-With
 707,We Are in the Future,2020-06-06 03:10:01-07:00,Ira Glass,"['Ira Glass', 'Neil Drumming']",3,0 days 00:59:05.380000,707/We-Are-in-the-Future
@@ -710,7 +710,7 @@ ep_num,ep_name,pub_date,host,contributers,num_acts,last_timestamp,url_suffix
 712,Nice White Parents,2020-08-03 07:10:01-07:00,Ira Glass,"['Chana Joffe-Walt', 'Ira Glass']",2,0 days 01:02:51.410000,712/Nice-White-Parents
 713,Made to Be Broken,2020-08-08 04:10:01-07:00,Sean Cole,"['Elna Baker', 'Sean Cole']",2,0 days 00:57:22.270000,713/Made-to-Be-Broken
 714,Day at the Beach,2020-08-15 02:10:01-07:00,Ira Glass,"['David Sedaris', 'Ira Glass', 'Dana Chivvis']",4,0 days 01:02:22.760000,714/Day-at-the-Beach
-715,Long awaited asteroid finally hits earth,2020-08-29 05:10:01-07:00,Ira Glass,"['David Kestenbaum', 'Ira Glass', 'Miki Meek', 'Robyn Semien', 'Stephanie Wang']",4,0 days 01:05:13.660000,715/Long
+715,Long awaited asteroid finally hits earth,2020-08-29 05:10:01-07:00,Ira Glass,"['David Kestenbaum', 'Ira Glass', 'Miki Meek', 'Robyn Semien', 'Stephanie Wang']",4,0 days 01:05:13.660000,715/Long-awaited-asteroid-finally-hits-earth
 716,Trail of Tears,2020-09-07 14:10:01-07:00,Ira Glass,"['Amy Vowell', 'Sarah Vowell', 'Ira Glass']",1,0 days 00:58:36.980000,716/Trail-of-Tears
 717,Audience of One,2020-09-12 06:10:01-07:00,Ira Glass,"['Diane Wu', 'Ben Calhoun', 'Ira Glass', 'Sean Cole']",3,0 days 01:10:27.570000,717/Audience-of-One
 718,"Same Bed, Different Dreams",2020-09-26 04:10:01-07:00,Ira Glass,"['Stephanie Foo', 'Nancy Updike', 'Ira Glass', 'Miki Meek']",4,0 days 00:59:43.420000,718/Same-Bed-Different-Dreams
@@ -721,7 +721,7 @@ ep_num,ep_name,pub_date,host,contributers,num_acts,last_timestamp,url_suffix
 723,Squeaker,2020-11-07 04:10:01-08:00,Announcer,"['Emanuele Berry', 'Mike Giglio', 'Nadia Reiman', 'Stephanie Foo', 'Ira Glass', 'Announcer', 'Ben Calhoun', 'Sean Cole']",6,0 days 01:06:35.990000,723/Squeaker
 724,Personal Recount,2020-11-14 03:10:01-08:00,Ira Glass,"['Emily Flake', 'Lizzie Johnson', 'Jasmine Garsd', 'Ira Glass', 'Johnny Kauffman']",3,0 days 01:01:24.940000,724/Personal-Recount
 725,Turkey in a Face Mask,2020-11-25 23:10:01-08:00,Ira Glass,"['Ben Calhoun', 'Ira Glass', 'Jonathan Goldstein']",3,0 days 01:03:16.360000,725/Turkey-in-a-Face-Mask
-726,Twenty five,2020-12-12 01:10:02-08:00,Ira Glass,"['Noor Gill', 'Mitchell S. Jackson', 'Ira Glass', 'Linah Mohammad', 'Sue Jaye Johnson']",4,0 days 00:58:11.050000,726/Twenty
+726,Twenty five,2020-12-12 01:10:02-08:00,Ira Glass,"['Noor Gill', 'Mitchell S. Jackson', 'Ira Glass', 'Linah Mohammad', 'Sue Jaye Johnson']",4,0 days 00:58:11.050000,726/Twenty-five
 727,Boulder v. Hill,2020-12-19 08:10:02-08:00,Ira Glass,"['Lilly Sullivan', 'Lizzie Johnson', 'Ira Glass', 'David Kestenbaum']",2,0 days 01:05:10.580000,727/Boulder-v-Hill
 728,"Lights, Camera, Christmas!",2020-12-24 08:10:01-08:00,Ira Glass,"['Maya Gurantz', 'Ira Glass']",2,0 days 00:57:55.070000,728/Lights-Camera-Christmas
 729,Making the Cut,2021-01-09 06:10:01-08:00,Ira Glass,"['Lilly Sullivan', 'Elna Baker', 'Katie Mingle', 'Ira Glass']",3,0 days 01:02:17.880000,729/Making-the-Cut
@@ -783,7 +783,7 @@ ep_num,ep_name,pub_date,host,contributers,num_acts,last_timestamp,url_suffix
 785,Through the Looking Glass,2022-11-26 05:10:01-08:00,Ira Glass,"['Valerie Kipnis', 'Torey Malatia', 'Ira Glass', 'Zoe Chace', 'Natalia Contreras', 'Bim Adewunmi']",2,0 days 00:59:18.030000,785/Through-the-Looking-Glass
 786,It's a Game Show!,2022-12-03 06:10:01-08:00,Ira Glass,"['Jiayang Fan', 'Tobin Low', 'Ira Glass', 'George Gray', 'Sean Cole']",3,0 days 01:03:00.270000,786/Its-a-Game-Show
 787,Baby's First Christmas,2022-12-24 03:10:01-08:00,Ira Glass,"['Aviva DeKornfeld', 'Ira Glass', 'Emanuele Berry', 'Scaachi Koul']",4,0 days 00:56:21.680000,787/Babys-First-Christmas
-788,Half baked stories about my dead mom,2023-01-07 03:10:01-08:00,Ira Glass,"['Etgar Keret', 'Ira Glass']",12,0 days 00:59:43.030000,788/Half
+788,Half baked stories about my dead mom,2023-01-07 03:10:01-08:00,Ira Glass,"['Etgar Keret', 'Ira Glass']",12,0 days 00:59:43.030000,788/Half-baked-stories-about-my-dead-mom
 789,The Runaround,2023-01-21 05:10:02-08:00,Ira Glass,"['Brenna Smith', 'Kevin Sieff', 'Ira Glass', 'David Kestenbaum']",3,0 days 01:00:46.300000,789/The-Runaround
 790,You're It,2023-01-28 06:10:01-08:00,Ira Glass,"['Chana Joffe-Walt', 'Megan Tan', 'Ira Glass']",2,0 days 00:57:31.960000,790/Youre-It
 791,Math or Magic?,2023-02-11 06:10:01-08:00,Tobin Low,"['Aviva DeKornfeld', 'Tobin Low', 'Diane Wu']",4,0 days 00:54:21.910000,791/Math-or-Magic
@@ -814,8 +814,8 @@ ep_num,ep_name,pub_date,host,contributers,num_acts,last_timestamp,url_suffix
 816,Poultry Slam,2023-11-24 19:00:59-08:00,Ira Glass,"['Jack Hitt', 'Ira Glass']",3,0 days 00:55:27.210000,816/Poultry-Slam
 817,The Cavalry Is Not Coming,2023-12-01 22:20:00-08:00,Ira Glass,"['Nadia Reiman', 'Nancy Updike', 'Ira Glass']",2,0 days 00:57:06.390000,817/The-Cavalry-Is-Not-Coming
 818,Stand Clear of the Closing Doors,2023-12-16 10:20:08-08:00,Ira Glass,"['Valerie Kipnis', 'Diane Wu', 'Emmanuel Dzotsi', 'Ira Glass', 'Aviva DeKornfeld']",4,0 days 01:15:31.860000,818/Stand-Clear-of-the-Closing-Doors
-819,Special Bonus Podcast — Yousef’s Week,2023-12-21 08:50:14-08:00,Ira Glass,"['Chana Joffe-Walt', 'Ira Glass']",0,0 days 00:40:09.700000,819/Special-Bonus-Podcast-Yousefs-Week
-820,It Wouldn’t Be Make believe if you'd believe in me,2023-12-23 06:00:15-08:00,Ira Glass,"['Ira Glass', 'Zoe Chace']",4,0 days 01:00:00.900000,820/It-Wouldnt-Be-Make
+819,Special Bonus Podcast — Yousef’s Week,2023-12-21 08:50:14-08:00,Ira Glass,"['Chana Joffe-Walt', 'Ira Glass']",0,0 days 00:40:09.700000,819/Yousefs-Week
+820,It Wouldn’t Be Make believe if you'd believe in me,2023-12-23 06:00:15-08:00,Ira Glass,"['Ira Glass', 'Zoe Chace']",4,0 days 01:00:00.900000,820/believe-in-me
 821,Embrace the Suck,2024-01-22 07:40:41-08:00,Ira Glass,"['Boen Wang', 'Ike Sriskandarajah', 'Ira Glass', 'Zoe Chace']",3,0 days 00:56:15.940000,821/Embrace-the-Suck
 822,The Words to Say It,2024-01-28 18:40:36-08:00,Ira Glass,"['Valerie Kipnis', 'Chana Joffe-Walt', 'Ira Glass']",2,0 days 00:55:32.160000,822/The-Words-to-Say-It
 823,The Question Trap,2024-02-03 04:00:44-08:00,Ira Glass,"['Chris Benderev', 'Janelle Taylor', 'Tobin Low', 'Ira Glass']",4,0 days 00:55:12.240000,823/The-Question-Trap
